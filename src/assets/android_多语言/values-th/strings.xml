@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">กรอกรหัสยืนยันของคุณ</string>
+    <string name="enter_your_phone_number">กรอกหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="whats_your_phone_number">กรุณาระบุหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="re_send">ส่งใหม่</string>
+    <string name="name">ชื่อ</string>
+    <string name="email">อีเมล</string>
+    <string name="phone_number">หมายเลขโทรศัพท์</string>
+    <string name="log_out">ล็อกเอาท์</string>
+    <string name="save">บันทึก</string>
+    <string name="user_name">ชื่อผู้ใช้</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="done">เสร็จสิ้น</string>
+    <string name="my_wallet">กระเป๋าเงินของฉัน</string>
+    <string name="enter_the_bike_number">กรอกหมายเลขจักรยาน</string>
+    <string name="detail">รายละเอียด</string>
+    <string name="top_up">เติมเงิน</string>
+    <string name="share_my_ride">แชร์ประสบการณ์ของฉัน</string>
+    <string name="use_bike_unlock_desc">รหัสสำหรับจักรยานหมายเลข %s</string>
+    <string name="my_coupons">คูปองของฉัน</string>
+    <string name="trip_completed">สิ้นสุดทริปแล้ว</string>
+    <string name="trip_to_start_ride">ทริปสำหรับเริ่มการขับขี่!</string>
+    <string name="phone_number_not_in_service">โทรศัพท์ของคุณจะต้องใช้การได้ และคุณจะต้องอยู่ในพื้นที่ที่รับสัญญาณได้ จากนั้นลองใหม่อีกครั้ง</string>
+    <string name="invalid_phone_number">หมายเลขโทรศัพท์ของคุณจะต้องถูกต้อง</string>
+    <string name="default_username">ผู้ขับขี่ ofo</string>
+    <string name="edit">แก้ไข</string>
+    <string name="pricing">การกำหนดราคา</string>
+    <string name="oops">อุปส์!</string>
+    <string name="coupon_uppercase">คูปอง</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">ทริปนี้มีค่าใช้จ่าย</string>
+    <string name="lock_the_bike">ขอบคุณที่ขับขี่ไปกับ ofo\nอย่าลืมล็อคจักรยานด้วย</string>
+    <string name="contact_us">ติดต่อเรา</string>
+    <string name="verifying">กำลังตรวจสอบ...</string>
+    <string name="my_trips">ทริปของฉัน</string>
+    <string name="retry">ลองใหม่</string>
+    <string name="coupons_available">มีคูปอง</string>
+    <string name="user_guide">คู่มือผู้ใช้</string>
+    <string name="about_ofo">เกี่ยวกับ ofo</string>
+    <string name="trip_detail">รายละเอียดทริปการเดินทาง</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">การลดการก่อคาร์บอนโดยประมาณ</string>
+    <string name="verification_completed">ตรวจยืนยันเสร็จสิ้น</string>
+    <string name="invalid_verification_code">รหัสยืนยันไม่ถูกต้อง</string>
+    <string name="log_in_sign_up">ล็อกอิน/สมัคร</string>
+    <string name="login_privacy_hint">ข้อมูลของคุณจะถูกเก็บรักษาไว้อย่างปลอดภัย\nและจะไม่ถูกจัดแสดงหรือเปิดเผยกับบุคคลทั่วไป</string>
+    <string name="about_you">เกี่ยวกับคุณ</string>
+    <string name="username_length_invalid">ขออภัย! ชื่อผู้ใช้ของคุณจะต้องยาว 3-15 ตัวอักษร</string>
+    <string name="username_contain_ofo_invalid">ขออภัย ชื่อผู้ใช้ที่มี \”ofo\” และ \”admin\” ไม่สามารถใช้ได้</string>
+    <string name="email_invalid">กรุณากรอกอีเมลแอดเดรสที่ถูกต้อง</string>
+    <string name="username_contain_emoji_invalid">ขออภัย! ชื่อผู้ใช้ของคุณมีได้เฉพาะตัวอักษรและตัวเลข ยกเว้นเส้นใต้</string>
+    <string name="riding">การขับขี่</string>
+    <string name="payment">การชำระเงิน</string>
+    <string name="new_guide_tip">คุณได้รับคูปองจากเรา! \nภายในระยะเวลาที่กำหนด ofo ขอเสนอคูปองฟรีสำหรับทุกทริปการเดินทางที่เสร็จสิ้น</string>
+    <string name="new_guide_step_one_tip">กรอกหมายเลขจักรยานที่คุณต้องการใช้</string>
+    <string name="new_guide_step_two_tip">รับรหัสล็อคจักรยาน</string>
+    <string name="new_guide_show_code_tip">ใช้รหัสเพื่อปลดล็อคจักรยาน</string>
+    <string name="got_it">รับทราบ</string>
+    <string name="trip_no_data">คุณไม่มีประวัติทริปเดินทาง เริ่มขับขี่ตอนนี้!</string>
+    <string name="repair_title">คุณมีปัญหาอะไรกับจักรยานคันนี้</string>
+    <string name="need_repair">ต้องซ่อมแซม</string>
+    <string name="report_the_problem">แจ้งปัญหา</string>
+    <string name="get_another_bike">ขอรับจักรยานอื่น</string>
+    <string name="report_error_msg">กรุณาเลือกสาเหตุที่แจ้งเหตุนี้</string>
+    <string name="ok">ตกลง</string>
+    <string name="turn_on_the_lights">เปิดไฟ</string>
+    <string name="Quit">ออก</string>
+    <string name="use_the_bike">ใช้จักรยาน</string>
+    <string name="turn_light_content">เพื่อความปลอดภัย กรุณาเปิดไฟด้านหน้าและด้านหลังก่อนใช้จักรยานนี้ หากไฟไม่ทำงาน กรุณาแจ้งปัญหาและใช้จักรยานอื่น</string>
+    <string name="safety_content">เพื่อความปลอดภัยของคุณ และความปลอดภัยของผู้ขับขี่รายอื่น กรุณาปฏิบัติตามกฎหมายและกฎจราจรด้านการขับขี่ทั้งหมด</string>
+    <string name="is_delete_credit_card">ลบบัตรนี้หรือไม่</string>
+    <string name="delete_credit_card_content">แน่ใจว่าต้องการลบบัตรนี้หรือไม่</string>
+    <string name="not_now">ไม่ตอนนี้</string>
+    <string name="yes">ใช่</string>
+    <string name="delete_only_credit_card">แน่ใจว่าต้องการลบบัตรนี้หรือไม่ นี่เป็นวิธีชำระเงินวิธีเดียวของคุณในปัจจุบัน</string>
+    <string name="maximum_payment">คุณสามารถกำหนดวิธีการชำระเงินได้สูงสุดห้าช่องทางเท่านั้น กรุณาลบวิธีการชำระเงินก่อนเพิ่มช่องทางใหม่</string>
+    <string name="payment_methods">วิธีการชำระเงิน</string>
+    <string name="change_default_payment_method">แน่ใจว่าต้องการแก้ไขวิธีการชำระเงินเริ่มต้นของคุณหรือไม่</string>
+    <string name="please_enter_your_name">กรุณากรอกชื่อของคุณ</string>
+    <string name="please_enter_the_correct_expire_date">กรุณากรอกวันหมดอายุที่ถูกต้อง</string>
+    <string name="card_number">เลขบัตร</string>
+    <string name="log_out_from_paypal">ออกจากบัญชี PayPal ของคุณหรือไม่</string>
+    <string name="sign_out_paypal_content">แน่ใจว่าต้องการออกจาก PayPal หรือไม่ นี่เป็นวิธีการชำระเงินช่องทางเดียวในปัจจุบันของคุณ</string>
+    <string name="sign_out">ออกจากระบบ</string>
+    <string name="holder_name">ชื่อเจ้าของบัตร</string>
+    <string name="credit_or_debit_card">บัตรเครดิตหรือเดบิต</string>
+    <string name="report_success">ขอบคุณที่แจ้งข้อมูล\nกรุณาล็อคจักรยานให้ปลอดภัย เราจะดูแลที่เหลือต่อเอง</string>
+    <!--dialog-->
+    <string name="not_supported_area">ขออภัย ofo เวอร์ชั่นนี้ไม่รองรับในพื้นที่ของคุณ</string>
+    <string name="add_payment_method">เพิ่มวิธีการชำระเงิน</string>
+    <string name="get_verification_code">รับรหัสยืนยัน</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">หมายเลขจักรยานนี้ไม่มีอยู่\nกรุณาตรวจสอบและกรอกหมายเลขจักรยานที่ถูกต้องอีกครั้ง</string>
+    <string name="check_the_number">ตรวจสอบหมายเลขดังกล่าว</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="friendly_reminder">ประกาศแจ้ง</string>
+    <string name="update">อัพเดต</string>
+    <string name="have_new_version">เวอร์ชั่นใหม่</string>
+    <string name="ofo_has_no_camera_privilege">ofo ไม่มีสิทธิ์อนุญาตสำหรับใช้กล้อง \nกรุณาให้ิสิทธิ์อนุญาตในการใช้กล้องจากค่าปรับตั้งในระบบของคุณ</string>
+    <string name="ofo_has_no_location_privilege">ofo ไม่มีสิทธิ์อนุญาตสำหรับสืบค้นตำแหน่ง \nกรุณาให้ิสิทธิ์อนุญาตในการสืบค้นตำแหน่งจากค่าปรับตั้งในระบบของคุณ</string>
+    <string name="ofo_has_no_phone_status_privilege">ofo ไม่มีสิทธิ์อนุญาตสำหรับอ่านสถานะโทรศัพท์ของคุณ กรุณาให้ิสิทธิ์อนุญาตในการอ่านสถานะโทรศัพท์จากค่าปรับตั้งในระบบของคุณ</string>
+    <string name="please_enable_manually">กรุณาเปิดระบบ GPS ของคุณเพื่อขับขี่จักรยาน ofo ของคุณ</string>
+    <string name="geoposition_not_allowed">ไม่สามารถสืบค้นตำแหน่งได้ กรุณาให้อนุญาตแก่แอพ ofo ในการสืบค้นข้อมูลตำแหน่งของคุณ</string>
+    <string name="cycling_trip_in_progress">กำลังมีทริปขี่จักรยาน</string>
+    <string name="map_loading_failed">โหลดแผนที่ล้มเหลว กรุณาลองใหม่อีกครั้ง</string>
+    <string name="unable_to_get_your_location">ไม่สามารถสืบค้นตำแหน่งของคุณ กรุณาตรวจสอบสิทธิ์อนุญาตการใช้แผนที่ว่าได้รับอนุญาตอยู่ และลองใหม่อีกครั้ง</string>
+    <string name="exit_text">ทันทีเมื่อออก</string>
+    <string name="code_success">คำขอของคุณได้รับไว้แล้ว กรุณารอสักครู่</string>
+    <string name="image_process_failed">การถอดรหัสภาพล้มเหลว</string>
+    <string name="cannot_create_image_file">ไม่สามารถจัดทำไฟล์ภาพได้</string>
+    <string name="submit">ส่ง</string>
+    <string name="close_lock_text">กรุณาจอดจักรยานในพื้นที่ที่ถูกต้อง เพื่อให้ผู้ใช้สามารถเข้าถึง เช่น ในพื้นที่จอดจักรยานหรือรางจอดจักรยาน</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">ขออภัย เราไม่สามารถประมวลผลคำขอของคุณในตอนนี้ กรุณาลองใหม่อีกครั้ง</string>
+    <string name="api_error_net_timeout">ข้อผิดพลาดเครือข่าย กรุณาตรวจสอบเครือข่ายของคุณและลองใหม่อีกครั้ง</string>
+    <string name="api_error_not_logged_in">กรุณาล็อกอิน</string>
+    <string name="input_card_number">กรุณากรอกหมายเลขบัตรของคุณ</string>
+    <string name="input_card_expire_date">กรุณากรอกวันหมดอายุบัตรของคุณ</string>
+    <string name="input_correct_card_number">กรุณากรอกหมายเลขบัตรที่ถูกต้อง</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">ฉันได้อ่านและยอมรับนโยบายของ ofo แล้ว</string>
+    <string name="login_success_tip">ออกถนนกันได้เลย!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>ฉันไม่ได้รับรหัสยืนยัน</u>]]></Data></string>
+    <string name="hit_the_road">ออกถนนกันได้เลย</string>
+    <string name="contact_us_desc">กรุณาให้ข้อเสนอแนะกับเราในการปรับปรุงบริการ เราจะตรวจสอบข้อความของคุณและติดต่อกลับไป</string>
+    <string name="repair_tip">เราจะพิจารณาเหตุที่คุณแจ้งและทำการตรวจสอบจักรยานดังกล่าว</string>
+    <string name="sign_out_only_paypal_payment">แน่ใจว่าต้องการออกจาก PayPal (%1$s) หรือไม่</string>
+    <string name="set_new_card_to_default">ต้องการตั้งค่าบัตรนี้ (%1$s) เป็นช่องทางชำระเงินเริ่มต้นของคุณหรือไม่</string>
+    <string name="coupon_expire_time">คูปองนี้สามารถใช้ได้ทุกเมื่อก่อน*</string>
+    <string name="coupon_tip">คุณได้รับ<Data><![CDATA[<font color="#000000"><b> *คูปอง</b></font>]]></Data>สำหรับทริปถัดไปของคุณ!</string>
+    <string name="fee">ค่าธรรมเนียม (%1$s)</string>
+    <string name="balance">ยอดคงเหลือ (%1$s)</string>
+    <string name="your_phone_number">หมายเลขโทรศัพท์ของคุณคือ $</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">เวลาขับขี่</string>
+    <string name="trip_not_end">ทริปไม่เสร็จสมบูรณ์หรือไม่</string>
+    <string name="ridding_tip">ล็อคจักรยาน จากนั้นทริปเดินทางจะเสร็จสมบูรณ์ภายใน 1 นาที</string>
+    <string name="confirm_and_pay">ยืนยันและชำระเงิน</string>
+    <string name="paypal_account">บัญชี PayPal</string>
+    <string name="pay_now">ชำระเงินตอนนี้</string>
+    <string name="my_deposit">เงินมัดจำของฉัน</string>
+    <string name="refund">คืนเงิน</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">สแกน</string>
+    <string name="scan_qr_help">ความช่วยเหลือ</string>
+    <string name="scan_qr_prompt">สแกนรหัส QR</string>
+    <string name="turn_on">เปิด</string>
+    <string name="scan_qr_manually_number">หมายเลขจักรยาน</string>
+    <string name="scan_qr_help_prompt">สแกนรหัส QR ที่ล็อคเพื่อปลดล็อคจักรยาน</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">กำลังปลดล็อคจักรยาน...</string>
+    <string name="bluetooth_failed">ไม่สามารถปลดล็อคจักรยานผ่าน Bluetooth กรุณาปลดล็อคโดยใช้รหัสนี้</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">นโยบายความปลอดภัยของ ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">คุณต้องการขอคืนเงินมัดจำหรือไม่</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="add_credit_or_debit_card">เพิ่มบัตรเครดิตหรือเดบิต</string>
+    <string name="refund_deposit">คืนเงินมัดจำ</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="confirm_locked">กรุณาตรวจสอบว่าล็อคจักรยานแล้วอย่างปลอดภัย</string>
+    <string name="default_payment_method">วิธีการชำระเงินเริ่มต้น</string>
+    <string name="payment_successful">ชำระเงินเสร็จสิ้น</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">ดด/ปป</string>
+    <string name="unlock">ปลดล็อค</string>
+    <string name="back_to_homepage">กลับไปที่หน้าหลัก</string>
+    <string name="expires_on">หมดอายุเมื่อ %s</string>
+    <string name="delete_this_card">ลบบัตรนี้</string>
+    <string name="choose_photo">เลือกภาพ</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">คัดลอกเสร็จสิ้น</string>
+    <string name="calling_codes">รหัสโทรติดต่อ</string>
+    <string name="promotions">โปรโมชั่น</string>
+    <string name="inbox">กล่องจดหมาย</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">วัน หมดอายุ</string>
+    <string name="card_exp_desc">วันหมดอายุสำหรับบัตรของคุณอยู่ที่ด้านหน้าบัตรใต้หมายเลขบัตรเครดิตของคุณ</string>
+    <string name="cid_desc">หมายเลขบัตรเครดิตของคุณเป็นชุดตัวเลขที่ด้านหน้าบัตรของคุณ</string>
+    <string name="cvv_cvc_desc">CVC ของคุณเป็นรหัสสามตัวด้านหลังของบัตร</string>
+    <string name="walking">กำลังเดิน</string>
+    <string name="away">ไม่อยู่</string>
+    <string name="evaluated_on">ประเมินเมื่อ</string>
+    <string name="credit_record">ประวัติเครดิต</string>
+    <string name="rules">หลักเกณฑ์</string>
+    <string name="loading">กำลังโหลด...</string>
+    <string name="location_error">จะต้องให้อนุญาตการระบุตำแหน่งสำหรับ ofo</string>
+    <string name="report_broken_bike">จักรยานเสีย</string>
+    <string name="report_unauthorized_lock">จักรยานที่ใช้ล็อคที่ไม่ได้รับอนุญาต</string>
+    <string name="report_no_available_bike">ไม่มีจักรยานให้บริการ</string>
+    <string name="report_illegal_parking">จอดรถผิดกฎหมาย</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">ตกลง</string>
+    <string name="scan_qr_failed">สแกนล้มเหลว กรุณากรอกหมายเลขจักรยาน</string>
+    <string name="scan_qr_no_net">คุณจะต้องเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="scan_qr_time_out">สแกนล้มเหลว กรุณากรอกหมายเลขจักรยาน</string>
+    <string name="scan_qr_mechanical_input">จักรยานนี้มีกุญแจล็อคอยู่แล้ว กรุณากรอกรหัสด้วยตัวเอง</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">อุ้ย</string>
+    <string name="ble_unlock_get_pwd">ขอรับรหัส</string>
+    <string name="use_bike_pwd_help_title">ความช่วยเหลือ</string>
+    <string name="no_data">ไม่มีข้อมูล</string>
+    <string name="no_coupons">ไม่มีคูปอง</string>
+    <string name="no_activities">ไม่มีกิจกรรมตอนนี้</string>
+    <string name="parsing_error">ข้อผิดพลาดการแบ่งข้อมูล</string>
+    <string name="home_unlock">ปลดล็อค</string>
+    <string name="pricing_instruction">ภายในระยะเวลาที่กำหนด ofo ขอเสนอคูปองมูลค่า <Data><![CDATA[<font color="#000000"><b>%1$s</b></font>]]></Data> สำหรับทุกทริปการเดินทางที่เสร็จสิ้น</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">ระยะทาง (%1$s)</string>
+    <string name="duration">ระยะเวลา (%1$s)</string>
+    <string name="carbon">คาร์บอน (%1$s)</string>
+    <string name="current_costs">ค่าใช้จ่ายสำหรับทริป : <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">มัดจำ (%1$s)</string>
+    <string name="bike_no">เลขจักรยาน</string>
+    <string name="price_amount">ราคา</string>
+    <!--用车费用-->
+    <string name="coupon_amount">คูปอง</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/ชั่วโมง ค่าบริการสูงสุด %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">กรุณาตรวจสอบจักรยานก่อนใช้ หากมีปัญหาคุณสามารถแจ้งให้เราทราบ<Data><![CDATA[<u><font color="#007AFF">ที่นี่</font></u>]]></Data>ภายใน 2 นาที</string>
+    <string name="my_credit_value">เครดิตของฉัน: %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">เอกสารรับรอง ssl ไม่ถูกต้อง</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">เพิ่มและชำระเงิน</string>
+    <string name="no">ไม่</string>
+    <string name="load_web_page_fail">ไม่สามารถโหลดหน้าเว็บได้</string>
+    <string name="share_cancelled">คุณยกเลิกคำสั่งแล้ว</string>
+    <string name="no_facebook_account">ไม่มีบัญชี Facebook</string>
+    <string name="facebook_setting">ไม่มีบัญชี Facebook ที่ลงทะเบียนไว้ คุณสามารถเพิ่มหรือสร้างบัญชีผู้ใช้ Facebook โดยไปที่ ค่าปรับตั้ง</string>
+    <string name="no_twitter_account">ไม่มีบัญชี Twitter</string>
+    <string name="twitter_setting">ไม่มีบัญชี Twitter ที่ลงทะเบียนไว้ คุณสามารถเพิ่มหรือสร้างบัญชีผู้ใช้ Twitter โดยไปที่ ค่าปรับตั้ง</string>
+    <string name="confirm_turnon_bluetooth">กรุณาเปิดใช้งาน Bluetooth</string>
+    <string name="unlock_with_bluetooth">ปลดล็อคผ่าน Bluetooth</string>
+    <string name="server_error">ขณะนี้ระบบขัดข้องและอยู่ระหว่างการแก้ไข กรุณาลองใหม่อีกครั้งในภายหลังค่ะ</string>
+    <string name="camera_access_denied">กรุณาให้อนุญาตการใช้งานกล้องสำหรับ ofo คุณสามารถตรวจสอบได้โดยไปที่ \”ค่าปรับตั้ง -> ความเป็นส่วนตัว -> กล้อง\”</string>
+    <string name="settings">ค่าปรับตั้ง</string>
+    <string name="pricing_tap_to_retry">เกิดข้อยกเว้นเครือข่ายขึ้น กดเพื่อลองใหม่</string>
+    <string name="photo_access_denied">กรุณาให้อนุญาตการใช้ภาพถ่ายสำหรับ ofo คุณสามารถตรวจสอบได้โดยไปที่ \”ค่าปรับตั้ง -> ความเป็นส่วนตัว -> ภาพถ่าย\”</string>
+    <!-- 通用 -->
+    <string name="invite_friends">เชิญเพื่อน</string>
+    <string name="your_invitation_code">รหัสเชิญของคุณ</string>
+    <string name="share_invitation_code_content">ดาวน์โหลด ofo กรอกรหัสโปรโมชั่น จากนั้นขี่จักรยานได้ฟรี</string>
+    <string name="ride_illegal_parking">ขออภัย คุณไม่สามารถเดินทางได้จบทริป กรุณาจอดจักรยานในที่ที่ได้รับอนุญาต จากนั้นกด \’สิ้นสุดทริปแล้ว\’</string>
+    <string name="tab_reason">กดเลือกสาเหตุของคุณที่นี่</string>
+    <string name="next">ถัดไป</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">ไม่มีคูปอง</string>
+    <string name="deposit_description">คุณสามารถขอคืนเงินมัดจำได้ทุกเมื่อ</string>
+    <string name="deposit_refund_success">ส่งคำขอคืนเงินแล้ว โดยปกติจะใช้เวลา 2-15 วันทำการเพื่อคืนยอด</string>
+    <string name="bind_card_prompt">ก่อนเริ่มขับขี่ กรุณาเพิ่มวิธีการชำระเงิน (บัตรเครดิต/เดบิต) ไปยังบัญชีของคุณ - ภายใต้ข้อกำหนดและเงื่อนไข</string>
+    <string name="bike_parking_area">พื้นที่จอดจักรยาน</string>
+    <string name="continue_common">ดำเนินการต่อ</string>
+    <string name="repair_a_broken_bike">แจ้งจักรยานเสีย</string>
+    <string name="tips_repair_take_photo">กรุณาถ่ายภาพชิ้นส่วนจักรยานที่เสียหาย</string>
+    <string name="brake">เบรก</string>
+    <string name="not_show_again">ไม่ต้องแสดงอีก</string>
+    <string name="legal_area">พื้นที่ที่อนุญาต</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">แคลอ(%1$s)</string>
+    <string name="gender">เพศ</string>
+    <string name="birthday">วันเกิด</string>
+    <string name="male">ชาย</string>
+    <string name="female">หญิง</string>
+    <string name="please_select_the_broken_bike_part">กรุณาเลือกชิ้นส่วนของจักรยานที่เสียหาย</string>
+    <!--ios专用-->
+    <string name="here">ที่นี่</string>
+    <string name="privacy_camera_usage_description">ofo ต้องใช้กล้องของคุณเพื่อให้การใช้งานของผู้ใช้น่าประทับใจมากที่สุด!</string>
+    <string name="privacy_photo_library_usage_description">ofo ต้องใช้ไลบรารี่ภาพของคุณ</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">เชิญเพื่อนให้ใช้ ofo พร้อมรับสิทธิ์ขี่ฟรีสำหรับคุณทั้งสองคน!</string>
+    <string name="my_credit">เครดิตของฉัน</string>
+    <string name="reservation">การจอง</string>
+    <string name="reserve_title">คุณสามารถจองจักรยานได้เป็นเวลา 15 นาที</string>
+    <string name="reserve_content">คุณสามารถจองหรือใช้จักรยานได้ครั้งละหนึ่งคันเท่านั้น</string>
+    <string name="make_reserve">ทำการจอง</string>
+    <string name="make_another_reserve">ทำรายการจองอื่น</string>
+    <string name="use_now">ใช้ตอนนี้</string>
+    <string name="reserve_expired_prompt">การจองจะหมดอายุภายใน</string>
+    <string name="scanning">กำลังสแกน</string>
+    <string name="bike_number">หมายเลขจักรยาน</string>
+    <string name="reserve">จอง</string>
+    <string name="cancel_failed">ยกเลิกล้มเหลว</string>
+    <string name="payment_failed">การชำระเงินล้มเหลว</string>
+    <string name="payment_canceled">การชำระเงินถูกยกเลิก</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">การจองก่อนหน้าหมดอายุเมื่อ</string>
+    <string name="log_in">ล็อกอิน</string>
+    <string name="sign_up">สมัคร</string>
+    <string name="enter_your_mobile_number">กรอกหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="welcome_back">ยินดีต้อนรับอีกครั้ง</string>
+    <string name="invalid_mobile_number">หมายเลขโทรศัพท์นี้ไม่ถูกต้อง</string>
+    <string name="select_country">เลือกประเทศ</string>
+    <string name="search_for_country">ค้นหาประเทศ</string>
+    <string name="current_location">ตำแหน่งปัจจุบัน</string>
+    <string name="verify_mobile">ยืนยันหมายเลขโทรศัพท์</string>
+    <string name="verify_mobile_prompt">กรอกรหัสยืนยันที่ส่งให้กับคุณที่ %1$s</string>
+    <string name="send_again">ส่งใหม่</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">กรุณากรอกอีเมลของคุณ</string>
+    <string name="email_spell_error">กรุณาตรวจสอบอีเมลของคุณ</string>
+    <string name="email_sensitive_error">กรุณาสมัครโดยใช้อีเมลส่วนตัวของคุณ</string>
+    <string name="email_label_text">อีเมลแอดเดรส</string>
+    <string name="mobile_label_text">โทรศัพท์มือถือ</string>
+    <string name="sign_up_email_hint_text">name@example.com</string>
+    <string name="sign_up_policy_text">หากมีการดำเนินการต่อ ข้าพเจ้าขอรับรองว่าตนเองได้อ่านและทำความเข้าใจ<Data><![CDATA[<font color="#007AFF"><b>นโยบายของ ofo</b></font>]]></Data> เรียบร้อยแล้ว</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">กดที่นี่เพื่อเริ่มต้น</string>
+    <string name="guide_text_about_find_bike">ค้นหาจักรยานใกล้ ๆ</string>
+    <string name="skip">ข้าม</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">อย่าลืมล็อคจักรยาน</string>
+    <string name="repair_guide_prompt">จักรยานใช้ไมได้</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">เนื่องจากไม่มี Google Play และ Google Maps บริการระบุตำแหน่งจาก Google จึงไม่สามารถรองรับการใช้งานกับ ofo ได้ กรุณาติดตั้งแอพทั้งสองตัวและลองใหม่อีกครั้ง</string>
+    <!--通用-->
+    <string name="get_the_lock_code">รับรหัสเพื่อปลดล็อค</string>
+    <string name="change_default_method">ยืนยันการเปลี่ยนแปลงการชำระเงินหรือไม่</string>
+    <string name="please_enter_your_card_cvv">กรุณากรอก CVV บัตรของคุณ</string>
+    <string name="take_photo">ถ่ายภาพ</string>
+    <string name="refund_tip">กรุณาเลือกสาเหตุที่คุณแจ้งขอคืนเงินมัดจำ</string>
+    <string name="none_of_these_above">ไม่ใช่ข้อใดข้างต้น</string>
+    <string name="cancel_success">ยกเลิกเสร็จสิ้น</string>
+    <string name="scan_qr_reserve_help">สแกนรหัส QR ที่ล็อคเพื่อจองจักรยาน</string>
+    <string name="verify_code_help">กรุณาตรวจสอบเครือข่ายของคุณและลองใหม่อีกครั้ง</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">รับรหัสปลดล็อค</string>
+    <string name="camera_privacy_title">อนุญาตให้ ofo ใช้งานกล้องของคุณ</string>
+    <string name="privacy_location_always_usage_description">ofo ต้องการสิทธิ์ในการะบุตำแหน่งเพื่อบันทึกเส้นทางขี่จักรยานของคุณ</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">ofo ต้องเปิด Bluetooth เพื่อปลดล็อคจักรยานให้รวดเร็วยิ่งขึ้น</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk">หากมีการดำเนินการต่อ ข้าพเจ้ายืนยันว่าตนเองมีอายุไม่ต่ำกว่า 16 ปี และขอรับรองว่าตนเองได้อ่านและทำความเข้าใจ<Data><![CDATA[<font color="#007AFF"><b>นโยบายของ ofo</b></font>]]></Data> เรียบร้อยแล้ว</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">แน่ใจว่าต้องการลบหรือไม่</string>
+    <string name="delete">ลบ</string>
+    <string name="time_walking">%1$s กำลังเดิน</string>
+    <string name="distance_away">%1$s ไม่อยู่</string>
+    <string name="turn_off">ปิดการทำงาน</string>
+    <string name="credit_score">คะแนนเครดิต: %1$s</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">ตำแหน่งจักรยาน</string>
+    <string name="repair_input_hint_text">ฟิลด์บังคับ</string>
+    <string name="repair_input_bike_part_text">รายละเอียดเพิ่มเติมเกี่ยวกับชิ้นส่วนที่เสียหาย</string>
+    <string name="repair_discription_more_than_count">คุณไม่สามารถกรอกได้เกิน 140 ตัวอักษร</string>
+    <string name="illegal_parking_title">จอดรถผิดกฎหมาย</string>
+    <string name="unauthorizedlock_title">จักรยานที่ใช้ล็อคที่ไม่ได้รับอนุญาต</string>
+    <string name="part_helmet">หมวกนิรภัย</string>
+    <string name="part_plate">เพลท</string>
+    <string name="part_tire">ยาง</string>
+    <string name="part_others">อื่น ๆ</string>
+    <string name="part_seat">อานนั่ง</string>
+    <string name="part_lock">ล็อค</string>
+    <string name="part_chain">ราวโซ่</string>
+    <string name="part_pedal">แป้นเหยียบ</string>
+    <string name="invalid_card_number">หมายเลขบัตรไม่ถูกต้อง กรุณากรอกหมายเลขที่ถูกต้องและลองใหม่อีกครั้ง</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">ได้รับรายงานแล้ว</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">ให้คะแนนการเดินทางครั้งนี้</string>
+    <string name="rate_one_comment">ผิดหวังสุดๆ</string>
+    <string name="rate_two_comment">ไม่ค่อยดี</string>
+    <string name="rate_three_comment">ต้องปรับปรุง</string>
+    <string name="rate_four_comment">พึงพอใจ</string>
+    <string name="rate_five_comment">ยอดเยี่ยม!</string>
+    <string name="feedback_title">คำติชม</string>
+    <string name="feedback_p">การใช้งาน ofo ของคุณมีอะไรผิดพลาดบ้าง?</string>
+    <string name="feedback_comment_hint">ความคิดเห็นเพิ่มเติมเกี่ยวกับการเดินทางครั้งนี้</string>
+    <string name="feedback_ok_tips">ขอบคุณสำหรับคำติชมของคุณ เราจะปรับปรุงบริการของเราโดยเร็ว</string>
+    <string name="unlock_notification">ดันล็อกเพื่อสิ้นสุดการเดินทางของคุณ</string>
+    <string name="login_home_discription">ปลดล็อกทั่วทุกมุมโลก</string>
+    <string name="enjoy_ofo">ชอบใช้ ofo ไหม?</string>
+    <string name="gp_guide_content">เราต้องการการสนับสนุนจากคุณใน App Store เขียนรีวิวในแง่บวกให้เราหน่อยได้ไหม?</string>
+    <string name="go_gp">ไป</string>
+    <string name="turn_on_bt">เปิดบลูทูธเพื่อปลดล็อกเร็วขึ้น</string>
+    <string name="uninstall_google_play">ไม่พบ Google Play ในโทรศัพท์ของคุณ กรุณาลองอีกครั้งหลังจากติดตั้ง Google Play</string>
+    <string name="uninstall_facebook">ไม่พบ Facebook ในโทรศัพท์ของคุณ กรุณาลองอีกครั้งหลังจากติดตั้ง Facebook</string>
+    <string name="uninstall_twitter">ไม่พบ Twitter ในโทรศัพท์ของคุณ กรุณาลองอีกครั้งหลังจากติดตั้ง Twitter</string>
+    <!--支付相关-->
+    <string name="bind_failed">การผูกล้มเหลว กรุณาตรวจสอบข้อมูลของคุณ!</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">พื้นที่จอดที่แนะนำ</string>
+    <string name="recommend_parking_spot_iw_title">จุดจอดที่แนะนำ</string>
+    <string name="fence_area_no_reward">เราขอแนะนำให้จอดในบริเวณนี้</string>
+    <string name="fence_spot_no_reward">เราขอแนะนำให้จอดใกล้กับจุดนี้</string>
+    <string name="fence_area_credit_reward">เมื่อจอดในบริเวณนี้ คุณจะได้รับโบนัส <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="fence_area_credit_and_coupon_reward">เมื่อจอดในบริเวณนี้ คุณจะได้รับโบนัส<Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> และ <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="fence_spot_credit_reward">เมื่อจอดใกล้กับจุดนี้ คุณจะได้รับโบนัส <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="fence_spot_credit_and_coupon_reward">เมื่อจอดใกล้กับจุดนี้ คุณจะได้รับโบนัส <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> และ <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="parking_reward_credit_point">แต้มเครดิต</string>
+    <string name="parking_reward_credit_points">แต้มเครดิต</string>
+    <string name="parking_reward_coupon">คูปอง</string>
+    <string name="parking_reward_coupons">คูปอง</string>
+    <string name="blue_area_comment">พื้นที่สีฟ้า</string>
+    <string name="price_free">ฟรี</string>
+    <string name="price_free_time">ขับขี่ฟรี</string>
+    <string name="price_cost_30mins_time">ต่อ 30 นาที</string>
+    <string name="price_cost_1h_time">ต่อ 1 ชั่วโมง</string>
+    <string name="distance_txt">ระยะทาง</string>
+    <string name="price_banner_time_txt">เวลาโดยประมาณ</string>
+    <string name="safe_prompt">ป้องกันความปลอดภัย</string>
+    <string name="add">เพิ่ม</string>
+    <string name="del_payment_fail">ขออภัย! ลบบัตรใบนี้ไม่สำเร็จ กรุณาลองใหม่ในภายหลัง</string>
+    <string name="balance_account">ยอดคงเหลือ</string>
+    <string name="pay_another_card">ชำระด้วยบัตรใบอื่น</string>
+    <string name="map_route_error">การบอกทิศทางใช้งานไม่ได้</string>
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">ความยาวของ CVC ไม่ถูกต้อง กรุณากรอกใหม่อีกครั้ง</string>
+    <string name="card_not_support">เรายังไม่รองรับบัตรชนิดนี้ในขณะนี้ กรุณาติดต่อฝ่ายบริการลูกค้าของเรา</string>
+    <string name="more_detail_input_hint">รายละเอียดเพิ่มเติม</string>
+    <string name="need_addcard_dialog_title">ขั้นตอนสุดท้าย</string>
+    <string name="need_addcard_dialog_message">เพิ่มบัตรเครดิตหรือเดบิตไปยังบัญชีของคุณเพื่อสนุกกับจักรยาน ofo</string>
+    <string name="go_to_bind_card">ไป</string>
+    <string name="sign_up_policy_text_contain_years">หากมีการดำเนินการต่อ ข้าพเจ้าขอยืนยันว่าตนเองมีอายุไม่ต่ำกว่า %1$s ปี และได้อ่านและยอมรับใน<Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>ofo Policy</b></a></font>]]></Data>เรียบร้อยแล้ว</string>
+    <string name="sign_up_two_policy_text_contain_years">หากมีการดำเนินการต่อ ข้าพเจ้าขอยืนยันว่าตนเองมีอายุไม่ต่ำกว่า %1$s ปี และได้อ่านและยอมรับใน<Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Privacy Policy</b></a></font>]]></Data> และ <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>Terms of Use</b></a></font>]]></Data>เรียบร้อยแล้ว</string>
+    <string name="sign_up_two_policy_text">หากมีการดำเนินการต่อ ข้าพเจ้าขอยืนยันว่าได้อ่านและยอมรับใน<Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Privacy Policy</b></a></font>]]></Data> และ <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Terms of Use</b></a></font>]]></Data>เรียบร้อยแล้ว</string>
+    <string name="sign_up_one_policy_text">หากมีการดำเนินการต่อ ข้าพเจ้าขอยืนยันว่าได้อ่านและยอมรับใน<Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>ofo Policy</b></a></font>]]></Data>เรียบร้อยแล้ว</string>
+
+    <!--2.0-->
+    <string name="trip_detail_numb">จักรยาน เลขที่ %1$s · ค่าธรรมเนียม %2$s</string>
+    <string name="dialog_error_msg">มีบางอย่างไม่ถูกต้อง...</string>
+    <string name="success">สำเร็จ</string>
+    <string name="top_up_success">เติมเงินสำเร็จ ยอดคงเหลือของคุณคือ %s</string>
+    <string name="deposit_success">มัดจำสำเร็จ สนุกกับการขับขี่ของคุณได้เลย!</string>
+    <string name="available">ใช้งานได้</string>
+    <string name="unavailable">ใช้งานไม่ได้</string>
+    <string name="settings_title">ตั้งค่า</string>
+    <string name="settings_payment_methods">วิธีการชำระเงิน</string>
+    <string name="about_ofo_intro">ofo คือแพลทฟอร์มจักรยานแบบใช้ร่วมกันได้ทั่วโลก เราหวังจะให้การเดินทางระยะสั้นเป็นเรื่องสะดวกและเป็นมิตรต่อสิ่งแวดล้อม ใช้รถให้น้อยลงแล้วปั่นให้มากขึ้น!</string>
+    <string name="about_current_version">เวอร์ชันปัจจุบัน</string>
+    <string name="about_contact_us">ติดต่อเรา</string>
+    <string name="about_call_us">ติดต่อเรา (บริการตลอดเวลา)</string>
+    <string name="about_ofo_title">เกี่ยวกับ ofo</string>
+    <string name="promotion_hint">รหัสโปรโมชัน</string>
+    <string name="promotions_title">โปรโมชัน</string>
+    <string name="promotion_apply_btn">ปรับใช้</string>
+    <string name="trip_list_header_tips">ระยะทางรวม (%1$s)/ครั้ง</string>
+    <string name="consumption">ใช้ไป</string>
+    <string name="about_rights_text">สงวนลิขสิทธิ์สำหรับ ofo 2018</string>
+    <string name="promotion_apply_success">ปรับใช้สำเร็จแล้ว</string>
+    <string name="no_next_page_data">นี่คือหน้าสุดท้าย ไม่มีข้อมูล!</string>
+    <string name="trips_end_coupon_discount">คุณประหยัดได้ %1$s!</string>
+    <string name="questions_about_the_cost">มีคำถามเรื่องค่าใช้จ่าย?</string>
+    <string name="rate_this_trip">ให้คะแนนการเดินทางนี้</string>
+    <string name="rate_questions">จักรยานเสียหายหรือไม่?</string>
+    <string name="share_the_ride">แชร์การปั่นนี้</string>
+    <string name="need_bind_card_text">เพื่อความสะดวกในการชำระเงิน คุณต้องผูกวิธีชำระเงินในการเดินทางครั้งต่อไป</string>
+    <string name="contact_us_email">อีเมล: %1$s</string>
+    <string name="contact_us_phone">ติดต่อเรา: %1$s</string>
+    <string name="contact_us_title">ติดต่อเรา</string>
+    <string name="contact_us_message">กรุณาให้ข้อเสนอแนะกับเราในการปรับปรุงบริการ เราจะติดต่อกลับไป!</string>
+    <string name="request_failed">คำขอล้มเหลว</string>
+    <string name="login_enter_mail_tips">ล็อกอินด้วยหมายเลขโทรศัพท์</string>
+    <string name="signup_enter_mail_tips">สมัครด้วยอีเมลและหมายเลขโทรศัพท์</string>
+    <string name="login_email_hint">name@example.com</string>
+    <string name="sign_up_txt">สมัคร</string>
+    <string name="login_in_txt">ล็อกอิน</string>
+    <string name="login_verifycode_format_str">กรอกรหัสยืนยันที่ส่งให้กับคุณที่ <Data><![CDATA[<b>%1$s</b>]]></Data></string>
+    <string name="verifycode_send_again">ส่งอีกครั้งใน %1$ss</string>
+    <string name="send_again_verifycode">ส่งอีกครั้ง</string>
+    <string name="mobile_invalid">กรุณาใส่หมายเลขโทรศัพท์ที่ถูกต้อง</string>
+    <string name="feedback_comment_edittext_hint">ความเห็นเพิ่มเติม</string>
+    <string name="feedback_top_tips">เราอยากได้คำติชมจากคุณ</string>
+    <string name="unauthorizedlock_discrition">หากคุณพบจักรยานที่มีล็อคที่ไม่ได้รับอนุญาต กรุณาแจ้งสถานที่พบให้เราทราบ</string>
+    <string name="default_payment_option">ตัวเลือกการชำระเงินเริ่มต้น</string>
+    <string name="select_payment_option">เลือกตัวเลือกการชำระเงิน</string>
+    <string name="need_help">ต้องการความช่วยเหลือ?</string>
+    <string name="not_forget_anything">อย่าลืมสัมภาระของท่าน!</string>
+    <string name="tips">เคล็ดลับ</string>
+    <string name="unlock_success">ปลดล็อกสำเร็จแล้ว</string>
+    <string name="unlock_fail">ปลดล็อกไม่สำเร็จ</string>
+    <string name="trips_end_price">ราคา: %1$s</string>
+    <string name="ofoScore">คะแนน ofo</string>
+    <string name="bind_card_content">เพิ่มบัตรเครดิตหรือเดบิตเพื่อปั่นให้สนุกได้อีก!</string>
+    <string name="view_last_trip">ดูการเดินทางครั้งล่าสุด?</string>
+    <string name="view_last_trip_description">ค่าใช้จ่าย %1$s</string>
+    <string name="pay_token_invalid">ขออภัยวิธีการชำระเงินที่คุณเลือกต้องการจะกลับเข้ามาใหม่ในขณะนี้คุณต้องการจะยกเลิกการตอบกลับหรือไม่?</string>
+    <string name="select_region">กรุณาเลือกประเทศ/ภูมิภาค</string>
+    <string name="search_for_region">ค้นหาประเทศ/ภูมิภาค</string>
+    <!--2.0未翻译-->
+    <string name="me_title">ฉัน</string>
+    <string name="end_code_to_unlock">ใส่รหัสเพื่อปลดล็อก</string>
+    <string name="park_outside_fence_title">คุณกำลังจอดอยู่นอกพื้นที่บริการจักรยานที่กำหนดไว้</string>
+    <string name="park_inside_fence_title">คุณกำลังจอดจักรยานอยู่ในพื้นที่ที่กำหนดไว้</string>
+    <string name="payment_failed_try_again">การชำระเงินล้มเหลว กรุณาลองอีกครั้ง</string>
+    <string name="enjoy_your_ride">ปั่นให้สนุกนะ!</string>
+    <string name="refund_failed_try_again">คำขอเงินคืนล้มเหลว กรุณาลองอีกครั้ง</string>
+    <string name="typing">กำลังพิมพ์</string>
+    <string name="payment_selection">เลือกการชำระเงิน</string>
+    <string name="payment_selection_prompt">เลือกวิธีการชำระเงินที่คุณต้องการเพิ่ม</string>
+    <string name="credit_debit_card">บัตรเครดิต/เดบิต</string>
+    <!--paytm truemoney 固定名词，不用多语言翻译-->
+    <string name="pay_tm">Paytm</string>
+    <string name="true_money">TrueMoney Wallet</string>
+    <string name="fail">ล้มเหลว</string>
+    <!--2.1-->
+    <string name="pass_in_use">กำลังใช้งาน</string>
+    <string name="pass_purchase_button">ซื้อ</string>
+    <string name="pass_renew_button">ต่ออายุ</string>
+    <string name="pass_remaining">คงเหลือ</string>
+    <string name="recharge">เติมเงิน</string>
+    <string name="bike_pass_not_open">ไม่มีบัตรผ่านเปิดให้ใช้ในเมืองนี้</string>
+    <string name="bike_pass_frozen_title">บัตรผ่านถูกระงับเนื่องจากยอดฝากของคุณถูกเรียกคืน</string>
+    <string name="bike_pass_frozen_dialog_content">กรุณาชำระยอดทันทีเพื่อใช้บริการต่อ</string>
+    <string name="next_time">คราวหน้า</string>
+    <string name="purchase_pass_title">ซื้อบัตรผ่าน ofo</string>
+    <string name="renew_pass_title">ต่ออายุบัตรผ่าน ofo</string>
+    <string name="pass_includes">บัตรผ่านประกอบด้วย:</string>
+    <string name="ofo_pass">บัตรผ่าน ofo</string>
+    <string name="congratulation">ยินดีด้วย!</string>
+    <string name="bike_pass_remaining">ขณะนี้บัตรผ่านของคุณเหลือ %1$s วัน!</string>
+    <string name="charge_pass_failed">การชำระเงินล้มเหลว กรุณาลองอีกครั้ง</string>
+    <string name="bike_actived">บัตรผ่านของคุณเปิดใช้งานแล้ว</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">จัดการ</string>
+    <string name="pass_header_cancle_dialog_title">ยกเลิกการสมัครรับ</string>
+    <string name="pass_header_cancle_dialog_content">การสมัครรับรอบปัจจุบันของคุณจะดำเนินไปจนหมดอายุในวันที่ %1$s</string>
+    <string name="consider_it_again">พิจารณา</string>
+    <string name="confirm_purchase">ยืนยันการสมัครรับ</string>
+    <string name="pass_no_periodicity_content">คุณต้องการสมัครรับบัตรผ่าน ofo %1$s ในราคา %2$s หรือไม่? การสมัครรับนี้จะต่ออายุโดยอัตโนมัติจนกว่าจะได้รับการยกเลิก</string>
+    <string name="pass_periodicity_content">คุณต้องการสมัครรับบัตรผ่าน %1$s ในราคา %2$s หรือไม่? การสมัครรับของคุณจะเริ่มในวันที่ %3$s</string>
+    <string name="subscription_success">สมัครรับสำเร็จแล้ว</string>
+    <string name="pass_your_bike_pass">ขอให้สนุกกับการปั่น!</string>
+    <string name="subscriptions_and_privacy">การสมัครรับและความเป็นส่วนตัวผู้ใช้</string>
+    <string name="change_fail">เปลี่ยนไม่สำเร็จ</string>
+    <string name="optional_bike_pass">เลือกบัตรผ่าน ofo</string>
+    <string name="canceled_successfully">ยกเลิกสำเร็จแล้ว</string>
+    <!--V2.3-->
+    <string name="home_guide_p_one">ค้นหาจักรยาน</string>
+    <string name="home_guide_c_one">เปิดแอปและค้นหาจักรยาน ofo ทั้งหมดรอบๆ ตัวคุณ</string>
+    <string name="home_guide_p_two">สแกนและปลดล็อก</string>
+    <string name="home_guide_c_two">เปิด Bluetoothก่อนสแกน QR code บนจักรยาน เพื่อปลดล็อกและเริ่มต้นทริปของคุณ</string>
+    <string name="home_guide_p_three">จอดและล็อก</string>
+    <string name="home_guide_c_three">จอดจักรยานให้ปลอดภัยในที่ที่ถูกกฏหมาย จากนั้นดันตัวล็อกกลับเข้าที่เพื่อสิ้นสุดทริป</string>
+    <string name="never_mind">ไม่เป็นไร</string>
+    <string name="yes_cancel">ใช่ ยกเลิก</string>
+    <string name="end_trip_dialog_content">ดูให้แน่ใจว่าล็อกปิดดีแล้วก่อนสิ้นสุดทริปของคุณ</string>
+    <string name="auto_pay_failed">การชำระเงินอัตโนมัติไม่สำเร็จ กรุณาเปลี่ยนวิธีชำระเงิน หรือผูกบัตรใบใหม่</string>
+    <string name="pay">ชำระเงิน</string>
+    <string name="protrait">รูป</string>
+    <!--V2.4-->
+    <string name="try_now">ลองเลย</string>
+    <string name="visitor_last_step">หวังว่าคุณจะเพลิดเพลินกับ ofo กรุณาล็อกอินเพื่อขี่ต่อไป!</string>
+    <string name="visitor_free_ride_banner">คุณได้รับ %1$s สิทธิ์ขี่ฟรี่! กรุณาสมัครใช้ภายหลัง</string>
+    <string name="card_cid_des">หมายเลข 4 ตัวบนบัตรเครดิตของคุณ สามารถพบได้ที่ด้านหน้าของบัตร</string>
+    <string name="card_cvc_des">หมายเลข 3 ตัวบนบัตรเครดิตของคุณ สามารถพบได้ที่ด้านหลังของบัตร</string>
+    <string name="card_exp_date_des">คุณจะพบวันที่นี้ได้ที่ด้านหน้าของบัตร ใต้หมายเลขบัตรของคุณ</string>
+    <string name="contact_select_btn_content">เชิญเพื่อน (%1$s)</string>
+    <string name="invite_friends_dialog_title">คุณแชร์สิทธิ์ขี่ฟรีกับเพื่อนๆ แล้ว!</string>
+    <string name="invite_friends_search_tip">ค้นหา</string>
+    <string name="invite_friends_no_data_content">เปิดสิทธิ์อนุญาตในการตั้งค่าเพื่อเลือกจากรายชื่อติดต่อ</string>
+    <string name="invite_friends_permission_dialog_title">เข้าถึงสมุดรายชื่อ</string>
+    <string name="invite_friends_permission_dialog_content">เมื่อเชื่อมต่อบัญชีรายชื่อของคุณ คุณสามารถเชิญเพื่อนมาลองปั่น ofo ได้ง่ายๆ และเมื่อใดที่เพื่อนของคุณสมัครและใช้งานจริง คุณจะได้รับสิทธิ์ปั่นฟรี 3 ครั้ง ฟินๆไปเลย!</string>
+    <string name="invite_friends_no_allow">ไม่อนุญาต</string>
+    <string name="invite_friends_allow">อนุญาต</string>
+    <string name="invite_friends_top_content">เชิญเพื่อนๆ มาใช้ ofo เมื่อเพื่อนสมัครแล้วคุณจะได้รับสิทธิ์ขี่ฟรี 3 ครั้ง!</string>
+    <string name="free_rides">ปั่นฟรี</string>
+    <string name="contact_access_failed">การเข้าถึงรายชื่อติดต่อล้มเหลว</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">ดำเนินการต่อด้วย Facebook</string>
+    <string name="facebook_verify_code_tip">เพื่อการให้บริการที่ดียิ่งขึ้น เราอาจต้องใช้หมายเลขโทรศัพท์ของคุณ</string>
+    <string name="facebook_input_code_hint">รหัสยืนยัน</string>
+    <string name="facebook_send">ส่ง</string>
+    <string name="share_this_ride">แชร์การปั่นนี้</string>
+    <string name="share_reason">ofo เจ๋งสุดๆ</string>
+    <string name="share_feel">#ค้นพบ กับ ofo</string>
+    <string name="share_calories">แคลอรี</string>
+    <string name="share_distance">ระยะทาง</string>
+    <string name="share_duration">ระยะเวลา</string>
+    <string name="share_to_facebook">แชร์บน Facebook</string>
+    <!--2.5未翻译-->
+    <string name="share_failed">แชร์ไม่สำเร็จ</string>
+    <string name="share_success">แชร์สำเร็จ</string>
+    <string name="share_cancel">ยกเลิกการแชร์แล้ว</string>
+    <string name="share_thanks">ขอบคุณสำหรับการแชร์!</string>
+    <string name="gse_earned_tv">คุณได้รับ GSE จากทริปนี้!</string>
+    <string name="photo_saved">บันทึกรูปภาพแล้ว</string>
+    <string name="share_carbon">คาร์บอน</string>
+    <!--2.6未翻译-->
+    <string name="invite_friends_received_invite_code">ได้รับรหัสเชิญหรือไม่?</string>
+    <string name="invite_friends_tip_one">เลือกเพื่อนจากรายชื่อ</string>
+    <string name="invite_friends_tip_two">ofo ส่ง SMS เชิญให้คุณแล้ว</string>
+    <string name="invite_friends_tip_three">บอกเพื่อนคุณให้สมัครด้วยรหัสเชิญของคุณ</string>
+    <string name="invite_friends_invite_record">ประวัติการเชิญ</string>
+    <string name="invite_friend_success_invited">เชิญเพื่อนสำเร็จแล้ว</string>
+    <string name="invite_friend_free_rides_received">ได้รับการปั่นฟรี</string>
+    <string name="invite_friend_share_invite_code">แชร์รหัสเชิญของคุณ:</string>
+    <string name="invite_friend_setting_tip">เปิดสิทธิ์อนุญาตในการตั้งค่าเพื่อเลือกจากรายชื่อติดต่อ</string>
+    <string name="invite_friend_invite_preview">ดูตัวอย่างการเชิญ</string>
+    <string name="invite_friend_message_content">【ofo】เพื่อนของคุณเพิ่งส่งการปั่น ofo ฟรี 3 ครั้งให้คุณ! กรุณาดาวน์โหลดแอปที่นี่เพื่อรับสิทธิ์</string>
+    <string name="invite_friends_invite_sent">ส่งการเชิญแล้ว</string>
+    <string name="invite_friends_invite_success_content">คุณแชร์การปั่นฟรีกับเพื่อนแล้ว! อย่าลืมเตือนให้เพื่อนสมัครและปั่นด้วย!</string>
+    <string name="invite_friends_share_content">ฉันส่งการปั่น ofo ฟรี 3 ครั้งให้คุณ! กรุณาดาวน์โหลดแอปที่นี่เพื่อรับสิทธิ์:</string>
+    <string name="invite_friends_share_code_success">แชร์รหัสเชิญแล้ว</string>
+    <string name="try_not_now_free">ลองอย่าทำ</string>
+    <string name="conditions">ดูข้อตกลงและเงื่อนไข</string>
+    <string name="enjoy">ปั่นให้สนุก</string>
+    <string name="free_week">เริ่มต้นสัปดาห์ฟรีของคุณ</string>
+    <string name="refresh">รีเฟรช</string>
+    <string name="reload_pay_list">รีเฟรชเพื่อโหลดรายการชำระเงิน</string>
+    <string name="congratulations">ยินดีด้วย! คุณใช้งานสัปดาห์ฟรีได้แล้ว</string>
+</resources>

@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">קוד האימות שלך</string>
+    <string name="enter_your_phone_number">מספר הטלפון הנייד שלך</string>
+    <string name="whats_your_phone_number">מה מספר הנייד שלך?</string>
+    <string name="re_send">שליחה חוזרת</string>
+    <string name="name">שם</string>
+    <string name="email">אימייל</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="log_out">יציאה</string>
+    <string name="save">שמירה</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="cancel">ביטול</string>
+    <string name="done">סיימתי</string>
+    <string name="my_wallet">הארנק שלי</string>
+    <string name="enter_the_bike_number">מס\' הזיהוי של האופניים:</string>
+    <string name="detail">פרטים</string>
+    <string name="top_up">הוספה</string>
+    <string name="share_my_ride">שיתוף הרכיבה שלי</string>
+    <string name="use_bike_unlock_desc">קוד לאופניים מס\'</string>
+    <string name="my_coupons">הקופונים שלי</string>
+    <string name="trip_completed">הנסיעה הסתיימה</string>
+    <string name="trip_to_start_ride">מתחילים בנסיעה!</string>
+    <string name="phone_number_not_in_service">כדאי לבדוק שהטלפון פועל ושיש קליטת רשת טובה באזור, ואז לנסות שוב.</string>
+    <string name="invalid_phone_number">כדאי לבדוק שמספר הטלפון שהקלדת נכון.</string>
+    <string name="default_username">ofo רוכב/ת</string>
+    <string name="edit">עריכה</string>
+    <string name="pricing">תעריף</string>
+    <string name="oops">אופס!</string>
+    <string name="coupon_uppercase">קופון</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">עלות הנסיעה</string>
+    <string name="lock_the_bike">תודה שרכבת ofo! לא לשכוח לנעול את האופניים.</string>
+    <string name="contact_us">אפשר לכתוב לנו</string>
+    <string name="verifying">מאמת...</string>
+    <string name="my_trips">הנסיעות שלי</string>
+    <string name="retry">ניסיון חוזר</string>
+    <string name="coupons_available">הקופונים הזמינים</string>
+    <string name="user_guide">מדריך למשתמש</string>
+    <string name="about_ofo">מהי ofo</string>
+    <string name="trip_detail">פרטי הנסיעה</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">צמצום טביעת הרגל הפחמנית (משוער)</string>
+    <string name="verification_completed">האימות הושלם</string>
+    <string name="invalid_verification_code">קוד אימות שגוי</string>
+    <string name="log_in_sign_up">כניסה/הרשמה</string>
+    <string name="login_privacy_hint">אנחנו שומרים על הפרטים שלך,\nואף פעם לא נשתף או נציג אותם בפומבי.</string>
+    <string name="about_you">הפרטים שלי</string>
+    <string name="username_length_invalid">בשם המשתמש צריכים להיות 3 עד 15 תווים.</string>
+    <string name="username_contain_ofo_invalid">המילים \"ofo\" ו-\"admin\" לא יכולות להופיע בשם המשתמש.</string>
+    <string name="email_invalid">כתובת האימייל לא תקינה.</string>
+    <string name="username_contain_emoji_invalid">שם המשתמש יכול להכיל רק אותיות, ספרות וקו תחתון.</string>
+    <string name="riding">רכיבה</string>
+    <string name="payment">תשלום</string>
+    <string name="new_guide_tip">קיבלת מאיתנו קופון מתנה! ofo מציעה לזמן מוגבל קופון מתנה עבור כל נסיעה שהסתיימה.</string>
+    <string name="new_guide_step_one_tip">מס\' הזיהוי של האופניים הרצויים:</string>
+    <string name="new_guide_step_two_tip">יש להזין את מס\' האופניים כדי לקבל קוד נעילה:</string>
+    <string name="new_guide_show_code_tip">הקוד משמש לשחרור האופניים</string>
+    <string name="got_it">הבנתי</string>
+    <string name="trip_no_data">אין לך רישומי נסיעות. זה הזמן להתחיל לרכוב!</string>
+    <string name="repair_title">מה הבעיה באופניים?</string>
+    <string name="need_repair">נדרש תיקון</string>
+    <string name="report_the_problem">דיווח על בעיה</string>
+    <string name="get_another_bike">השגת זוג אופניים אחר</string>
+    <string name="report_error_msg">מהי הסיבה לדיווח?</string>
+    <string name="ok">אישור</string>
+    <string name="turn_on_the_lights">הדלקת אורות</string>
+    <string name="Quit">יציאה</string>
+    <string name="use_the_bike">עכשיו אפשר להשתמש באופניים</string>
+    <string name="turn_light_content">למען בטיחותך, חובה להדליק את הפנסים לפני תחילת הנסיעה. אם הפנסים לא פועלים, יש לדווח על הבעיה ולהשתמש באופניים אחרים.</string>
+    <string name="safety_content">למען הבטיחות שלך ושל שאר הרוכבים, חובה לציית לכל חוקי התנועה והרכיבה.</string>
+    <string name="is_delete_credit_card">האם לבטל את הכרטיס?</string>
+    <string name="delete_credit_card_content">ביקשת לבטל את הכרטיס. להמשיך?</string>
+    <string name="not_now">לא עכשיו</string>
+    <string name="yes">כן</string>
+    <string name="delete_only_credit_card">ביקשת לבטל את הכרטיס, אבל כרגע זה אמצעי התשלום היחיד שלך. להמשיך?</string>
+    <string name="maximum_payment">ניתן להזין עד 5 אמצעי תשלום. כדי להוסיף חדש, צריך לבטל את אחד הקיימים.</string>
+    <string name="payment_methods">אמצעי תשלום</string>
+    <string name="change_default_payment_method">ביקשת לשנות את אמצעי התשלום המוגדר כברירת מחדל. להמשיך?</string>
+    <string name="please_enter_your_name">שם מלא</string>
+    <string name="please_enter_the_correct_expire_date">תוקף הכרטיס</string>
+    <string name="card_number">מספר כרטיס</string>
+    <string name="log_out_from_paypal">האם לצאת מחשבון PayPal?</string>
+    <string name="sign_out_paypal_content">האם לצאת מחשבון PayPal? כרגע זהו אמצעי התשלום היחיד שלך.</string>
+    <string name="sign_out">יציאה</string>
+    <string name="holder_name">שם בעל הכרטיס</string>
+    <string name="credit_or_debit_card">כרטיס אשראי</string>
+    <string name="report_success">תודה על הדיווח. נבקש רק לנעול את האופניים ולהשאיר אותם לטיפולנו.</string>
+    <!--dialog-->
+    <string name="not_supported_area">מצטערים, אבל אין תמיכה בגרסה הזו של ofo באזורך.</string>
+    <string name="add_payment_method">הוספת אמצעי תשלום</string>
+    <string name="get_verification_code">קבלת קוד אימות</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">אין לנו אופניים עם מספר כזה. אולי הייתה טעות בהקלדה?</string>
+    <string name="check_the_number">לבדיקת המספר</string>
+    <string name="setting">הגדרות</string>
+    <string name="friendly_reminder">הערה</string>
+    <string name="update">עדכון</string>
+    <string name="have_new_version">גרסה חדשה</string>
+    <string name="ofo_has_no_camera_privilege">לאפליקציית ofo אין הרשאת גישה למצלמה. יש לתת לה הרשאה כזו דרך הגדרות המערכת.</string>
+    <string name="ofo_has_no_location_privilege">לאפליקציית ofo אין הרשאת גישה לשירותי המיקום. יש לתת לה הרשאה כזו דרך הגדרות המערכת.</string>
+    <string name="ofo_has_no_phone_status_privilege">לאפליקציית ofo אין הרשאה לקרוא את מצב הטלפון. יש לתת לה הרשאה כזו דרך הגדרות המערכת.</string>
+    <string name="please_enable_manually">כדי להשתמש באופני ofo צריך להפעיל את ה-GPS בטלפון.</string>
+    <string name="geoposition_not_allowed">לא ניתן לקבוע את המיקום. עליך לתת לאפליקציית ofo גישה לפרטי המיקום שלך.</string>
+    <string name="cycling_trip_in_progress">האופניים בנסיעה</string>
+    <string name="map_loading_failed">המפה לא נטענה. שננסה שוב?</string>
+    <string name="unable_to_get_your_location">לא ניתן לקבוע את מיקומך. צריך לוודא שיש לאפליקציה הרשאה להשתמש במפה.</string>
+    <string name="exit_text">אי אפשר לחזור אחורה</string>
+    <string name="code_success">קיבלנו את בקשתך, רק רגע בבקשה.</string>
+    <string name="image_process_failed">עיבוד התמונה נכשל.</string>
+    <string name="cannot_create_image_file">לא ניתן ליצור קובץ תמונה.</string>
+    <string name="submit">שליחה</string>
+    <string name="close_lock_text">יש להחנות את האופניים במקום בטיחותי ונגיש למשתמשים האחרים, כמו חניות אופניים ייעודיות או מתקן לקשירת אופניים.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">לא ניתן לטפל כרגע בבקשתך. אנחנו מתנצלים ומזמינים אותך לנסות שוב מאוחר יותר.</string>
+    <string name="api_error_net_timeout">שגיאת רשת. מומלץ לבדוק את מצב הרשת.</string>
+    <string name="api_error_not_logged_in">יש להיכנס למערכת.</string>
+    <string name="input_card_number">מספר הכרטיס</string>
+    <string name="input_card_expire_date">תוקף הכרטיס</string>
+    <string name="input_correct_card_number">מספר הכרטיס הנכון</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">קראתי וקיבלתי את המדיניות של ofo</string>
+    <string name="login_success_tip">אפשר לצאת לדרך!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>לא קיבלתי קוד אימות.</u>]]></Data></string>
+    <string name="hit_the_road">אפשר לצאת לדרך!</string>
+    <string name="contact_us_desc">יש לך הצעה לשיפור השירות שלנו? נשמח לקבל ממך משוב ונחזור אליך בהקדם.</string>
+    <string name="repair_tip">נבדוק את הדיווח שלך ונתקן את האופניים.</string>
+    <string name="sign_out_only_paypal_payment">האם לצאת מ-PayPal ‏(%1$s)?</string>
+    <string name="set_new_card_to_default">האם להגדיר את הכרטיס הזה (%1$s) כברירת מחדל?</string>
+    <string name="coupon_expire_time">אפשר להשתמש בקופון הזה עד *</string>
+    <string name="coupon_tip">קיבלת<Data><![CDATA[<font color="#000000"><b> קופון * </b></font>]]></Data> לשימוש בנסיעה הבאה שלך!</string>
+    <string name="fee">עלות (%1$s)</string>
+    <string name="balance">יתרה (%1$s)</string>
+    <string name="your_phone_number">מספר הטלפון הנייד שלך הוא $.</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">זמן הרכיבה</string>
+    <string name="trip_not_end">אין לך אפשרות לסיים את הנסיעה?</string>
+    <string name="ridding_tip">צריך לנעול את האופניים, והנסיעה תסתיים אוטומטית בתוך דקה.</string>
+    <string name="confirm_and_pay">אישור ותשלום</string>
+    <string name="paypal_account">חשבון PayPal</string>
+    <string name="pay_now">תשלום מיידי</string>
+    <string name="my_deposit">הפיקדון שלי</string>
+    <string name="refund">לקבלת החזר כספי</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">סריקה</string>
+    <string name="scan_qr_help">עזרה</string>
+    <string name="scan_qr_prompt">יש לסרוק את קוד ה-QR</string>
+    <string name="turn_on">הפעלת פנס</string>
+    <string name="scan_qr_manually_number">מס\' האופניים</string>
+    <string name="scan_qr_help_prompt">לשחרור הנעילה יש לסרוק את הקוד שעל המנעול.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">כבר משחררים לך את האופניים...</string>
+    <string name="bluetooth_failed">לא ניתן לשחרר את נעילת האופניים באמצעות Bluetooth. עליך להשתמש בקוד.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">מדיניות הבטיחות של ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">רוצה שנחזיר לך את דמי הפיקדון?</string>
+    <string name="confirm">מוצאים אופניים פנויים</string>
+    <string name="add_credit_or_debit_card">כרטיס אשראי</string>
+    <string name="refund_deposit">החזר פיקדון</string>
+    <string name="back">חזרה</string>
+    <string name="confirm_locked">לא לשכוח לנעול את האופניים כמו שצריך.</string>
+    <string name="default_payment_method">אמצעי התשלום ברירת המחדל</string>
+    <string name="payment_successful">התשלום בוצע בהצלחה.</string>
+    <string name="cvv_cvc_cid">קוד CVV/CVC/CID</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="unlock">פתיחת מנעול</string>
+    <string name="back_to_homepage">חזרה לדף הבית</string>
+    <string name="expires_on">בתוקף עד %s</string>
+    <string name="delete_this_card">מחיקת כרטיס זה</string>
+    <string name="choose_photo">בחירת תמונה</string>
+    <string name="twitter">twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">הועתק בהצלחה</string>
+    <string name="calling_codes">קודי חיוג</string>
+    <string name="promotions">הטבות</string>
+    <string name="inbox">דואר נכנס</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">תוקף הכרטיס</string>
+    <string name="card_exp_desc">תוקף הכרטיס מופיע בחזית הכרטיס, מתחת למספר הכרטיס.</string>
+    <string name="cid_desc">CID הוא קוד של 4 ספרות המופיע בחזית הכרטיס, מעל מספר הכרטיס.</string>
+    <string name="cvv_cvc_desc">CVC הוא קוד אבטחה של 3 ספרות המופיע על גב הכרטיס.</string>
+    <string name="walking">הליכה</string>
+    <string name="away">מכאן</string>
+    <string name="evaluated_on">מועד ההערכה האחרון:</string>
+    <string name="credit_record">מס\' הנקודות שלי</string>
+    <string name="rules">כללים</string>
+    <string name="loading">רק רגע...</string>
+    <string name="location_error">יש להפעיל את הרשאות המיקום.</string>
+    <string name="report_broken_bike">בעיה באופניים</string>
+    <string name="report_unauthorized_lock">אופניים עם מנעול לא מורשה</string>
+    <string name="report_no_available_bike">אין אופניים זמינים</string>
+    <string name="report_illegal_parking">חניה לא חוקית</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">אישור</string>
+    <string name="scan_qr_failed">הסריקה לא הצליחה. צריך להקליד את מס\' האופניים.</string>
+    <string name="scan_qr_no_net">כדאי לבדוק שיש חיבור לאינטרנט.</string>
+    <string name="scan_qr_time_out">הסריקה לא הצליחה. צריך להקליד את מס\' האופניים.</string>
+    <string name="scan_qr_mechanical_input">האופניים האלה מצוידים במנעול מכני, ולכן צריך להקליד את הקוד.</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">אופס</string>
+    <string name="ble_unlock_get_pwd">קבלת קוד</string>
+    <string name="use_bike_pwd_help_title">עזרה</string>
+    <string name="no_data">אין נתונים</string>
+    <string name="no_coupons">אין קופונים</string>
+    <string name="no_activities">אין שום פעילות כרגע</string>
+    <string name="parsing_error">שגיאה בעיבוד הנתונים</string>
+    <string name="home_unlock">שחרור נעילה</string>
+    <string name="pricing_instruction">ל-ofo יש הצעה לזמן מוגבל: קופון בשווי <Data><![CDATA[<font color="#000000"><b>$ 1</b></font>]]></Data> לאחר כל נסיעה שהסתיימה.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">מרחק (%1$s)</string>
+    <string name="duration">זמן (%1$s)</string>
+    <string name="carbon">פחמן (%1$s)</string>
+    <string name="current_costs"><Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data>תעריף הנסיעה: </string>
+    <string name="deposit">פיקדון (%1$s)</string>
+    <string name="bike_no">מס\' הזיהוי של האופניים:</string>
+    <string name="price_amount">מחיר</string>
+    <!--用车费用-->
+    <string name="coupon_amount">קופון</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s לשעה, חיוב מרבי %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">חשוב לבדוק את האופניים לפני השימוש. במקרה של בעיה או תקלה, אפשר לדווח לנו ב-2 דקות <Data><![CDATA[<u><font color="#007AFF">כאן</font></u>]]></Data>.</string>
+    <string name="my_credit_value">מס\' הנקודות שלי: %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">אישור SSL לא חוקי</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">הוספה ותשלום</string>
+    <string name="no">לא</string>
+    <string name="load_web_page_fail">לא ניתן לטעון את דף האינטרנט.</string>
+    <string name="share_cancelled">ביטלת את ההזמנה.</string>
+    <string name="no_facebook_account">אין חשבון Facebook</string>
+    <string name="facebook_setting">אין חשבונות Facebook רשומים. ניתן להוסיף או ליצור חשבון Facebook דרך \'הגדרות\'.</string>
+    <string name="no_twitter_account">אין חשבון twitter</string>
+    <string name="twitter_setting">אין חשבונות twitter רשומים. ניתן להוסיף או ליצור חשבון twitter דרך \'הגדרות\'.</string>
+    <string name="confirm_turnon_bluetooth">יש לוודא שה-Bluetooth פעיל</string>
+    <string name="unlock_with_bluetooth">שחרור באמצעות Bluetooth</string>
+    <string name="server_error">מצטערים, אבל בשל עומס במערכות נבקש ממך לנסות שוב מאוחר יותר.</string>
+    <string name="camera_access_denied">כדי לשחרר את הנעילה צריך לתת ל-ofo הרשאת גישה למצלמה דרך \'הגדרות\' -> \'פרטיות\' -> \'מצלמה\'.</string>
+    <string name="settings">הגדרות</string>
+    <string name="pricing_tap_to_retry">אירעה תקלת רשת. יש להקיש כדי לנסות שוב.</string>
+    <string name="photo_access_denied">האם יש ל-ofo הרשאת גישה לתמונות? ניתן לבדוק זאת דרך \'הגדרות\' -> \'פרטיות\' -> \'תמונות\'.</string>
+    <!-- 通用 -->
+    <string name="invite_friends">הזמינו חברים</string>
+    <string name="your_invitation_code">קוד ההזמנה שלך</string>
+    <string name="share_invitation_code_content">כדי לקבל נסיעה בחינם, עליך להוריד את אפליקציית ofo ולהכניס את קוד ההטבה.</string>
+    <string name="ride_illegal_parking">מצטערים, לא ניתן להשלים את הנסיעה. עליך להחנות את האופניים באזור מותר לחניה ולהקיש על \'הנסיעה הסתיימה\'.</string>
+    <string name="tab_reason">מה הסיבה?</string>
+    <string name="next">הבא</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">הקופונים שאינם זמינים</string>
+    <string name="deposit_description">ניתן לבקש את החזר הפיקדון בכל זמן.</string>
+    <string name="deposit_refund_success">נשלחה בקשה להחזר. בדרך כלל ההחזרים מתקבלים בתוך 2 עד 15 ימי עסקים.</string>
+    <string name="bind_card_prompt">לפני שמתחילים לרכוב צריך להוסיף אמצעי תשלום (כרטיס אשראי) לחשבון שלך - בכפוף לתנאים ולהגבלות.</string>
+    <string name="bike_parking_area">אזור חניית אופניים</string>
+    <string name="continue_common">המשך</string>
+    <string name="repair_a_broken_bike">דיווח על בעיה באופניים</string>
+    <string name="tips_repair_take_photo">יש לצלם את החלק השבור של האופניים</string>
+    <string name="brake">בלם</string>
+    <string name="not_show_again">אל תציג שוב</string>
+    <string name="legal_area">אזור מורשה</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">קלוריות (%1$s)</string>
+    <string name="gender">מגדר</string>
+    <string name="birthday">תאריך לידה</string>
+    <string name="male">זכר</string>
+    <string name="female">נקבה</string>
+    <string name="please_select_the_broken_bike_part">יש לסמן את החלקים הפגומים:</string>
+    <!--ios专用-->
+    <string name="here">כאן</string>
+    <string name="privacy_camera_usage_description">לחוויית שימוש אופטימלית, אפליקציית ofo צריכה גישה למצלמה.</string>
+    <string name="privacy_photo_library_usage_description">אפליקציית ofo צריכה גישה לספריית התמונות.</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">מזמינים חבר להצטרף ל-ofo - ושניכם תוכלו לצבור רכיבות ללא תשלום!</string>
+    <string name="my_credit">הנקודות שלי</string>
+    <string name="reservation">הזמנה</string>
+    <string name="reserve_title">ניתן לשריין אופניים 15 דקות מראש.</string>
+    <string name="reserve_content">לא ניתן לשריין או להשתמש בשני זוגות אופניים או יותר בו-זמנית.</string>
+    <string name="make_reserve">ביצוע הזמנה</string>
+    <string name="make_another_reserve">ביצוע הזמנה נוספת</string>
+    <string name="use_now">שימוש מיידי</string>
+    <string name="reserve_expired_prompt">תוקף ההזמנה יפוג בתוך</string>
+    <string name="scanning">סורק</string>
+    <string name="bike_number">מס\' הזיהוי של האופניים:</string>
+    <string name="reserve">שמירה</string>
+    <string name="cancel_failed">הביטול לא הצליח</string>
+    <string name="payment_failed">התשלום נכשל</string>
+    <string name="payment_canceled">התשלום בוטל</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">ההזמנה הקודמת תקפה עד</string>
+    <string name="log_in">כניסה</string>
+    <string name="sign_up">הרשמה</string>
+    <string name="enter_your_mobile_number">טלפון נייד</string>
+    <string name="welcome_back">שמחים שחזרת!</string>
+    <string name="invalid_mobile_number">מספר הטלפון לא תקין</string>
+    <string name="select_country">מדינה</string>
+    <string name="search_for_country">חיפוש המדינה</string>
+    <string name="current_location">מיקומך הנוכחי</string>
+    <string name="verify_mobile">אימות הטלפון הנייד</string>
+    <string name="verify_mobile_prompt">עליך להקליד את קוד האימות שנשלח אליך למספר %1$s.</string>
+    <string name="send_again">שילחו לי שוב</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">כתובת אימייל</string>
+    <string name="email_spell_error">כתובת האימייל לא תקינה.</string>
+    <string name="email_sensitive_error">יש להירשם עם כתובת האימייל האישית.</string>
+    <string name="email_label_text">כתובת אימייל</string>
+    <string name="mobile_label_text">טלפון נייד</string>
+    <string name="sign_up_email_hint_text">name@example.com</string>
+    <string name="sign_up_policy_text">לחיצה על \'הרשמה\' פירושה שקראת ואישרת את מדיניות ofo.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">רק להקיש כאן - ומתחילים</string>
+    <string name="guide_text_about_find_bike">חיפוש אופניים באזור</string>
+    <string name="skip">דלג</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">כדי לסיים את הנסיעה יש לדחוף את ידית המנעול ולנעול אותו.</string>
+    <string name="repair_guide_prompt">האופניים לא תקינים</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">כדי ש-ofo תוכל להשתמש בשירות המיקום של Google, עליך להתקין קודם Google Play Store ו-Google Maps.</string>
+    <!--通用-->
+    <string name="get_the_lock_code">לקבלת קוד הנעילה</string>
+    <string name="change_default_method">האם לשנות את אמצעי התשלום המוגדר כברירת מחדל?</string>
+    <string name="please_enter_your_card_cvv">קוד האבטחה של הכרטיס</string>
+    <string name="take_photo">צילום תמונה</string>
+    <string name="refund_tip">מה הסיבה לבקשת החזר הפיקדון?</string>
+    <string name="none_of_these_above">אף אחת מאלה</string>
+    <string name="cancel_success">הביטול הצליח</string>
+    <string name="scan_qr_reserve_help">scan_qr_reserve_help</string>
+    <string name="verify_code_help">כדאי לבדוק את מצב הרשת.</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">שחרור באמצעות קוד</string>
+    <string name="camera_privacy_title">הרשאת מצלמה ל-ofo</string>
+    <string name="privacy_location_always_usage_description">ofo זקוקה לפרטי המיקום כדי לעקוב אחרי מסלולך.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">ofo זקוקה ל-Bluetooth לשחרור נעילה מהיר</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk">ברור לי שאם אמשיך, פירוש הדבר שקראתי ואישרתי את המדיניות של ofo, ושגילי מעל 16.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">האם למחוק?</string>
+    <string name="delete">מחיקה</string>
+    <string name="time_walking">%1$s הליכה</string>
+    <string name="distance_away">%1$s מכאן</string>
+    <string name="turn_off">כיבוי פנס</string>
+    <string name="credit_score">מס\' הנקודות שלי</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">מיקום האופניים</string>
+    <string name="repair_input_hint_text">שדה חובה</string>
+    <string name="repair_input_bike_part_text">פרטים נוספים על החלקים הפגומים</string>
+    <string name="repair_discription_more_than_count">לא יותר מ-140 תווים, בבקשה.</string>
+    <string name="illegal_parking_title">חניה לא חוקית</string>
+    <string name="unauthorizedlock_title">אופניים עם מנעול לא מורשה</string>
+    <string name="part_helmet">קסדה</string>
+    <string name="part_plate">לוחית</string>
+    <string name="part_tire">צמיג</string>
+    <string name="part_others">אחר</string>
+    <string name="part_seat">כיסא</string>
+    <string name="part_lock">מנעול</string>
+    <string name="part_chain">שרשרת</string>
+    <string name="part_pedal">פדל</string>
+    <string name="invalid_card_number">מספר הכרטיס לא מזוהה. כדאי לבדוק שוב.</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">הדיווח התקבל</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">דירוג הנסיעה</string>
+    <string name="rate_one_comment">מאכזבת מאוד</string>
+    <string name="rate_two_comment">חוויה גרועה</string>
+    <string name="rate_three_comment">יש מקום לשיפור</string>
+    <string name="rate_four_comment">אני מרוצה</string>
+    <string name="rate_five_comment">מעולה!</string>
+    <string name="feedback_title">משוב</string>
+    <string name="feedback_p">מה השתבש בחוויית ofo שלך?</string>
+    <string name="feedback_comment_hint">עוד הערות על הנסיעה</string>
+    <string name="feedback_ok_tips">תודה רבה על המשוב, הוא יעזור לנו להשתפר.</string>
+    <string name="unlock_notification">יש לדחוף את ידית המנעול לנעילה כדי לסיים את הנסיעה</string>
+    <string name="login_home_discription">רוכבים בכל רחבי העולם</string>
+    <string name="enjoy_ofo">נהנה מ-ofo?</string>
+    <string name="gp_guide_content">אנחנו זקוקים לתמיכתך ב-Play Store. אכפת לך לכתוב עלינו כמה מילים טובות?</string>
+    <string name="go_gp">קדימה</string>
+    <string name="turn_on_bt">כדי לשחרר מהר יותר צריך להפעיל Bluetooth.</string>
+    <string name="uninstall_google_play">קודם צריך להתקין אפליקציית Google Play, ואז לנסות שוב.</string>
+    <string name="uninstall_facebook">קודם צריך להתקין אפליקציית Facebook, ואז לנסות שוב.</string>
+    <string name="uninstall_twitter">קודם צריך להתקין אפליקציית twitter, ואז לנסות שוב.</string>
+    <!--支付相关-->
+    <string name="bind_failed">פרטי הכרטיס לא הועלו למערכת. כדאי לבדוק שוב את כל הפרטים שהזנת.</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">אזור חניה מומלץ</string>
+    <string name="recommend_parking_spot_iw_title">נקודת חניה מומלצת</string>
+    <string name="fence_area_no_reward">אנחנו ממליצים להחנות באזור הזה.</string>
+    <string name="fence_spot_no_reward">אנחנו ממליצים להחנות בנקודה הזו.</string>
+    <string name="fence_area_credit_reward">חניה באזור הזה תזכה אותך בבונוס של <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="fence_area_credit_and_coupon_reward">חניה באזור הזה תזכה אותך בבונוס של <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> ושל <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data></string>
+    <string name="fence_spot_credit_reward">חניה בקרבת מקום תזכה אותך בבונוס של <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="fence_spot_credit_and_coupon_reward">חניה בקרבת מקום תזכה אותך בבונוס של <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data><Data> ושל <![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="parking_reward_credit_point">נקודה</string>
+    <string name="parking_reward_credit_points">נקודות</string>
+    <string name="parking_reward_coupon">קופון</string>
+    <string name="parking_reward_coupons">קופונים</string>
+    <string name="blue_area_comment">אזור כחול</string>
+    <string name="price_free">חינם</string>
+    <string name="price_free_time">נסיעה בחינם</string>
+    <string name="price_cost_30mins_time">ל-30 דקות</string>
+    <string name="price_cost_1h_time">לשעה</string>
+    <string name="distance_txt">מרחק</string>
+    <string name="price_banner_time_txt">זמן משוער</string>
+    <string name="safe_prompt">מאובטח</string>
+    <string name="add">הגדלת היתרה</string>
+    <string name="del_payment_fail">הכרטיס עדיין לא נמחק. כדאי לנסות שוב מאוחר יותר.</string>
+    <string name="balance_account">יתרה</string>
+    <string name="pay_another_card">לתשלום בכרטיס אחר</string>
+    <string name="map_route_error">הוראות נסיעה לא זמינות.</string>
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">אורך קוד ה-CVC לא נכון. אנחנו מזכירים שהוא על גב הכרטיס.</string>
+    <string name="card_not_support">כרגע אנחנו לא תומכים בכרטיס הזה. נא לפנות לשירות הלקוחות שלנו.</string>
+    <string name="more_detail_input_hint">פרטים נוספים</string>
+    <string name="need_addcard_dialog_title">צעד אחרון</string>
+    <string name="need_addcard_dialog_message">כדי להשתמש באופניים של ofo, צריך להזין פרטי כרטיס אשראי.</string>
+    <string name="go_to_bind_card">קדימה</string>
+    <string name="sign_up_policy_text_contain_years">לחיצה על \'הרשמה\' פירושה שגילך %1$s או יותר, ושקראת ואישרת את <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>ofo Policy</b></a></font>]]></Data></string>
+    <string name="sign_up_two_policy_text_contain_years">לחיצה על \'הרשמה\' פירושה שגילך %1$s או יותר, ושקראת ואישרת את <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Privacy Policy</b></a></font>]]></Data> ואת <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>Terms of Use</b></a></font>]]></Data></string>
+    <string name="sign_up_two_policy_text">לחיצה על \'הרשמה\' פירושה שקראת ואישרת את <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Privacy Policy</b></a></font>]]></Data> ואת <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Terms of Use</b></a></font>]]></Data></string>
+    <string name="sign_up_one_policy_text">לחיצה על \'הרשמה\' פירושה שקראת ואישרת את <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>ofo Policy</b></a></font>]]></Data></string>
+    <!--2.0-->
+    <string name="trip_detail_numb">אופניים מס\' .%1$s · עלות %2$s</string>
+    <string name="dialog_error_msg">משהו השתבש...</string>
+    <string name="success">מעולה!</string>
+    <string name="top_up_success">הסכומים נוספו לחשבון ofo שלך, ועכשיו היתרה בו היא %s.</string>
+    <string name="deposit_success">ההפקדה הגיעה ליעדה. דרך צלחה!</string>
+    <string name="available">זמינים</string>
+    <string name="unavailable">לא זמינים</string>
+    <string name="settings_title">הגדרות</string>
+    <string name="settings_payment_methods">אמצעי תשלום</string>
+    <string name="about_ofo_intro">‫ofo ‬היא חברה גלובלית לשירותי השאלת אופניים. המטרה שלנו היא שנסיעות קצרות יהיו יותר נוחות וידידותיות לסביבה!. נוהגים פחות, הולכים יותר ורוכבים יותר״</string>
+    <string name="about_current_version">הגרסה הנוכחית</string>
+    <string name="about_contact_us">יצירת קשר</string>
+    <string name="about_call_us">המענה הטלפוני שלנו (24/7)</string>
+    <string name="about_ofo_title">מהי ofo</string>
+    <string name="promotion_hint">קוד הטבה</string>
+    <string name="promotions_title">הטבות</string>
+    <string name="promotion_apply_btn">למימוש ההטבה</string>
+    <string name="trip_list_header_tips">מרחק כולל(%1$s) / נסיעות</string>
+    <string name="consumption">צריכה</string>
+    <string name="about_rights_text">ofo כל הזכויות שמורות 2018</string>
+    <string name="promotion_apply_success">ההטבה עודכנה בחשבונך</string>
+    <string name="no_next_page_data">זה הדף האחרון.</string>
+    <string name="trips_end_costs_price">עלות הנסיעה הזו %1$s</string>
+    <string name="trips_end_price">המחיר %1$s</string>
+    <string name="trips_end_coupon_discount">חסכת %1$s!</string>
+    <string name="questions_about_the_cost">שאלות לגבי העלות?</string>
+    <string name="rate_this_trip">נבקש ממך לדרג את הנסיעה הזו</string>
+    <string name="rate_questions">האם הייתה בעיה באופניים?</string>
+    <string name="share_the_ride">שיתוף החוויה</string>
+    <string name="need_bind_card_text">לפני הרכיבה הבאה עליך להוסיף אמצעי תשלום חדש.</string>
+    <string name="contact_us_email">האימייל שלנו: %1$s</string>
+    <string name="contact_us_phone">הטלפון שלנו: %1$s</string>
+    <string name="contact_us_title">יצירת קשר</string>
+    <string name="contact_us_message">יש לך הצעה לשיפור השירות שלנו? נשמח לשמוע ונהיה איתך בקשר.</string>
+    <string name="request_failed">הבקשה נדחתה</string>
+    <string name="login_enter_mail_tips">כדי להיכנס צריך להקליד מס\' טלפון</string>
+    <string name="signup_enter_mail_tips">כדי להירשם צריך להקליד כתובת אימייל ומס\' טלפון</string>
+    <string name="login_email_hint">name@example.com</string>
+    <string name="sign_up_txt">הרשמה</string>
+    <string name="login_in_txt">כניסה</string>
+    <string name="login_verifycode_format_str">קוד האימות שנשלח אליך למספר <Data><![CDATA[<b>%1$s</b>]]></Data>:</string>
+    <string name="verifycode_send_again">שליחה חוזרת בעוד %1$s שנ\'</string>
+    <string name="send_again_verifycode">שליחה חוזרת</string>
+    <string name="mobile_invalid">יש טעות במספר הטלפון.</string>
+    <string name="feedback_comment_edittext_hint">עוד תגובות</string>
+    <string name="feedback_top_tips">חשוב לנו לקבל ממך משוב</string>
+    <string name="unauthorizedlock_discrition">אם מצאת אופניים עם מנעול לא מורשה, חשוב לנו לדעת איפה הם.</string>
+    <string name="default_payment_option">אמצעי התשלום המוגדר כברירת מחדל</string>
+    <string name="select_payment_option">בחירת אמצעי תשלום</string>
+    <string name="pay_token_invalid">מצטערים, שיטת התשלום שבחרת מחייבת החלפה ברגע זה, האם ברצונך להשיב את עצמך כעת?</string>
+    <string name="select_region">בחר מדינה/אזור</string>
+    <string name="search_for_region">חפש מדינה/אזור</string>
+    <!--2.0未翻译-->
+    <string name="me_title">אני</string>
+    <string name="end_code_to_unlock">יש להזין קוד כדי לפתוח את המנעול</string>
+    <string name="park_outside_fence_title">אי אפשר לחנות כאן. מותר לחנות רק בחניה ייעודית לאופניים שיתופיים.</string>
+    <string name="park_inside_fence_title">תודה שחנית בחניה ייעודית לאופניים שיתופיים!</string>
+    <string name="payment_failed_try_again">לא הצלחנו לבצע את התשלום. כדאי לנסות שוב.</string>
+    <string name="enjoy_your_ride">רכיבה מהנה!</string>
+    <string name="refund_failed_try_again">בקשת ההחזר הכספי לא בוצעה. נבקש ממך לנסות שוב.</string>
+    <string name="typing">מקליד/ה</string>
+    <string name="payment_selection">בחירת אמצעי תשלום</string>
+    <string name="payment_selection_prompt">עליך לבחור את אמצעי התשלום שברצונך להוסיף.</string>
+    <string name="credit_debit_card">כרטיס אשראי</string>
+    <!--paytm truemoney 固定名词，不用多语言翻译-->
+    <string name="pay_tm">Paytm</string>
+    <string name="true_money">TrueMoney Wallet</string>
+    <string name="fail">לא בוצע</string>
+    <!--2.1-->
+    <string name="pass_in_use">בשימוש</string>
+    <string name="pass_purchase_button">לקנייה</string>
+    <string name="pass_renew_button">לחידוש</string>
+    <string name="pass_remaining">נותרו</string>
+    <string name="recharge">לטעינה</string>
+    <string name="bike_pass_not_open">אין מנוי פתוח בעיר הזו.</string>
+    <string name="bike_pass_frozen_title">המנוי שלך הוקפא משום שקיבלת בחזרה את דמי הפיקדון שלך.</string>
+    <string name="bike_pass_frozen_dialog_content">כדי להפעיל שוב את המנוי, עליך לשלם את דמי הפיקדון בהקדם.</string>
+    <string name="next_time">בפעם הבאה</string>
+    <string name="purchase_pass_title">קניית מנוי ofo</string>
+    <string name="renew_pass_title">חידוש מנוי ofo</string>
+    <string name="pass_includes">המנוי כולל:</string>
+    <string name="ofo_pass">מנוי ofo</string>
+    <string name="congratulation">יופי!</string>
+    <string name="bike_pass_remaining">במנוי שלך נותרו %1$s ימים!</string>
+    <string name="charge_pass_failed">לא הצלחנו לבצע את התשלום. כדאי לנסות שוב.</string>
+    <string name="bike_actived">המנוי שלך הופעל</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">ניהול</string>
+    <string name="pass_header_cancle_dialog_title">ביטול המנוי</string>
+    <string name="pass_header_cancle_dialog_content">%1$s המנוי שלכם יהיה בתוקף עד </string>
+    <string name="consider_it_again">בטוחים‫?‬</string>
+    <string name="confirm_purchase">אישור רכישת המנוי</string>
+    <string name="pass_no_periodicity_content">  רוצים מנוי‫%1$s ל%2$s‬ המנוי הזה יתחדש באופן אוטומטי ‫(‬אלא אם תבטלו אותו‫).‬</string>
+    <string name="pass_periodicity_content">רוצים מנוי ‫%1$s‬ ל‫%2$s‬ המנוי יכנס לתוקף ב‫%3$s‬‬</string>
+    <string name="subscription_success">זהו‫,‬יש לכם מנוי</string>
+    <string name="pass_your_bike_pass">רכיבה נעימה‫!‬</string>
+    <string name="subscriptions_and_privacy">מנויים ופרטיות המשתמשים</string>
+    <string name="change_fail">השינוי לא בוצע</string>
+    <string name="optional_bike_pass">בחירת סוג מנוי</string>
+    <string name="canceled_successfully">בוטל</string>
+    <!--新增-->
+    <string name="ofoScore">הניקוד שלי</string>
+    <!--V2.3-->
+    <string name="home_guide_p_one">חיפוש אופניים</string>
+    <string name="home_guide_c_one">נכנסים לאפליקציה ורואים את כל האופניים של ofo באזור.</string>
+    <string name="home_guide_p_two">סורקים כדי לפתוח</string>
+    <string name="home_guide_c_two">סורקים את קוד ה-QR, המנעול נפתח, ואתם יכולים להתחיל ברכיבה.</string>
+    <string name="home_guide_p_three">חונים ונועלים</string>
+    <string name="home_guide_c_three">בסוף הרכיבה צריך להחנות את האופניים במקום מותר ובצורה בטיחותית, ולדחוף כלפי מטה את לשונית המנעול.</string>
+    <string name="never_mind">לא משנה</string>
+    <string name="yes_cancel">כן, לבטל</string>
+    <string name="end_trip_dialog_content">זוכרים שצריך לנעול את האופניים בסיום הרכיבה?</string>
+    <string name="auto_pay_failed">יש בעיה בתשלום האוטומטי. נסו להשתמש באמצעי תשלום אחר או להגדיר כרטיס חדש כברירת מחדל.</string>
+    <string name="pay">תשלום</string>
+    <string name="protrait">התמונה שלי</string>
+    <!--V2.4-->
+    <string name="try_now">שננסה?</string>
+    <string name="visitor_last_step">כיף לרכוב עם ofo, לא ככה? רק תתחברו לחשבון וסעו לשלום!</string>
+    <string name="visitor_free_ride_banner">בהזדמנות כדאי לכם להירשם ל-ofo, כי מחכות לכם %1$s נסיעות מתנה, עלינו!</string>
+    <string name="card_cid_des">קוד של 4 ספרות שמופיע בחלק הקדמי של הכרטיס.</string>
+    <string name="card_cvc_des">קוד של 3 ספרות שמופיע בגב הכרטיס.</string>
+    <string name="card_exp_date_des">תוקף הכרטיס מופיע בחלק הקדמי של הכרטיס, מתחת למספר הכרטיס.</string>
+    <string name="contact_select_btn_content">שגם הם ייהנו (%1$s)</string>
+    <string name="invite_friends_dialog_title">פינקת את החברים שלך עם נסיעות חינם!</string>
+    <string name="invite_friends_search_tip">חיפוש</string>
+    <string name="invite_friends_no_data_content">כדי לבחור ולהזמין חברים, אתם צריכים להיכנס להגדרות הטלפון ולתת ל-ofo גישה לאנשי הקשר.</string>
+    <string name="invite_friends_permission_dialog_title">גישה לאנשי הקשר בטלפון</string>
+    <string name="invite_friends_permission_dialog_content">ברגע שתחברו את אנשי הקשר לאפליקציה, תוכלו לבחור חברים בקלות ולהזמין אותם להצטרף. על כל חבר שיירשם וירכב לפחות פעם אחת - תקבלו 3 נסיעות חינם!</string>
+    <string name="invite_friends_no_allow">אולי פעם אחרת</string>
+    <string name="invite_friends_allow">מתאים לי</string>
+    <string name="invite_friends_top_content">תזמינו את החברים שלכם לofo, כל חבר שווה לכם 3 נסיעות מתנה!</string>
+    <string name="free_rides">נסיעות חינם</string>
+    <string name="contact_access_failed">לא הצלחנו לגשת לאנשי הקשר שלכם.</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">אפשר גם עם פייסבוק</string>
+    <string name="facebook_verify_code_tip">כדי שנוכל לתת שירות טוב יותר‫,‬ אנחנו צריכים את מספר הטלפון שלך</string>
+    <string name="facebook_input_code_hint">קוד אימות</string>
+    <string name="facebook_send">שליחה</string>
+    <string name="share_this_ride">ספרו לחברים שרכבתם‫ ofo ‬ </string>
+    <string name="share_reason">‫ofo ‬זה אדיר‫!‬</string>
+    <string name="share_feel">לגלות עם ‫ofo‬</string>
+    <string name="share_calories">קלוריות</string>
+    <string name="share_distance">מרחק</string>
+    <string name="share_duration">זמן</string>
+    <string name="share_to_facebook">שתפו בפייסבוק</string>
+    <!--2.5遗留-->
+    <string name="share_failed">השיתוף נכשל</string>
+    <string name="share_success">השיתוף הצליח</string>
+    <string name="share_cancel">השיתוף בוטל</string>
+    <string name="share_thanks">תודה ששיתפת‫!‬</string>
+    <string name="gse_earned_tv">צברת נקודות מהנסיעה‫!‬</string>
+    <string name="photo_saved">התמונה נשמרה</string>
+    <string name="share_carbon">פחמן</string>
+    <!--V2.6-->
+    <string name="invite_friends_received_invite_code">קיבלת קוד הזמנה‫?‬</string>
+    <string name="invite_friends_tip_one">בחרו חברים מרשימת אנשי הקשר</string>
+    <string name="invite_friends_tip_two">אנחנו נשלח הודעות הזמנה בשמך</string>
+    <string name="invite_friends_tip_three">תזכירו לחברים להירשם עם קוד ההזמנה ששלחתם להם</string>
+    <string name="invite_friends_invite_record">הזמנות שבוצעו</string>
+    <string name="invite_friend_success_invited">חברים שהוזמנו ונרשמו</string>
+    <string name="invite_friend_free_rides_received">נסיעות חינם שקיבלת</string>
+    <string name="invite_friend_share_invite_code">שתפו את קוד ההזמנה‫:‬ </string>
+    <string name="invite_friend_setting_tip">לבחירה מתוך אנשי הקשר‫,‬ שנו את הגדרות השיתוף</string>
+    <string name="invite_friend_invite_preview">תראו לי את ההזמנה</string>
+    <string name="invite_friend_message_content">【ofo】חבר שלח לך 3 נסיעות חינם‫!‬ למימוש ההטבה‫ צריך להוריד את האפליקציה‫:‬ ‫>>‬</string>
+    <string name="invite_friends_invite_sent">ההזמנות נשלחו</string>
+    <string name="invite_friends_invite_success_content">פינקת את החברים שלך בנסיעות חינם‫!‬ לא לשכוח להזכיר להם להירשם כדי ליהנות מההטבה‫!‬</string>‏    <string name="invite_friends_share_content">פינקתי אותך בשלוש נסיעות ofo חינם‫!‬ כדי לממש את ההטבה תורידו את האפליקציה כאן‫:‬ </string>
+    <string name="invite_friends_share_code_success">קוד ההזמנה נשלח</string>
+    <string name="try_not_now_free">אני רוצה‫!‬</string>
+    <string name="conditions">תקנון שימוש</string>
+    <string name="enjoy">תהנו מהרכיבה</string>
+    <string name="free_week">מגיע לך שבוע ניסיון חינם‫!‬</string>
+    <string name="refresh">רענון</string>
+    <string name="reload_pay_list">רענון להורדת רשימת התשלומים</string>
+    <string name="congratulations">מזל טוב‫!‬ השבוע חינם שלך התחיל</string>
+</resources>

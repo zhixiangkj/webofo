@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 登录页加载圈-->
+    <declare-styleable name="ProgressWheel">
+        <attr name="matProg_progressIndeterminate" format="boolean" />
+        <attr name="matProg_barColor" format="color" />
+        <attr name="matProg_rimColor" format="color" />
+        <attr name="matProg_rimWidth" format="dimension" />
+        <attr name="matProg_spinSpeed" format="float" />
+        <attr name="matProg_barSpinCycleTime" format="integer" />
+        <attr name="matProg_circleRadius" format="dimension" />
+        <attr name="matProg_fillRadius" format="boolean" />
+        <attr name="matProg_barWidth" format="dimension" />
+        <attr name="matProg_linearProgress" format="boolean" />
+    </declare-styleable>
+
+    <!--登录页加载叉-->
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="rollType" format="enum">
+            <enum name="x" value="0" />
+            <enum name="y" value="1" />
+            <enum name="z" value="2" />
+        </attr>
+        <attr name="fromDeg" format="float" />
+        <attr name="toDeg" format="float" />
+        <attr name="pivotX" format="fraction" />
+        <attr name="pivotY" format="fraction" />
+    </declare-styleable>
+
+    <!--密码框-->
+    <declare-styleable name="gridPasswordView">
+        <attr name="gpvWidth" format="dimension" />
+        <attr name="gpvPadding" format="dimension" />
+        <attr name="gpvPasswordLength" format="integer" />
+        <attr name="gpvIsCanInput" format="boolean" />
+        <attr name="gpvPasswordType" format="enum">
+            <enum name="numberPassword" value="0" />
+            <enum name="textPassword" value="1" />
+            <enum name="textVisiblePassword" value="2" />
+            <enum name="textWebPassword" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <!--新个人中心item-->
+    <declare-styleable name="ItemViewMyLayout">
+        <attr name="item_title" format="string" />
+        <attr name="item_is_show_line" format="boolean" />
+        <attr name="item_right_context_color" format="color" />
+        <attr name="item_left_context_color" format="color" />
+        <attr name="item_is_show_content_view" format="boolean" />
+        <attr name="item_line_padding" format="dimension" />
+        <attr name="item_content" format="string" />
+        <attr name="item_is_show_arrow" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PaymentItem">
+        <attr name="payment_title" format="string" />
+        <attr name="payment_is_show_line" format="boolean" />
+        <attr name="payment_right_context_color" format="color" />
+        <attr name="payment_left_context_color" format="color" />
+        <attr name="payment_line_padding" format="dimension" />
+        <attr name="payment_content" format="string" />
+        <attr name="payment_is_show_arrow" format="boolean" />
+        <attr name="payment_icon" format="reference" />
+        <attr name="payment_is_show_shade" format="boolean" />
+        <attr name="payment_show_selected" format="boolean" />
+    </declare-styleable>
+
+    <!--公用titlebar-->
+    <declare-styleable name="TitleBar">
+        <attr name="title_text" format="string" />
+        <attr name="left_icon" format="reference" />
+        <attr name="right_icon" format="reference" />
+        <attr name="right_text" format="string" />
+        <attr name="left_text" format="string" />
+        <attr name="title_color" format="integer" />
+        <attr name="right_color" format="integer" />
+        <attr name="title_bar_bg" format="integer" />
+    </declare-styleable>
+    <!--刪除线-->
+    <declare-styleable name="DelTextView">
+        <attr name="line_color" format="integer"/>
+        <attr name="line_height" format="integer"/>
+        <attr name="showline" format="boolean"/>
+        <attr name="line_location" format="string"/>
+    </declare-styleable>
+    <!--底部一条线的输入框-->
+    <declare-styleable name="AutoStyledEditText">
+        <attr name="hint" format="reference"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="error_line_color" format="color"/>
+        <attr name="input_line_color" format="color"/>
+        <attr name="normal_line_color" format="color"/>
+        <attr name="right_drawable_enabled" format="boolean"/>
+        <attr name="right_drawable" format="reference"/>
+        <attr name="error_text_color" format="color"/>
+        <attr name="edit_padding_bottom" format="dimension"/>
+        <attr name="edit_padding_top" format="dimension"/>
+        <attr name="show_bottom_line" format="boolean"/>
+        <attr name="is_text_bold" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="TabLayoutIndicator">
+        <!-- indicator -->
+        <attr name="tl_indicator_drawable" format = "integer"/>
+        <!-- title -->
+        <attr name="tl_textsize" format="dimension"/>
+        <attr name="tl_textSelectColor" format="reference"/>
+        <attr name="tl_textUnselectColor" format="reference"/>
+
+        <attr name="tl_tab_padding_left" format="dimension"/>
+        <attr name="tl_tab_padding_right" format="dimension"/>
+        <attr name="tl_tab_padding_top" format="dimension"/>
+        <attr name="tl_tab_padding_bottom" format="dimension"/>
+
+    </declare-styleable>
+    <declare-styleable name="Loading_button">
+        <attr name="lb_textsize" format="dimension"/>
+        <attr name="lb_textcolor" format="color"/>
+        <attr name="lb_textpadding" format="dimension"/>
+        <attr name="lb_text" format="string"/>
+        <attr name="lb_isBold" format="boolean"/>
+        <attr name="lb_caps" format="boolean"/>
+    </declare-styleable>
+</resources>

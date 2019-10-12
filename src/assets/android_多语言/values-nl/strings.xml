@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">Vul je verificatiecode in</string>
+    <string name="enter_your_phone_number">Vul je telefoonnummer in</string>
+    <string name="whats_your_phone_number">Wat is je telefoonnummer?</string>
+    <string name="re_send">Opnieuw verzenden</string>
+    <string name="name">Naam</string>
+    <string name="email">E-mailadres</string>
+    <string name="phone_number">Telefoonnummer</string>
+    <string name="log_out">Afmelden</string>
+    <string name="save">Opslaan</string>
+    <string name="user_name">Gebruikersnaam</string>
+    <string name="cancel">Annuleren</string>
+    <string name="done">Gereed</string>
+    <string name="my_wallet">Mijn portemonnee</string>
+    <string name="enter_the_bike_number">Vul het fietsnummer in</string>
+    <string name="detail">Details</string>
+    <string name="top_up">Opwaarderen</string>
+    <string name="share_my_ride">Mijn rit delen</string>
+    <string name="use_bike_unlock_desc">Code voor fietsnummer %s</string>
+    <string name="my_coupons">Mijn vouchers</string>
+    <string name="trip_completed">Rit voltooid</string>
+    <string name="trip_to_start_ride">Begin je fietstocht!</string>
+    <string name="phone_number_not_in_service">Controleer of je telefoon werkt en of je in een omgeving met een goed ontvangst bent. Probeer het daarna opnieuw.</string>
+    <string name="invalid_phone_number">Controleer of je telefoonnummer klopt.</string>
+    <string name="default_username">ofo-gebruiker</string>
+    <string name="edit">Bewerken</string>
+    <string name="pricing">Tarieven</string>
+    <string name="oops">Oeps!</string>
+    <string name="coupon_uppercase">VOUCHER</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">De fietstocht kost je</string>
+    <string name="lock_the_bike">Bedankt dat je voor ofo hebt gekozen!\nVergeet niet om de fiets op slot te zetten.</string>
+    <string name="contact_us">Contact opnemen</string>
+    <string name="verifying">Bezig met controleren ...</string>
+    <string name="my_trips">Mijn ritten</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="coupons_available">Vouchers beschikbaar</string>
+    <string name="user_guide">Gebruikershandleiding</string>
+    <string name="about_ofo">Over ofo</string>
+    <string name="trip_detail">Ritgegevens</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">Geschatte reductie van koolstofuitstoot</string>
+    <string name="verification_completed">Verificatie voltooid</string>
+    <string name="invalid_verification_code">Ongeldige verificatiecode</string>
+    <string name="log_in_sign_up">AANMELDEN/REGISTREREN</string>
+    <string name="login_privacy_hint">Je informatie wordt veilig opgeslagen\nen zal nooit in het openbaar worden getoond of worden gedeeld.</string>
+    <string name="about_you">Over jou</string>
+    <string name="username_length_invalid">Sorry! Je gebruikersnaam moet uit 3 tot 15 tekens bestaan.</string>
+    <string name="username_contain_ofo_invalid">Sorry, een gebruikersnaam met \'ofo\' en \'admin\' is niet toegestaan.</string>
+    <string name="email_invalid">Vul een geldig e-mailadres in.</string>
+    <string name="username_contain_emoji_invalid">Sorry! Je gebruikersnaam kan alleen alfanumerieke tekens en onderstrepingstekens bevatten.</string>
+    <string name="riding">Fietsen</string>
+    <string name="payment">Betaling</string>
+    <string name="new_guide_tip">Je hebt een voucher van ons ontvangen! \nofo biedt tijdelijk een gratis voucher voor elke gemaakte rit.</string>
+    <string name="new_guide_step_one_tip">Vul het nummer in van de fiets die je wilt gebruiken</string>
+    <string name="new_guide_step_two_tip">Vraag de vergrendelingscode op voor de fiets</string>
+    <string name="new_guide_show_code_tip">Gebruik de code om de fiets te ontgrendelen</string>
+    <string name="got_it">Begrepen</string>
+    <string name="trip_no_data">Er zijn geen ritten van je geregistreerd. Stap nu op de fiets!</string>
+    <string name="repair_title">Welk probleem heb je ervaren met deze fiets</string>
+    <string name="need_repair">Reparatie nodig</string>
+    <string name="report_the_problem">Probleem melden</string>
+    <string name="get_another_bike">Andere fiets gebruiken</string>
+    <string name="report_error_msg">Selecteer een reden voor deze melding</string>
+    <string name="ok">Oké</string>
+    <string name="turn_on_the_lights">Het licht aan doen</string>
+    <string name="Quit">Afsluiten</string>
+    <string name="use_the_bike">De fiets gebruiken</string>
+    <string name="turn_light_content">Doe voor je eigen veiligheid de voor- en achterlichten aan voordat je deze fiets gebruikt. Doet de verlichting het niet? Meld het probleem en gebruik een andere fiets.</string>
+    <string name="safety_content">Volg alle fiets- en verkeersregels. Het gaat om je eigen veiligheid en om de veiligheid van anderen.</string>
+    <string name="is_delete_credit_card">Deze betaalpas verwijderen?</string>
+    <string name="delete_credit_card_content">Weet je zeker dat je deze betaalpas wilt verwijderen?</string>
+    <string name="not_now">Niet nu</string>
+    <string name="yes">Ja</string>
+    <string name="delete_only_credit_card">Weet je zeker dat je deze betaalpas wilt verwijderen? Dit is op dit moment je enige betaalmethode.</string>
+    <string name="maximum_payment">Je kunt maximaal vijf betaalmethoden toevoegen. Verwijder een betaalmethode voordat je een nieuwe toevoegt.</string>
+    <string name="payment_methods">Betaalmethoden</string>
+    <string name="change_default_payment_method">Weet je zeker dat je je standaard betaalmethode wilt wijzigen?</string>
+    <string name="please_enter_your_name">Vul je naam in</string>
+    <string name="please_enter_the_correct_expire_date">Vul de juiste vervaldatum in</string>
+    <string name="card_number">Pasnummer</string>
+    <string name="log_out_from_paypal">Afmelden bij je PayPal-account?</string>
+    <string name="sign_out_paypal_content">Weet je zeker dat je je wilt afmelden bij PayPal? Dit is op dit moment je enige betaalmethode.</string>
+    <string name="sign_out">Afmelden</string>
+    <string name="holder_name">Naam van de eigenaar</string>
+    <string name="credit_or_debit_card">Creditcard of pinpas</string>
+    <string name="report_success">Bedankt voor je melding.\nZet je fiets veilig op slot, wij zullen er dan voor zorgen.</string>
+    <!--dialog-->
+    <string name="not_supported_area">Sorry. Deze versie van ofo wordt niet ondersteund in jouw omgeving.</string>
+    <string name="add_payment_method">Betaalmethode toevoegen</string>
+    <string name="get_verification_code">Verificatiecode opvragen</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">Dit fietsnummer bestaat niet.\nControleer het fietsnummer en vul het opnieuw in.</string>
+    <string name="check_the_number">Controleer het nummer</string>
+    <string name="setting">Instelling</string>
+    <string name="friendly_reminder">Bericht</string>
+    <string name="update">Bijwerken</string>
+    <string name="have_new_version">Nieuwe versie</string>
+    <string name="ofo_has_no_camera_privilege">ofo heeft geen toegang tot de camera. \nGeef toegang tot de camera via je systeeminstellingen.</string>
+    <string name="ofo_has_no_location_privilege">ofo heeft geen toegang tot je locatie. \nGeef toegang tot je locatie via je systeeminstellingen.</string>
+    <string name="ofo_has_no_phone_status_privilege">ofo heeft geen machtigingen om de status van je telefoon te lezen. Geef via je systeeminstellingen toestemming om de status van je telefoon te lezen.</string>
+    <string name="please_enable_manually">Schakel gps in om je ofo-fiets te gebruiken.</string>
+    <string name="geoposition_not_allowed">De locatie kan niet worden vastgesteld. Geef de ofo-app toegang tot je locatiegegevens.</string>
+    <string name="cycling_trip_in_progress">Bezig met fietsen</string>
+    <string name="map_loading_failed">De kaart kan niet worden geopend. Probeer het opnieuw.</string>
+    <string name="unable_to_get_your_location">Je locatie kan niet worden vastgesteld. Controleer of er toegang tot de kaart is verleend en probeer het daarna opnieuw.</string>
+    <string name="exit_text">In een keer bij de uitgang</string>
+    <string name="code_success">Je verzoek is geaccepteerd. Een ogenblik geduld ...</string>
+    <string name="image_process_failed">Decoderen van afbeelding is mislukt</string>
+    <string name="cannot_create_image_file">Afbeeldingsbestand kan niet worden gemaakt</string>
+    <string name="submit">Verzenden</string>
+    <string name="close_lock_text">Stal je fiets in een omgeving waarin dat is toegestaan en waar anderen hem kunnen gebruiken, zoals een speciale fietsenstalling of aan een fietsenrek.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">Sorry. We kunnen je verzoek op dit moment niet verwerken. Probeer het opnieuw.</string>
+    <string name="api_error_net_timeout">Netwerkfout. Controleer je netwerk en probeer het opnieuw.</string>
+    <string name="api_error_not_logged_in">Meld je aan.</string>
+    <string name="input_card_number">Vul je pasnummer in</string>
+    <string name="input_card_expire_date">Vul de vervaldatum van je pas in</string>
+    <string name="input_correct_card_number">Vul het juiste pasnummer in</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">Ik heb het beleid van ofo gelezen en ga akkoord</string>
+    <string name="login_success_tip">Tijd om de weg op te gaan!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>Ik heb geen verificatiecode ontvangen.</u>]]></Data></string>
+    <string name="hit_the_road">Tijd om de weg op te gaan</string>
+    <string name="contact_us_desc">Laat ons weten hoe we onze diensten kunnen verbeteren. We lezen je bericht en nemen dan contact met je op.</string>
+    <string name="repair_tip">We nemen je melding door en zullen de fiets controleren.</string>
+    <string name="sign_out_only_paypal_payment">Weet je zeker dat je je wilt afmelden bij PayPal (%1$s)?</string>
+    <string name="set_new_card_to_default">Wil je deze betaalpas (%1$s) als je standaard betaalmethode instellen?</string>
+    <string name="coupon_expire_time">Deze voucher kan op elk gewenst moment tot * worden gebruikt.</string>
+    <string name="coupon_tip">Je krijgt een <Data><![CDATA[<font color="#000000"><b>voucher van *</b></font>]]></Data> voor je volgende rit!</string>
+    <string name="fee">Kosten (%1$s)</string>
+    <string name="balance">Saldo (%1$s)</string>
+    <string name="your_phone_number">Je mobiele nummer is $.</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">Rijtijd</string>
+    <string name="trip_not_end">Fietstocht niet afgerond?</string>
+    <string name="ridding_tip">Zet de fiets op slot; je rit wordt dan \nbinnen een minuut afgerond.</string>
+    <string name="confirm_and_pay">Controleren en betalen</string>
+    <string name="paypal_account">PayPal-account</string>
+    <string name="pay_now">Nu betalen</string>
+    <string name="my_deposit">Mijn aanbetaling</string>
+    <string name="refund">Terugbetaling</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">Scannen</string>
+    <string name="scan_qr_help">Help</string>
+    <string name="scan_qr_prompt">QR-code scannen</string>
+    <string name="turn_on">Inschakelen</string>
+    <string name="scan_qr_manually_number">Fietsnummer</string>
+    <string name="scan_qr_help_prompt">Scan de QR-code op het slot om de fiets te ontgrendelen.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">De fiets wordt ontgrendeld ...</string>
+    <string name="bluetooth_failed">De fiets kan niet worden ontgrendeld via Bluetooth. Ontgrendel hem met de code.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">Veiligheidsbeleid van ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">Wil je je aanbetaling terug laten storten?</string>
+    <string name="confirm">Bevestigen</string>
+    <string name="add_credit_or_debit_card">Creditcard of pinpas toevoegen</string>
+    <string name="refund_deposit">Aanbetaling terugstorten</string>
+    <string name="back">Terug</string>
+    <string name="confirm_locked">Controleer of de fiets veilig op slot staat.</string>
+    <string name="default_payment_method">Standaard betaalmethode</string>
+    <string name="payment_successful">Betaling gelukt</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">MM/JJ</string>
+    <string name="unlock">Ontgrendelen</string>
+    <string name="back_to_homepage">Terug naar startpagina</string>
+    <string name="expires_on">Vervalt op: %s</string>
+    <string name="delete_this_card">Deze betaalpas verwijderen</string>
+    <string name="choose_photo">Kies een foto</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">Met succes gekopieerd</string>
+    <string name="calling_codes">Oproepcodes</string>
+    <string name="promotions">Acties</string>
+    <string name="inbox">Postvak IN</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">VERV. Datum</string>
+    <string name="card_exp_desc">De vervaldatum van je betaalpas staat op de voorkant, onder je creditcardnummer.</string>
+    <string name="cid_desc">De groep cijfers op de voorkant van je pas vormt je creditcardnummer.</string>
+    <string name="cvv_cvc_desc">Je CVC is een driecijferige code op de achterkant van je pas.</string>
+    <string name="walking">lopen</string>
+    <string name="away">verwijderd</string>
+    <string name="evaluated_on">Gecontroleerd op</string>
+    <string name="credit_record">Tegoeden</string>
+    <string name="rules">Regels</string>
+    <string name="loading">Bezig met openen ...</string>
+    <string name="location_error">Controleer of ofo toegang tot je locatie heeft gekregen.</string>
+    <string name="report_broken_bike">Kapotte fiets.</string>
+    <string name="report_unauthorized_lock">Fiets met ongeautoriseerd slot</string>
+    <string name="report_no_available_bike">Geen beschikbare fiets</string>
+    <string name="report_illegal_parking">Fout gestald</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">Oké</string>
+    <string name="scan_qr_failed">Scannen mislukt. Vul het fietsnummer in.</string>
+    <string name="scan_qr_no_net">Controleer of je internetverbinding werkt.</string>
+    <string name="scan_qr_time_out">Scannen mislukt. Vul het fietsnummer in.</string>
+    <string name="scan_qr_mechanical_input">Deze fiets heeft een mechanisch slot. Vul de code handmatig in.</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">Oeps</string>
+    <string name="ble_unlock_get_pwd">Code opvragen</string>
+    <string name="use_bike_pwd_help_title">Help</string>
+    <string name="no_data">Geen gegevens</string>
+    <string name="no_coupons">Geen coupons</string>
+    <string name="no_activities">Nog geen activiteiten</string>
+    <string name="parsing_error">Fout bij parseren van gegevens</string>
+    <string name="home_unlock">Ontgrendelen</string>
+    <string name="pricing_instruction">ofo biedt tijdelijk een voucher van <Data><![CDATA[<font color="#000000"><b>%1$s</b></font>]]></Data> voor elke gemaakte rit.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">Afstand (%1$s)</string>
+    <string name="duration">Duur (%1$s)</string>
+    <string name="carbon">Koolstof (%1$s)</string>
+    <string name="current_costs">Ritkosten: <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">Aanbetaling (%1$s)</string>
+    <string name="bike_no">Fietsnr.</string>
+    <string name="price_amount">Prijs</string>
+    <!--用车费用-->
+    <string name="coupon_amount">Voucher</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/uur, max.-bedrag: %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">Controleer de fiets voordat je deze gebruikt. Eventuele problemen kun je <Data><![CDATA[<u><font color="#007AFF">hier</font></u>]]></Data> binnen 2 minuten melden</string>
+    <string name="my_credit_value">Mijn tegoed: %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">ssl-cert. ongeldig</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">Toevoegen en betalen</string>
+    <string name="no">NEE</string>
+    <string name="load_web_page_fail">De webpagina kan niet worden geopend.</string>
+    <string name="share_cancelled">Je hebt de bestelling geannuleerd.</string>
+    <string name="no_facebook_account">Geen Facebookaccount</string>
+    <string name="facebook_setting">Er zijn geen Facebookaccounts geregistreerd. Je kunt een Facebookaccount toevoegen of maken via \'Instellingen\'</string>
+    <string name="no_twitter_account">Geen Twitteraccount</string>
+    <string name="twitter_setting">Er zijn geen Twitteraccounts geregistreerd. Je kunt een Twitteraccount toevoegen of maken via \'Instellingen\'</string>
+    <string name="confirm_turnon_bluetooth">Controleer of Bluetooth is ingeschakeld</string>
+    <string name="unlock_with_bluetooth">Ontgrendelen met Bluetooth</string>
+    <string name="server_error">Het spijt ons, maar onze systemen zijn bezet. Probeer het later opnieuw.</string>
+    <string name="camera_access_denied">Controleer of ofo toegang tot je camera heeft gekregen. Je kunt dit controleren via \'Instellingen\' > \'Privacy\' > \'Camera\'</string>
+    <string name="settings">Instellingen</string>
+    <string name="pricing_tap_to_retry">Er is een uitzondering in het netwerk opgetreden. Tik om het opnieuw te proberen.</string>
+    <string name="photo_access_denied">Controleer of ofo toegang tot je foto\'s heeft gekregen. Je kunt dit controleren via \'Instellingen\' > \'Privacy\' > \'Foto\'s\'</string>
+    <!-- 通用 -->
+    <string name="invite_friends">Vrienden uitnodigen</string>
+    <string name="your_invitation_code">Je uitnodigingscode</string>
+    <string name="share_invitation_code_content">Download ofo, vul de actiecode in en fiets GRATIS.</string>
+    <string name="ride_illegal_parking">Je kunt deze rit helaas niet afronden. Stal de fiets in een toegestane omgeving en tik vervolgens op \'Rit voltooid\'.</string>
+    <string name="tab_reason">Selecteer hier je reden</string>
+    <string name="next">Volgende</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">Geen vouchers beschikbaar</string>
+    <string name="deposit_description">Je kunt je aanbetaling op elk moment laten terugstorten.</string>
+    <string name="deposit_refund_success">Het restitutieverzoek is verzonden. Het duurt normaal gesproken 2 tot 15 werkdagen voordat het geld is teruggestort.</string>
+    <string name="bind_card_prompt">Voeg een betaalmethode (creditcard/pinpas) aan je account toe voordat je op de fiets stapt - Er zijn algemene voorwaarden van toepassing</string>
+    <string name="bike_parking_area">Zone voor het stallen van fietsen</string>
+    <string name="continue_common">Volgende</string>
+    <string name="repair_a_broken_bike">Een kapotte fiets melden</string>
+    <string name="tips_repair_take_photo">Maak een foto van het kapotte fietsonderdeel</string>
+    <string name="brake">Rem</string>
+    <string name="not_show_again">Niet opnieuw tonen</string>
+    <string name="legal_area">Toegestane zone</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">Calorieën (%1$s)</string>
+    <string name="gender">geslacht</string>
+    <string name="birthday">geboortedatum</string>
+    <string name="male">Man</string>
+    <string name="female">Vrouw</string>
+    <string name="please_select_the_broken_bike_part">Selecteer het kapotte fietsonderdeel</string>
+    <!--ios专用-->
+    <string name="here">hier</string>
+    <string name="privacy_camera_usage_description">ofo heeft toegang tot je camera nodig om je de beste gebruikerservaring te kunnen bieden!</string>
+    <string name="privacy_photo_library_usage_description">ofo heeft toegang tot je fotobibliotheek nodig.</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">Nodig een vriend(in) uit voor ofo en profiteer allebei van gratis ritten!</string>
+    <string name="my_credit">Mijn creditscore</string>
+    <string name="reservation">Reservering</string>
+    <string name="reserve_title">Je kunt een fiets 15 minuten reserveren</string>
+    <string name="reserve_content">Je kunt maximaal één fiets per keer reserveren of gebruiken.</string>
+    <string name="make_reserve">Reserveren</string>
+    <string name="make_another_reserve">Nog een reservering</string>
+    <string name="use_now">Nu gebruiken</string>
+    <string name="reserve_expired_prompt">Reservering vervalt over</string>
+    <string name="scanning">Bezig met scannen</string>
+    <string name="bike_number">Fietsnummer</string>
+    <string name="reserve">Reserveren</string>
+    <string name="cancel_failed">Annuleren mislukt</string>
+    <string name="payment_failed">Betaling mislukt</string>
+    <string name="payment_canceled">Betaling geannuleerd</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">Vorige reservering is verlopen om</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="invalid_mobile_number">This phone number is invalid</string>
+    <string name="select_country">Select a Country</string>
+    <string name="search_for_country">Search for a Country</string>
+    <string name="current_location">Current Location</string>
+    <string name="verify_mobile">Verify mobile number</string>
+    <string name="verify_mobile_prompt">Enter the verification code sent to you at %s</string>
+    <string name="send_again">Re-send</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">voer je e-mailadres in</string>
+    <string name="email_spell_error">please check your email</string>
+    <string name="email_sensitive_error">please sign up with your personal email</string>
+    <string name="email_label_text">Email Address</string>
+    <string name="mobile_label_text">Mobile Number</string>
+    <string name="sign_up_email_hint_text">name@example.com</string>
+    <string name="sign_up_policy_text">By continuing, I confirm that I have read and agree to the ofo Policy.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">Tap here to start</string>
+    <string name="guide_text_about_find_bike">Vind een fiets in de buurt</string>
+    <string name="skip">Skip</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">Duw op de hendel van het slot om de trip te beëindigen.</string>
+    <string name="repair_guide_prompt">Bike doesn\'t work</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">Door het ontbreken van Google Play en Google Maps zijn de locatievoorzieningen van Google niet beschikbaar voor ofo. Installeer beide apps en probeer het opnieuw.</string>
+    <!--通用-->
+    <string name="get_the_lock_code">Vergrendelingscode opvragen</string>
+    <string name="change_default_method">Standaardmethode wijzigen?</string>
+    <string name="please_enter_your_card_cvv">Vul de cvv-code van je pas in</string>
+    <string name="take_photo">Foto maken</string>
+    <string name="refund_tip">Selecteer de reden voor het terugstorten van je aanbetaling</string>
+    <string name="none_of_these_above">Geen van bovenstaande</string>
+    <string name="cancel_success">Annulering geslaagd</string>
+    <string name="scan_qr_reserve_help">scan_qr_reserve_help</string>
+    <string name="verify_code_help">Controleer je netwerk en probeer het opnieuw.</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">Ontgrendelen met vergrendelingscode</string>
+    <string name="camera_privacy_title">Geef ofo toegang tot je camera</string>
+    <string name="privacy_location_always_usage_description">ofo heeft toegang tot je locatie nodig om je rit te registreren.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">ofo heeft toegang tot Bluetooth nodig om sneller te kunnen ontgrendelen</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk">By continuing, I confirm that I have read and agree to the ofo Policy, including I am over 16 years old.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">Are you sure to delete?</string>
+    <string name="delete">Delete</string>
+    <string name="time_walking">%1$s lopen</string>
+    <string name="distance_away">%1$s afstand</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="credit_score">Credit Score</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">Fietslocatie</string>
+    <string name="repair_input_hint_text">Verplicht veld</string>
+    <string name="repair_input_bike_part_text">Meer informatie over kapotte onderdelen</string>
+    <string name="repair_discription_more_than_count">Je kunt niet meer dan 140 tekens invoeren.</string>
+    <string name="illegal_parking_title">Illegaal parkeren</string>
+    <string name="unauthorizedlock_title">Fiets met ongeoorloofd slot</string>
+    <string name="part_helmet">Helm</string>
+    <string name="part_plate">Spatbord</string>
+    <string name="part_tire">Band</string>
+    <string name="part_others">Overig</string>
+    <string name="part_seat">Zadel</string>
+    <string name="part_lock">Slot</string>
+    <string name="part_chain">Ketting</string>
+    <string name="part_pedal">Pedaal</string>
+    <string name="invalid_card_number">Ongeldig cardnummer. Voer een correct nummer in en probeer het opnieuw.</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">Rapport ontvangen</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">Deze trip beoordelen</string>
+    <string name="rate_one_comment">Super teleurgesteld</string>
+    <string name="rate_two_comment">Slechte ervaring</string>
+    <string name="rate_three_comment">Kan beter</string>
+    <string name="rate_four_comment">Tevreden</string>
+    <string name="rate_five_comment">Fantastisch!</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_p">Wat ging er volgens jou mis met ofo?</string>
+    <string name="feedback_comment_hint">Meer opmerkingen over deze trip</string>
+    <string name="feedback_ok_tips">Bedankt voor je feedback. We zullen onze dienstverlening gauw verbeteren</string>
+    <string name="unlock_notification">Duw tegen de hendel van het slot om je trip te beëindigen</string>
+    <string name="login_home_discription">Ontgrendel elke hoek van de wereld</string>
+    <string name="enjoy_ofo">Bevalt ofo?</string>
+    <string name="gp_guide_content">We hebben je steun nodig in de App Store. Zou je ons een positieve beoordeling willen geven?</string>
+    <string name="go_gp">Ga</string>
+    <string name="turn_on_bt">Schakel Bluetooth in om sneller te ontgrendelen</string>
+    <string name="uninstall_google_play">Google Play kon niet worden gevonden op je telefoon. Installeer eerst Google Play en probeer het vervolgens opnieuw.</string>
+    <string name="uninstall_facebook">Facebook kon niet worden gevonden op je telefoon. Installeer eerst Facebook en probeer het vervolgens opnieuw.</string>
+    <string name="uninstall_twitter">Twitter kon niet worden gevonden op je telefoon. Installeer eerst Twitter en probeer het vervolgens opnieuw.</string>
+    <!--支付相关-->
+    <string name="bind_failed">koppelen is mislukt, controleer je gegevens.</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">Aanbevolen parkeerzone</string>
+    <string name="recommend_parking_spot_iw_title">Aanbevolen parkeerplek</string>
+    <string name="fence_area_no_reward">We raden aan dat je in dit gebied parkeert.</string>
+    <string name="fence_spot_no_reward">We raden aan dat je bij deze locatie parkeert.</string>
+    <string name="fence_area_credit_reward">Als je in dit gebied parkeert, krijg je <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> als bonus.</string>
+    <string name="fence_area_credit_and_coupon_reward">Als je in dit gebied parkeert, krijg je <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> en <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> als bonus.</string>
+    <string name="fence_spot_credit_reward">Als je bij de locatie parkeert, krijg je <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> als bonus.</string>
+    <string name="fence_spot_credit_and_coupon_reward">Als je bij de locatie parkeert, krijg je <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> en <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> als bonus.</string>
+    <string name="parking_reward_credit_point">tegoedpunt</string>
+    <string name="parking_reward_credit_points">tegoedpunten</string>
+    <string name="parking_reward_coupon">voucher</string>
+    <string name="parking_reward_coupons">vouchers</string>
+    <string name="blue_area_comment">blauw gebied</string>
+    <string name="price_free">GRATIS</string>
+    <string name="price_free_time">Gratis te gebruiken</string>
+    <string name="price_cost_30mins_time">Per 30 min.</string>
+    <string name="price_cost_1h_time">Per 1 uur</string>
+    <string name="distance_txt">Afstand</string>
+    <string name="price_banner_time_txt">Geschatte tijd</string>
+    <string name="safe_prompt">VEILIGHEIDSBESCHERMING</string>
+    <string name="add">Toevoegen</string>
+    <string name="del_payment_fail">Het spijt ons, maar deze card kon niet worden verwijderd. Probeer het later opnieuw</string>
+    <string name="balance_account">Saldo</string>
+    <string name="pay_another_card">Betalen met een andere card</string>
+    <string name="map_route_error">Geen routebeschrijving beschikbaar</string>
+
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">De lengte van de CVC klopt niet, voer nogmaals in en probeer het opnieuw</string>
+    <string name="card_not_support">We ondersteunen dit type pas op dit moment niet. Neem contact op met onze klantenservice.</string>
+    <string name="more_detail_input_hint">Meer informatie</string>
+    <string name="need_addcard_dialog_title">Nog één stap</string>
+    <string name="need_addcard_dialog_message">Voeg een creditcard of betaalpas aan je account toe zodat je op de fiets kunt stappen.</string>
+    <string name="go_to_bind_card">Gaan</string>
+    <string name="sign_up_policy_text_contain_years">Door verder te gaan, bevestig ik dat ik minstens %1$s jaar oud ben en dat ik heb kennisgenomen van en akkoord ga met het <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>beleid van ofo</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text_contain_years">Door verder te gaan, bevestig ik dat ik minstens %1$s jaar oud ben en dat ik heb kennisgenomen van en akkoord ga met het <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>privacybeleid</b></a></font>]]></Data> en de <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>gebruiksvoorwaarden</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text">Door verder te gaan, bevestig ik dat ik heb kennisgenomen van en akkoord ga met het <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>privacybeleid</b></a></font>]]></Data> en de <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>gebruiksvoorwaarden</b></a></font>]]></Data>.</string>
+    <string name="sign_up_one_policy_text">Door verder te gaan, bevestig ik dat ik heb kennisgenomen van en akkoord ga met het <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>beleid van ofo</b></a></font>]]></Data>.</string>
+
+    <!--2.0-->
+    <string name="trip_detail_numb">Fietsnr.%1$s · Kosten %2$s</string>
+    <string name="dialog_error_msg">Er is iets misgegaan...</string>
+    <string name="success">Gelukt</string>
+    <string name="top_up_success">Opwaarderen is gelukt, je tegoed bedraagt %s.</string>
+    <string name="deposit_success">De storting is gelukt, veel plezier met fietsen!</string>
+    <string name="available">Beschikbaar</string>
+    <string name="unavailable">Onbeschikbaar</string>
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_payment_methods">Betaalmethode</string>
+    <string name="about_ofo_intro">ofo is een wereldwijd fietsdeelplatform. We willen korte ritten handiger en milieuvriendelijker maken. Laat de auto staan en pak wat vaker de fiets!</string>
+    <string name="about_current_version">Huidige versie</string>
+    <string name="about_contact_us">Contact</string>
+    <string name="about_call_us">Bel ons (24/7 bereikbaar)</string>
+    <string name="about_ofo_title">Over ofo</string>
+    <string name="promotion_hint">Actiecode</string>
+    <string name="promotions_title">Acties</string>
+    <string name="promotion_apply_btn">TOEPASSEN</string>
+    <string name="trip_list_header_tips">Totale afstand (%1$s)/ritten</string>
+    <string name="consumption">Verbruik</string>
+    <string name="about_rights_text">2018 ofo Alle rechten voorbwehouden</string>
+    <string name="promotion_apply_success">Toepassen is gelukt</string>
+    <string name="no_next_page_data">Dit is de laatste pagina, er zijn geen gegevens.</string>
+    <string name="trips_end_coupon_discount">Je hebt %1$s bespaard!</string>
+    <string name="questions_about_the_cost">Vragen over de kosten？</string>
+    <string name="rate_this_trip">Deze rit beoordelen</string>
+    <string name="rate_questions">Was de fiets kapot?</string>
+    <string name="share_the_ride">DEZE RIT DELEN</string>
+    <string name="need_bind_card_text">Voor je eigen betaalgemak koppel je een betaalmethode bij je volgende rit.</string>
+    <string name="contact_us_email">E-mail: %1$s</string>
+    <string name="contact_us_phone">Bel ons: %1$s</string>
+    <string name="contact_us_title">Contact</string>
+    <string name="contact_us_message">Vertel ons hoe we onze dienstverlening kunnen verbeteren. We zullen contact met je opnemen.</string>
+    <string name="request_failed">Verzoek mislukt</string>
+    <string name="login_enter_mail_tips">Meld je aan met je telefoonnummer</string>
+    <string name="signup_enter_mail_tips">Registreer met je e-mailadres en telefoonnummer</string>
+    <string name="login_email_hint">naam@voorbeeld.com</string>
+    <string name="sign_up_txt">Registreren</string>
+    <string name="login_in_txt">Aanmelden</string>
+    <string name="login_verifycode_format_str">Voer de verificatiecode in die naar je is verzonden om <Data><![CDATA[<b>%1$s</b>]]></Data></string>
+    <string name="verifycode_send_again">Opnieuw sturen over %1$ss</string>
+    <string name="send_again_verifycode">Opnieuw sturen</string>
+    <string name="mobile_invalid">Voer een geldig telefoonnummer in</string>
+    <string name="feedback_comment_edittext_hint">Meer opmerkingen</string>
+    <string name="feedback_top_tips">We stellen je feedback erg op prijs</string>
+    <string name="unauthorizedlock_discrition">Vind je een fiets met een ongeoorloofd slot, vertel ons dan waar de fiets staat.</string>
+    <string name="default_payment_option">Standaard betaaloptie</string>
+    <string name="select_payment_option">Betaaloptie selecteren</string>
+    <string name="need_help">Hulp nodig?</string>
+    <string name="not_forget_anything">Zorg dat je niks achterlaat op de fiets.</string>
+    <string name="tips">tips</string>
+    <string name="unlock_success">Ontgrendelen is gelukt</string>
+    <string name="unlock_fail">Ontgrendelen is mislukt</string>
+    <string name="trips_end_price">Prijs: %1$s</string>
+    <string name="ofoScore">ofo-score</string>
+    <string name="bind_card_content">Voeg een creditcard of bankpas toe om van nog meer ritten te genieten.</string>
+    <string name="view_last_trip">Wil je je laatste rit bekijken?</string>
+    <string name="view_last_trip_description">Kosten: %1$s</string>
+    <string name="pay_token_invalid">Sorry, de betaalmethode die u heeft geselecteerd, moet op dit moment worden afgebroken. Wilt u nu opnieuw binden?</string>
+    <string name="select_region">Selecteer een Land/Regio</string>
+    <string name="search_for_region">Zoeken naar een land/regio</string>
+    <!--2.0未翻译-->
+    <string name="me_title">Ik</string>
+    <string name="end_code_to_unlock">Voer een code in om te ontgrendelen</string>
+    <string name="park_outside_fence_title">Je parkeert buiten de aangewezen fietsdeelzones</string>
+    <string name="park_inside_fence_title">Je parkeert de fiets in het aangewezen gebied</string>
+    <string name="payment_failed_try_again">Betaling is mislukt. Probeer het opnieuw</string>
+    <string name="enjoy_your_ride">Veel plezier op je rit!</string>
+    <string name="refund_failed_try_again">Restitutieverzoek is mislukt. Probeer het later opnieuw.</string>
+    <string name="typing">Typen</string>
+    <string name="payment_selection">Betaalkeuze</string>
+    <string name="payment_selection_prompt">Kies de betaalmethode die je wilt toevoegen</string>
+    <string name="credit_debit_card">Creditcard/pinpas</string>
+    <!--paytm truemoney 固定名词，不用多语言翻译-->
+    <string name="pay_tm">Paytm</string>
+    <string name="true_money">TrueMoney Wallet</string>
+    <string name="fail">mislukt</string>
+    <!--2.1-->
+    <string name="pass_in_use">IN GEBRUIK</string>
+    <string name="pass_purchase_button">Kopen</string>
+    <string name="pass_renew_button">Verlengen</string>
+    <string name="pass_remaining">Resterend</string>
+    <string name="recharge">Opwaarderen</string>
+    <string name="bike_pass_not_open">Er is geen fietspas geopend in deze stad.</string>
+    <string name="bike_pass_frozen_title">De fietspas is bevroren, omdat je aanbetaling is teruggeboekt.</string>
+    <string name="bike_pass_frozen_dialog_content">Betaal de aanbetaling direct om het gebruik te hervatten.</string>
+    <string name="next_time">VOLGENDE KEER</string>
+    <string name="purchase_pass_title">ofo-pas kopen</string>
+    <string name="renew_pass_title">ofo-pas verlengen</string>
+    <string name="pass_includes">Pas is inclusief:</string>
+    <string name="ofo_pass">ofo-pas</string>
+    <string name="congratulation">Gefeliciteerd!</string>
+    <string name="bike_pass_remaining">Je hebt nu nog %1$s dagen over op je fietspas.</string>
+    <string name="charge_pass_failed">Betaling is mislukt. Probeer het later opnieuw</string>
+    <string name="bike_actived">Je fietspas is geactiveerd</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">Beheren</string>
+    <string name="pass_header_cancle_dialog_title">Abonnement annuleren</string>
+    <string name="pass_header_cancle_dialog_content">Je huidige abonnement blijft geldig totdat het op %1$s verloopt</string>
+    <string name="consider_it_again">Weet je het zeker?</string>
+    <string name="confirm_purchase">Abonnement bevestigen</string>
+    <string name="pass_no_periodicity_content">Wil je een abonnement op een %1$s ofo-pas voor %2$s? Dit abonnement wordt automatisch verlengd totdat je het opzegt.</string>
+    <string name="pass_periodicity_content">Wil je een abonnement op een %1$s ofo-pas voor %2$s? Je abonnement gaat in op %3$s</string>
+    <string name="subscription_success">Abonneren is gelukt</string>
+    <string name="pass_your_bike_pass">Veel plezier met fietsen!</string>
+    <string name="subscriptions_and_privacy">Abonnementen en gebruikersprivacy</string>
+    <string name="change_fail">Wijzigen is mislukt</string>
+    <string name="optional_bike_pass">Kies een ofo-pas</string>
+    <string name="canceled_successfully">Opzeggen is gelukt</string>
+    <!--V2.3-->
+    <string name="home_guide_p_one">Vind een fiets</string>
+    <string name="home_guide_c_one">Open de app en vind alle ofo-fietsen bij jou in de buurt.</string>
+    <string name="home_guide_p_two">Scannen en ontgrendelen</string>
+    <string name="home_guide_c_two">Scan de QR-code op de fiets om deze te ontgrendelen en je rit te beginnen.git</string>
+    <string name="home_guide_p_three">Parkeren en vergrendelen</string>
+    <string name="home_guide_c_three">Parkeer de fiets waar dat veilig kan en toegestaan is. Druk vervolgens het slot met de hand omlaag om de rit te beëindigen.</string>
+    <string name="never_mind">LAAT MAAR</string>
+    <string name="yes_cancel">JA, ANNULEREN</string>
+    <string name="end_trip_dialog_content">Zorg dat het slot gesloten is voordat je je rit beëindigt.</string>
+    <string name="auto_pay_failed">Automatische betaling is mislukt. Gebruik een andere betaalmethode of koppel een nieuwe bankpas.</string>
+    <string name="pay">BETALEN</string>
+    <string name="protrait">Portret</string>
+    <!--V2.4-->
+    <string name="try_now">Probeer het nu</string>
+    <string name="visitor_last_step">Hopelijk bevalt ofo. Meld je aan om te blijven fietsen!</string>
+    <string name="visitor_free_ride_banner">Je hebt %1$s gratis ritten gekregen! Registreer je later</string>
+    <string name="card_cid_des">Een viercijferige code op je creditcard, die je aan de voorkant van je card kunt vinden.</string>
+    <string name="card_cvc_des">Een driecijferige code op je creditcard, die je aan de achterkant van je card kunt vinden.</string>
+    <string name="card_exp_date_des">Je kunt deze datum op de voorkant van je card vinden, onder het cardnummer.</string>
+    <string name="contact_select_btn_content">vrienden uitnodigen (%1$s)</string>
+    <string name="invite_friends_dialog_title">Je hebt gratis ritten gedeeld met vrienden!</string>
+    <string name="invite_friends_search_tip">Zoeken</string>
+    <string name="invite_friends_no_data_content">Wil je een van je contactpersonen kiezen, geef dan toestemming in de Instellingen.</string>
+    <string name="invite_friends_permission_dialog_title">Toegang tot adresboek</string>
+    <string name="invite_friends_permission_dialog_content">Wanneer je je contactpersonen koppelt, kun je eenvoudig vrienden selecteren en uitnodigen voor ofo. Voor elke vriend die zich registreert en een rit maakt, verdien jij 3 gratis ritten!</string>
+    <string name="invite_friends_no_allow">Niet toestaan</string>
+    <string name="invite_friends_allow">Toestaan</string>
+    <string name="invite_friends_top_content">Nodig vrienden uit voor ofo. Als ze zich registreren, krijg jij 3 gratis ritten!</string>
+    <string name="free_rides">Gratis ritten</string>
+    <string name="contact_access_failed">Toegang tot contactpersonen is mislukt.</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">Verdergaan met Facebook</string>
+    <string name="facebook_verify_code_tip">Om je nog beter van dienst te kunnen zijn, hebben we misschien je telefoonnummer nodig</string>
+    <string name="facebook_input_code_hint">Verificatiecode</string>
+    <string name="facebook_send">Versturen</string>
+    <string name="share_this_ride">Deze rit delen</string>
+    <string name="share_reason">ofo is geweldig</string>
+    <string name="share_feel">#ontdek met ofo</string>
+    <string name="share_calories">Calorieën</string>
+    <string name="share_distance">Afstand</string>
+    <string name="share_duration">Duur</string>
+    <string name="share_to_facebook">Delen op Facebook</string>
+    <!--2.5未翻译-->
+    <string name="share_failed">delen is mislukt</string>
+    <string name="share_success">delen is gelukt</string>
+    <string name="share_cancel">delen is geannuleerd</string>
+    <string name="share_thanks">Bedankt voor het delen!</string>
+    <string name="gse_earned_tv">Je hebt GSE verdiend met deze rit!</string>
+    <string name="photo_saved">Foto is opgeslagen</string>
+    <string name="share_carbon">Koolstof</string>
+    <!--2.6未翻译-->
+    <string name="invite_friends_received_invite_code">Heb je een uitnodigingscode ontvangen?</string>
+    <string name="invite_friends_tip_one">Kies vrienden uit je contactpersonen</string>
+    <string name="invite_friends_tip_two">ofo verstuurt de uitnodigings-sms voor je</string>
+    <string name="invite_friends_tip_three">Herinner je vrienden om zich aan te melden met je uitnodigingscode</string>
+    <string name="invite_friends_invite_record">Uitnodigingsgegevens</string>
+    <string name="invite_friend_success_invited">Suucevol uitgenodigde vrienden</string>
+    <string name="invite_friend_free_rides_received">Ontvangen gratis ritten</string>
+    <string name="invite_friend_share_invite_code">Deel je uitnodigingscode:</string>
+    <string name="invite_friend_setting_tip">Wil je personen uit je contactpersonen uitnodigen, geef dan toestemming in de Instellingen</string>
+    <string name="invite_friend_invite_preview">Uitnodigingsvoorbeeld</string>
+    <string name="invite_friend_message_content">【ofo】Je vriend heeft je zojuist 3 GRATIS ritten met ofo gestuurd! Neem ze in ontvangst door hier de app te downloaden</string>
+    <string name="invite_friends_invite_sent">Uitnodiging verzonden</string>
+    <string name="invite_friends_invite_success_content">Je hebt gratis ritten gedeeld met vrienden! Vergeet niet om ze eraan te herinneren om zich aan te melden en een rit te maken!</string>
+    <string name="invite_friends_share_content">Ik stuur je 3 GRATIS ritten met ofo! Neem je ritten in ontvangst door hier de app te downloaden:</string>
+    <string name="invite_friends_share_code_success">Uitnodigingscode is gedeeld</string>
+    <string name="try_not_now_free">Niet proberen</string>
+    <string name="conditions">Algemene voorwaarden bekijken</string>
+    <string name="enjoy">GENIET VAN DE RIT</string>
+    <string name="free_week">Begin je gratis week</string>
+    <string name="refresh">vernieuwen</string>
+    <string name="reload_pay_list">vernieuw om de betalingslijst te laden</string>
+    <string name="congratulations">Gefeliciteerd! Je gratis week is actief</string>
+</resources>

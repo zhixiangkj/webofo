@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--转场共享元素名称-->
+    <string name="inbox_share_view">inbox_share_view</string>
+    <string name="inbox_img_iv">inbox_img_iv</string>
+    <string name="inbox_small_img_iv">inbox_small_img_iv</string>
+    <string name="inbox_title_tv">inbox_title_tv</string>
+    <string name="inbox_content_tv">inbox_content_tv</string>
+</resources>

@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">Entrez votre code de vérification</string>
+    <string name="enter_your_phone_number">Entrez votre numéro de téléphone</string>
+    <string name="whats_your_phone_number">Quel est votre numéro de téléphone ?</string>
+    <string name="re_send">Renvoyer</string>
+    <string name="name">Nom</string>
+    <string name="email">E-mail</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="log_out">Déconnexion</string>
+    <string name="save">Enregistrer</string>
+    <string name="user_name">Nom d\'utilisateur</string>
+    <string name="cancel">Annuler</string>
+    <string name="done">Terminé</string>
+    <string name="my_wallet">Mon portefeuille</string>
+    <string name="enter_the_bike_number">Entrez le numéro de vélo</string>
+    <string name="detail">Détail</string>
+    <string name="top_up">Recharger</string>
+    <string name="share_my_ride">Partager mon trajet</string>
+    <string name="use_bike_unlock_desc">Code du vélo n°%s</string>
+    <string name="my_coupons">Mes Coupons</string>
+    <string name="trip_completed">Trajet terminé</string>
+    <string name="trip_to_start_ride">Commencez votre trajet à vélo !</string>
+    <string name="phone_number_not_in_service">Assurez-vous que votre téléphone fonctionne, que vous êtes dans une zone dotée d\'une bonne réception et réessayez.</string>
+    <string name="invalid_phone_number">Assurez-vous que votre numéro de téléphone est correct.</string>
+    <string name="default_username">Utilisateur ofo</string>
+    <string name="edit">Modifier</string>
+    <string name="pricing">Prix</string>
+    <string name="oops">Oups !</string>
+    <string name="coupon_uppercase">COUPON</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">Le trajet vous coûtera</string>
+    <string name="lock_the_bike">Merci d\'avoir utilisé ofo !\nN\'oubliez pas de verrouiller le vélo.</string>
+    <string name="contact_us">Nous contacter</string>
+    <string name="verifying">Vérification…</string>
+    <string name="my_trips">Mes trajets</string>
+    <string name="retry">Réessayer</string>
+    <string name="coupons_available">Coupons disponibles</string>
+    <string name="user_guide">Guide utilisateur</string>
+    <string name="about_ofo">À propos d\'ofo</string>
+    <string name="trip_detail">Détails du trajet</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">Réduction estimée de l\'empreinte carbone</string>
+    <string name="verification_completed">Vérification terminée</string>
+    <string name="invalid_verification_code">Code de vérification invalide</string>
+    <string name="log_in_sign_up">CONNEXION/INSCRIPTION</string>
+    <string name="login_privacy_hint">Vos données sont protégées et elles ne seront jamais affichées ou partagées publiquement.\n</string>
+    <string name="about_you">À propos de vous</string>
+    <string name="username_length_invalid">Désolé, votre nom d\'utilisateur doit contenir entre 3 et 15 caractères.</string>
+    <string name="username_contain_ofo_invalid">Désolé, les noms d\'utilisateur « ofo » et « admin » ne sont pas autorisés.</string>
+    <string name="email_invalid">Veuillez entrer une adresse e-mail valide.</string>
+    <string name="username_contain_emoji_invalid">Désolé, votre nom d\'utilisateur ne peut contenir que des caractères alphanumériques et des tirets bas.</string>
+    <string name="riding">En train de faire du vélo</string>
+    <string name="payment">Paiement</string>
+    <string name="new_guide_tip">Vous avez reçu un coupon de notre part !\ofo offre un coupon gratuit pour chaque trajet terminé pendant une période limitée.</string>
+    <string name="new_guide_step_one_tip">Entrez le numéro du vélo que vous voulez utiliser</string>
+    <string name="new_guide_step_two_tip">Obtenez le code du cadenas du vélo</string>
+    <string name="new_guide_show_code_tip">Utilisez le code pour déverrouiller le vélo</string>
+    <string name="got_it">C\'est compris</string>
+    <string name="trip_no_data">Vous n\'avez aucun trajet enregistré. Commencez à faire du vélo maintenant !</string>
+    <string name="repair_title">Quel problème avez-vous rencontré avec ce vélo ?</string>
+    <string name="need_repair">Réparation nécessaire</string>
+    <string name="report_the_problem">Signaler le problème</string>
+    <string name="get_another_bike">Obtenir un autre vélo</string>
+    <string name="report_error_msg">Veuillez sélectionner une raison pour ce rapport</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_the_lights">Allumez les feux</string>
+    <string name="Quit">Quitter</string>
+    <string name="use_the_bike">Utiliser le vélo</string>
+    <string name="turn_light_content">Pour votre sécurité, veuillez vérifier le fonctionnement des feux avant et arrière avant d\'utiliser ce vélo. Si les feux ne fonctionnent pas, veuillez signaler le problème et utiliser un autre vélo.</string>
+    <string name="safety_content">Pour votre sécurité et celle des autres utilisateurs, veuillez respecter toutes les lois et réglementations de cyclisme et de circulation.</string>
+    <string name="is_delete_credit_card">Supprimer cette carte ?</string>
+    <string name="delete_credit_card_content">Voulez-vous vraiment supprimer cette carte ?</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="yes">Oui</string>
+    <string name="delete_only_credit_card">Voulez-vous vraiment supprimer cette carte ? C\'est actuellement votre seule méthode de paiement.</string>
+    <string name="maximum_payment">Vous pouvez avoir jusqu\'à cinq méthodes de paiement. Veuillez supprimer une méthode de paiement avant d\'en ajouter une nouvelle.</string>
+    <string name="payment_methods">Méthodes de paiement</string>
+    <string name="change_default_payment_method">Voulez-vous vraiment changer votre méthode de paiement par défaut ?</string>
+    <string name="please_enter_your_name">Veuillez entrer votre nom</string>
+    <string name="please_enter_the_correct_expire_date">Veuillez entrer une date d\'expiration correcte</string>
+    <string name="card_number">Numéro de carte</string>
+    <string name="log_out_from_paypal">Se déconnecter de votre compte PayPal ?</string>
+    <string name="sign_out_paypal_content">Voulez-vous vraiment vous déconnecter de PayPal ? C\'est actuellement votre seule méthode de paiement.</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="holder_name">Nom du titulaire de la carte</string>
+    <string name="credit_or_debit_card">Carte bancaire</string>
+    <string name="report_success">Merci de votre rapport.\nVeuillez verrouiller fermement le vélo et nous nous en occuperons.</string>
+    <!--dialog-->
+    <string name="not_supported_area">Désolé. Cette version d\'ofo n\'est pas prise en charge dans votre région.</string>
+    <string name="add_payment_method">Ajouter une méthode de paiement</string>
+    <string name="get_verification_code">Obtenir le code de vérification</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">Ce numéro de vélo n\'existe pas.\nVeuillez vérifier et entrer de nouveau le bon numéro de vélo.</string>
+    <string name="check_the_number">Vérifier le numéro</string>
+    <string name="setting">Réglage</string>
+    <string name="friendly_reminder">Avis</string>
+    <string name="update">Mise à jour</string>
+    <string name="have_new_version">Nouvelle version</string>
+    <string name="ofo_has_no_camera_privilege">ofo ne dispose pas des permissions d\'accès à l\'appareil photo. Veuillez accorder les permissions d\'accès à l\'appareil photo depuis vos réglages système.\n</string>
+    <string name="ofo_has_no_location_privilege">ofo ne dispose pas des permissions de localisation. Veuillez accorder les permissions de localisation depuis vos réglages système.\n</string>
+    <string name="ofo_has_no_phone_status_privilege">ofo ne dispose pas des permissions de lecture du statut de votre téléphone. Veuillez accorder les permissions de lecture du statut du téléphone depuis vos réglages système.</string>
+    <string name="please_enable_manually">Veuillez activer votre GPS pour utiliser votre vélo ofo.</string>
+    <string name="geoposition_not_allowed">Impossible d\'obtenir la position. Veuillez autoriser l\'application ofo à accéder à vos informations de localisation.</string>
+    <string name="cycling_trip_in_progress">Trajet en cours</string>
+    <string name="map_loading_failed">Échec de chargement de la carte. Veuillez réessayer.</string>
+    <string name="unable_to_get_your_location">Impossible d\'obtenir votre position. Veuillez vous assurer que la permission de localisation est accordée et réessayer.</string>
+    <string name="exit_text">Sortie </string>
+    <string name="code_success">Votre demande a été acceptée. Veuillez attendre quelques instants.</string>
+    <string name="image_process_failed">Le décodage de l\'image a échoué</string>
+    <string name="cannot_create_image_file">Impossible de créer le fichier image</string>
+    <string name="submit">Soumettre</string>
+    <string name="close_lock_text">Veuillez garer votre vélo dans une zone autorisée où d\'autres utilisateurs peuvent y accéder, comme un espace de stationnement de vélos ou un support à vélos.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">Désolé. Il est impossible de traiter votre demande pour le moment. Veuillez réessayer.</string>
+    <string name="api_error_net_timeout">Erreur réseau. Veuillez vérifier votre réseau et réessayer.</string>
+    <string name="api_error_not_logged_in">Veuillez vous connecter.</string>
+    <string name="input_card_number">Veuillez entrer votre numéro de carte</string>
+    <string name="input_card_expire_date">Veuillez entrer la date d\'expiration de votre carte</string>
+    <string name="input_correct_card_number">Veuillez entrer le numéro de carte correct</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">J\'ai lu et j\'ai accepté la Politique ofo</string>
+    <string name="login_success_tip">C’est parti !</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>Je n\'ai pas reçu de code de vérification.</u>]]></Data></string>
+    <string name="hit_the_road">C’est parti !</string>
+    <string name="contact_us_desc">Veuillez nous indiquer comment nous pouvons améliorer nos services. Nous allons examiner votre message et vous contacter.</string>
+    <string name="repair_tip">Nous allons examiner votre rapport et inspecter le vélo.</string>
+    <string name="sign_out_only_paypal_payment">Voulez-vous vraiment vous déconnecter de PayPal (%1$s) ?</string>
+    <string name="set_new_card_to_default">Voulez-vous définir cette carte (%1$s) comme méthode de paiement par défaut ?</string>
+    <string name="coupon_expire_time">Ce coupon peut être utilisé à tout moment avant le *</string>
+    <string name="coupon_tip">Vous avez reçu un<Data><![CDATA[<font color="#000000"><b>coupon *</b></font>]]></Data> pour votre prochain trajet !</string>
+    <string name="fee">Frais (%1$s)</string>
+    <string name="balance">Solde (%1$s)</string>
+    <string name="your_phone_number">Votre numéro de mobile est $.</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">Durée d\'utilisation du vélo</string>
+    <string name="trip_not_end">Trajet non terminé ?</string>
+    <string name="ridding_tip">Verrouillez le vélo et votre trajet sera indiqué comme terminé en moins d\'une minute.</string>
+    <string name="confirm_and_pay">Confirmer et payer</string>
+    <string name="paypal_account">Compte PayPal</string>
+    <string name="pay_now">Payer maintenant</string>
+    <string name="my_deposit">Mon dépôt</string>
+    <string name="refund">Remboursement</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">Scanner</string>
+    <string name="scan_qr_help">Aide</string>
+    <string name="scan_qr_prompt">Scanner le QR code</string>
+    <string name="turn_on">Allumer</string>
+    <string name="scan_qr_manually_number">Numéro de vélo</string>
+    <string name="scan_qr_help_prompt">Scannez le QR code sur le cadenas pour déverrouiller le vélo.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">Déverrouillage du vélo…</string>
+    <string name="bluetooth_failed">Impossible de déverrouiller le vélo via Bluetooth. Veuillez le déverrouiller avec le code manuel.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">Politique de sécurité d\'ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">Voulez-vous que votre caution soit remboursée ?</string>
+    <string name="confirm">Confirmer</string>
+    <string name="add_credit_or_debit_card">Ajouter une carte bancaire</string>
+    <string name="refund_deposit">Rembourser la caution</string>
+    <string name="back">Retour</string>
+    <string name="confirm_locked">Veuillez vous assurer que le vélo est verrouillé fermement.</string>
+    <string name="default_payment_method">Méthode de paiement par défaut</string>
+    <string name="payment_successful">Paiement réussi</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">MM/AA</string>
+    <string name="unlock">Déverrouiller</string>
+    <string name="back_to_homepage">Retour à la page d\'accueil</string>
+    <string name="expires_on">Expire le %s</string>
+    <string name="delete_this_card">Supprimer cette carte</string>
+    <string name="choose_photo">Choisir une photo</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">Bien copié</string>
+    <string name="calling_codes">Codes d\'appel</string>
+    <string name="promotions">Promotions</string>
+    <string name="inbox">Boîte de réception</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">Date d\'expiration</string>
+    <string name="card_exp_desc">La date d\'expiration se trouve sur le recto de votre carte sous le numéro de la carte bancaire.</string>
+    <string name="cid_desc">Le numéro de votre carte bancaire est la série groupée de chiffres sur le recto de votre carte.</string>
+    <string name="cvv_cvc_desc">Votre CVC est un code à trois chiffres sur le verso de votre carte.</string>
+    <string name="walking">de marche</string>
+    <string name="away">à une distance</string>
+    <string name="evaluated_on">Évalué le</string>
+    <string name="credit_record">Historique des crédits</string>
+    <string name="rules">Règles</string>
+    <string name="loading">Chargement…</string>
+    <string name="location_error">Veuillez vous assurer que les permissions de localisation sont accordées à ofo.</string>
+    <string name="report_broken_bike">Vélo cassé.</string>
+    <string name="report_unauthorized_lock">Vélo avec cadenas extérieur</string>
+    <string name="report_no_available_bike">Aucun vélo disponible</string>
+    <string name="report_illegal_parking">Stationnement illégal</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">OK</string>
+    <string name="scan_qr_failed">Échec de scan, veuillez entrer le numéro de vélo.</string>
+    <string name="scan_qr_no_net">Veuillez vous assurer d\'être connecté à Internet.</string>
+    <string name="scan_qr_time_out">Échec de scan. Veuillez entrer le numéro de vélo.</string>
+    <string name="scan_qr_mechanical_input">Ce vélo possède un cadenas mécanique. Veuillez entrer le code manuellement.</string>
+    <string name="ble_unlock_progress_0">0 %</string>
+    <string name="ble_unlock_progress_30">30 %</string>
+    <string name="ble_unlock_progress_40">40 %</string>
+    <string name="ble_unlock_progress_50">50 %</string>
+    <string name="ble_unlock_progress_60">60 %</string>
+    <string name="ble_unlock_progress_70">70 %</string>
+    <string name="ble_unlock_progress_80">80 %</string>
+    <string name="ble_unlock_progress_100">100 %</string>
+    <string name="ble_unlock_fail_title">Oups</string>
+    <string name="ble_unlock_get_pwd">Obtenir le code</string>
+    <string name="use_bike_pwd_help_title">Aide</string>
+    <string name="no_data">Aucune donnée</string>
+    <string name="no_coupons">Aucun coupon</string>
+    <string name="no_activities">Aucune activité pour le moment</string>
+    <string name="parsing_error">Erreur d\'analyse des données</string>
+    <string name="home_unlock">Déverrouiller</string>
+    <string name="pricing_instruction">ofo offre un coupon de <Data><![CDATA[<font color="#000000"><b>%1$s</b></font>]]></Data> pour chaque trajet terminé pendant une période limitée.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">Distance (%1$s)</string>
+    <string name="duration">Durée (%1$s)</string>
+    <string name="carbon">Carbone (%1$s)</string>
+    <string name="current_costs">Frais du trajet : <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">Caution (%1$s)</string>
+    <string name="bike_no">Vélo n°</string>
+    <string name="price_amount">Prix</string>
+    <!--用车费用-->
+    <string name="coupon_amount">Coupon</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/heure, frais max %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">Veuillez inspecter le vélo avant de l\'utiliser. S\'il y a des problèmes, vous pouvez nous les signaler <Data><![CDATA[<u><font color="#007AFF">ici</font></u>]]></Data> en deux minutes</string>
+    <string name="my_credit_value">Mon crédit : %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">certificat ssl invalide</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">Ajouter et payer</string>
+    <string name="no">NON</string>
+    <string name="load_web_page_fail">Impossible de charger la page web.</string>
+    <string name="share_cancelled">Vous avez annulé la commande.</string>
+    <string name="no_facebook_account">Aucun compte Facebook</string>
+    <string name="facebook_setting">Il n\'y a aucun compte Facebook enregistré. Vous pouvez ajouter ou créer un compte Facebook en accédant aux Réglages.</string>
+    <string name="no_twitter_account">Aucun compte Twitter</string>
+    <string name="twitter_setting">Il n\'y a aucun compte Twitter enregistré. Vous pouvez ajouter ou créer un compte Twitter en accédant aux Réglages.</string>
+    <string name="confirm_turnon_bluetooth">Veuillez vous assurer que le Bluetooth est activé</string>
+    <string name="unlock_with_bluetooth">Déverrouiller avec le Bluetooth</string>
+    <string name="server_error">Désolé, nos systèmes sont saturés. Veuillez réessayer plus tard.</string>
+    <string name="camera_access_denied">Veuillez vous assurer que les permissions d\'accès à l\'appareil photo sont accordées à ofo. Vous pouvez vérifier cela en accédant à « Réglages > Confidentialité > Appareil photo ».</string>
+    <string name="settings">Réglages</string>
+    <string name="pricing_tap_to_retry">Une erreur réseau est survenue. Touchez pour réessayer.</string>
+    <string name="photo_access_denied">Veuillez vous assurer que les permissions d\'accès aux photos sont accordées à ofo. Vous pouvez vérifier cela en accédant à « Réglages > Confidentialité > Photos ».</string>
+    <!-- 通用 -->
+    <string name="invite_friends">Inviter des amis</string>
+    <string name="your_invitation_code">Votre code d\'invitation</string>
+    <string name="share_invitation_code_content">Téléchargez ofo, entrez le code promo et faites du vélo GRATUITEMENT.</string>
+    <string name="ride_illegal_parking">Désolé, vous ne pouvez pas compléter ce trajet. Veuillez garer le vélo dans une zone légale et toucher ensuite « Trajet terminé ».</string>
+    <string name="tab_reason">Touchez votre raison ici</string>
+    <string name="next">Suivant</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">Coupons indisponibles</string>
+    <string name="deposit_description">Vous pouvez demander un remboursement de votre caution à tout moment.</string>
+    <string name="deposit_refund_success">La demande de remboursement a été soumise, vos fonds arriveront normalement d\'ici 2 à 15 jours ouvrables.</string>
+    <string name="bind_card_prompt">Avant de commencer à faire du vélo, veuillez ajouter une méthode de paiement (carte bancaire) à votre compte. Les conditions générales s\'appliquent</string>
+    <string name="bike_parking_area">Zone de stationnement de vélo</string>
+    <string name="continue_common">Continuer</string>
+    <string name="repair_a_broken_bike">Signaler un vélo cassé</string>
+    <string name="tips_repair_take_photo">Veuillez prendre une photo de la pièce de vélo cassée.</string>
+    <string name="brake">Frein</string>
+    <string name="not_show_again">Ne plus afficher</string>
+    <string name="legal_area">Zone autorisée</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">Calories (%1$s)</string>
+    <string name="gender">Sexe</string>
+    <string name="birthday">Anniversaire</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="please_select_the_broken_bike_part">Veuillez sélectionner la pièce de vélo cassée.</string>
+    <!--ios专用-->
+    <string name="here">ici</string>
+    <string name="privacy_camera_usage_description">ofo a besoin d\'utiliser votre appareil photo pour vous offrir la meilleure expérience utilisateur possible !</string>
+    <string name="privacy_photo_library_usage_description">ofo a besoin d\'utiliser votre photothèque.</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">Invitez un ami à découvrir ofo et gagnez tous les deux des courses gratuites !</string>
+    <string name="my_credit">Mon score de crédits</string>
+    <string name="reservation">Réservation</string>
+    <string name="reserve_title">Vous pouvez réserver un vélo pendant 15 min</string>
+    <string name="reserve_content">Vous ne pouvez réserver ou utiliser qu\'un seul vélo à la fois.</string>
+    <string name="make_reserve">Effectuer une réservation</string>
+    <string name="make_another_reserve">Effectuer une autre réservation</string>
+    <string name="use_now">Utiliser maintenant</string>
+    <string name="reserve_expired_prompt">La réservation expire dans</string>
+    <string name="scanning">Balayage en cours</string>
+    <string name="bike_number">Numéro de vélo</string>
+    <string name="reserve">Réserver</string>
+    <string name="cancel_failed">Échec de l\'annulation</string>
+    <string name="payment_failed">Échec du paiement</string>
+    <string name="payment_canceled">Paiement annulé</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">La réservation précédente a expiré à</string>
+    <string name="log_in">CONNEXION</string>
+    <string name="sign_up">INSCRIPTION</string>
+    <string name="enter_your_mobile_number">Entrez votre numéro de mobile</string>
+    <string name="welcome_back">Ravis de vous revoir</string>
+    <string name="invalid_mobile_number">Le numéro de téléphone est invalide.</string>
+    <string name="select_country">Sélectionner un pays</string>
+    <string name="search_for_country">Rechercher un pays</string>
+    <string name="current_location">Emplacement actuel</string>
+    <string name="verify_mobile">Vérifier le numéro de mobile</string>
+    <string name="verify_mobile_prompt">Entrez le code de vérification qui vous a été envoyé au %1$s</string>
+    <string name="send_again">Renvoyer</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">Veuillez entrer votre e-mail</string>
+    <string name="email_spell_error">Veuillez vérifier votre e-mail</string>
+    <string name="email_sensitive_error">Veuillez vous inscrire avec votre e-mail personnel</string>
+    <string name="email_label_text">Adresse e-mail</string>
+    <string name="mobile_label_text">Numéro de mobile</string>
+    <string name="sign_up_email_hint_text">nom@exemple.com</string>
+    <string name="sign_up_policy_text">En poursuivant la navigation, je confirme avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><b>Politique ofo</b></font>]]></Data>.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">Touchez ici pour commencer</string>
+    <string name="guide_text_about_find_bike">Trouvez un vélo à proximité</string>
+    <string name="skip">Passer</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">N\'oubliez pas de verrouiller le vélo.</string>
+    <string name="repair_guide_prompt">Le vélo ne marche pas</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">À cause de l\'absence de Google Play et Google Maps, le service de localisation de Google est indisponible pour ofo. Veuillez installer les deux apps et réessayer.</string>
+    <!--通用-->
+    <string name="get_the_lock_code">Obtenez le code pour déverrouiller</string>
+    <string name="change_default_method">Confirmer le changement du paiement</string>
+    <string name="please_enter_your_card_cvv">Veuillez entrer le code CVV de votre carte</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="refund_tip">Veuillez sélectionner la raison de votre demande de remboursement de caution.</string>
+    <string name="none_of_these_above">Rien de tout cela</string>
+    <string name="cancel_success">Bien annulé</string>
+    <string name="scan_qr_reserve_help">Scannez le QR code sur le cadenas pour réserver le vélo.</string>
+    <string name="verify_code_help">Veuillez vérifier votre réseau et réessayer.</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">Obtenir le code de déverrouillage</string>
+    <string name="camera_privacy_title">Autoriser ofo à accéder à votre appareil photo</string>
+    <string name="privacy_location_always_usage_description">ofo a besoin des permissions de localisation pour enregistrer votre trajet de vélo.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">ofo a besoin que le Bluetooth soit activé pour déverrouiller le vélo plus rapidement.</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk">En poursuivant la navigation, je confirme être âgé d\'au moins 16 ans et avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><b>Politique ofo</b></font>]]></Data>.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">Voulez-vous vraiment supprimer ?</string>
+    <string name="delete">Supprimer</string>
+    <string name="time_walking">%1$s de marche</string>
+    <string name="distance_away">à une distance de %1$s</string>
+    <string name="turn_off">Éteindre</string>
+    <string name="credit_score">Score de crédits : %1$s</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">Emplacement du vélo</string>
+    <string name="repair_input_hint_text">Champ requis</string>
+    <string name="repair_input_bike_part_text">Plus de détails sur la ou les pièce(s) cassée(s)</string>
+    <string name="repair_discription_more_than_count">Vous ne pouvez pas écrire plus de 140 caractères.</string>
+    <string name="illegal_parking_title">Stationnement illégal</string>
+    <string name="unauthorizedlock_title">Vélo avec cadenas extérieur</string>
+    <string name="part_helmet">Casque</string>
+    <string name="part_plate">Plaque</string>
+    <string name="part_tire">Pneu</string>
+    <string name="part_others">Autre</string>
+    <string name="part_seat">Siège</string>
+    <string name="part_lock">Cadenas</string>
+    <string name="part_chain">Chaîne</string>
+    <string name="part_pedal">Pédale</string>
+    <string name="invalid_card_number">Numéro de carte invalide. Veuillez entrer un numéro correct et réessayer.</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">Rapport reçu</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">Noter ce trajet</string>
+    <string name="rate_one_comment">Très déçu</string>
+    <string name="rate_two_comment">Mauvaise expérience</string>
+    <string name="rate_three_comment">Peut mieux faire</string>
+    <string name="rate_four_comment">Satisfait</string>
+    <string name="rate_five_comment">Fantastique !</string>
+    <string name="feedback_title">Commentaire</string>
+    <string name="feedback_p">Que s\'est-il mal passé dans votre expérience ofo ?</string>
+    <string name="feedback_comment_hint">Commentaire plus détaillé sur ce trajet</string>
+    <string name="feedback_ok_tips">Merci de votre commentaire. Nous allons bientôt améliorer notre service</string>
+    <string name="unlock_notification">Abaissez le cadenas pour terminer votre trajet</string>
+    <string name="login_home_discription">Unlock every corners of the world</string>
+    <string name="enjoy_ofo">Aimez-vous ofo ?</string>
+    <string name="gp_guide_content">Nous avons besoin de votre soutien sur Google Play, pourquoi ne pas partager un avis positif ?</string>
+    <string name="go_gp">Aller</string>
+    <string name="turn_on_bt">Activez le Bluetooth pour déverrouiller plus rapidement</string>
+    <string name="uninstall_google_play">Google Play n\'est pas disponible sur votre téléphone, veuillez réessayer après son installation</string>
+    <string name="uninstall_facebook">Facebook n\'est pas disponible sur votre téléphone, veuillez réessayer après son installation</string>
+    <string name="uninstall_twitter">Twitter n\'est pas disponible sur votre téléphone, veuillez réessayer après son installation</string>
+    <!--支付相关-->
+    <string name="bind_failed">Echec, veuillez vérifier vos informations !</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">Zone de stationnement recommandée</string>
+    <string name="recommend_parking_spot_iw_title">Endroit de stationnement recommandé</string>
+    <string name="fence_area_no_reward">Nous vous conseillons de vous garer dans cette zone.</string>
+    <string name="fence_spot_no_reward">Nous vous conseillons de vous garer près de cet endroit.</string>
+    <string name="fence_area_credit_reward">En vous garant dans cette zone, vous obtiendrez <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> bonus.</string>
+    <string name="fence_area_credit_and_coupon_reward">En vous garant dans cette zone, vous obtiendrez <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> et <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> bonus.</string>
+    <string name="fence_spot_credit_reward">En vous garant près de l\'endroit, vous obtiendrez <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> bonus.</string>
+    <string name="fence_spot_credit_and_coupon_reward">En garant près de l\'endroit, vous obtiendrez <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> et <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> bonus.</string>
+    <string name="parking_reward_credit_point">point de crédit</string>
+    <string name="parking_reward_credit_points">points de crédit</string>
+    <string name="parking_reward_coupon">coupon</string>
+    <string name="parking_reward_coupons">coupons</string>
+    <string name="blue_area_comment">zone bleue</string>
+    <string name="price_free">GRATUIT</string>
+    <string name="price_free_time">Utilisable gratuitement</string>
+    <string name="price_cost_30mins_time">Par 30 minutes</string>
+    <string name="price_cost_1h_time">Par heure</string>
+    <string name="distance_txt">Distance</string>
+    <string name="price_banner_time_txt">Temps estimé</string>
+    <string name="safe_prompt">PROTECTION DE SÛRETÉ</string>
+    <string name="add">Ajouter</string>
+    <string name="del_payment_fail">Désolé ! La suppression de la carte a échoué, veuillez réessayer plus tard</string>
+    <string name="balance_account">Solde</string>
+    <string name="pay_another_card">Payer avec une autre carte</string>
+    <string name="map_route_error">Itinéraire indisponible</string>
+
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">La longueur du CVC est incorrecte, veuillez entrer de nouveau et réessayer</string>
+    <string name="card_not_support">Nous ne prenons pas en charge ce type de carte pour l\'instant, veuillez contacter notre service clientèle</string>
+    <string name="more_detail_input_hint">Plus de détails</string>
+    <string name="need_addcard_dialog_title">Une dernière étape</string>
+    <string name="need_addcard_dialog_message">Pour profiter des vélos ofo, ajoutez une carte bancaire à votre compte.</string>
+    <string name="go_to_bind_card">Aller</string>
+    <string name="sign_up_policy_text_contain_years">En poursuivant la navigation, je confirme être âgé d\'au moins %1$s ans et avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Politique ofo</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text_contain_years">En poursuivant la navigation, je confirme être âgé d\'au moins %1$s ans et avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Politique de confidentialité</b></a></font>]]></Data> et les <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>Conditions d\'utilisation</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text">En poursuivant la navigation, je confirme avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Politique de confidentialité</b></a></font>]]></Data> et les <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Conditions d\'utilisation</b></a></font>]]></Data>.</string>
+    <string name="sign_up_one_policy_text">En poursuivant la navigation, je confirme avoir lu et accepté la <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Politique ofo</b></a></font>]]></Data>.</string>
+
+    <!--2.0-->
+    <string name="trip_detail_numb">Vélo no°%1$s · Frais %2$s</string>
+    <string name="dialog_error_msg">Quelque chose s\'est mal passé…</string>
+    <string name="success">Succès</string>
+    <string name="top_up_success">Recharge réussie, votre solde est de %s.</string>
+    <string name="deposit_success">Dépôt réussi, vous pouvez maintenant utiliser le vélo !</string>
+    <string name="available">Disponible</string>
+    <string name="unavailable">Indisponible</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_payment_methods">Méthode de paiement</string>
+    <string name="about_ofo_intro">ofo est une plateforme mondiale de vélos partagés. Nous voulons rendre les trajets courte distance plus pratiques et plus écologiques. Moins de voitures, plus de marche et plus de vélo !</string>
+    <string name="about_current_version">Version actuelle</string>
+    <string name="about_contact_us">Nous contacter</string>
+    <string name="about_call_us">Nous appeler (service 24h/24 7j/7)</string>
+    <string name="about_ofo_title">À propos d\'ofo</string>
+    <string name="promotion_hint">Code promo</string>
+    <string name="promotions_title">Promotions</string>
+    <string name="promotion_apply_btn">APPLIQUER</string>
+    <string name="trip_list_header_tips">Distance totale (%1$s) / Trajets</string>
+    <string name="consumption">Consommation</string>
+    <string name="about_rights_text">2018 ofo tous droits réservés</string>
+    <string name="promotion_apply_success">Utilisation réussie</string>
+    <string name="no_next_page_data">C\'est la dernière page. Il n\'y a pas de données !</string>
+    <string name="trips_end_costs_price">Ce trajet coûte %1$s</string>
+    <string name="trips_end_coupon_discount">Vous avez économisé %1$s !</string>
+    <string name="questions_about_the_cost">Des questions sur le coût du trajet ?</string>
+    <string name="rate_this_trip">Noter ce trajet</string>
+    <string name="rate_questions">Le vélo était-il cassé ?</string>
+    <string name="share_the_ride">PARTAGER CE TRAJET</string>
+    <string name="need_bind_card_text">Pour faciliter vos paiements, vous devez enregistrer une méthode de paiement pour votre prochain trajet.</string>
+    <string name="contact_us_email">E-mail : %1$s</string>
+    <string name="contact_us_phone">Nous appeler : %1$s</string>
+    <string name="contact_us_title">Nous contacter</string>
+    <string name="contact_us_message">Veuillez nous indiquer comment nous pouvons améliorer nos services. Nous vous contacterons !</string>
+    <string name="request_failed">Demande échouée</string>
+    <string name="login_enter_mail_tips">Connectez-vous avec votre numéro de téléphone</string>
+    <string name="signup_enter_mail_tips">Inscrivez-vous avec un e-mail et un numéro de téléphone</string>
+    <string name="login_email_hint">nom@exemple.com</string>
+    <string name="sign_up_txt">S\'inscrire</string>
+    <string name="login_in_txt">Se connecter</string>
+    <string name="login_verifycode_format_str">Entrez le code de vérification que nous vous avons envoyé au <Data><![CDATA[<b>%1$s</b>]]></Data></string>
+    <string name="verifycode_send_again">Renvoyer dans %1$ss</string>
+    <string name="send_again_verifycode">Renvoyer</string>
+    <string name="mobile_invalid">Veuillez entrer un numéro de téléphone valide.</string>
+    <string name="feedback_comment_edittext_hint">Plus de commentaires</string>
+    <string name="feedback_top_tips">Nous apprécions vos commentaires</string>
+    <string name="unauthorizedlock_discrition">Si vous trouvez un vélo avec un cadenas extérieur, veuillez nous indiquer sa position.</string>
+    <string name="default_payment_option">Option de paiement par défaut</string>
+    <string name="select_payment_option">Sélectionner une option de paiement</string>
+    <string name="need_help">Avez-vous besoin d\'aide ?</string>
+    <string name="not_forget_anything">N\'oubliez pas de prendre vos affaires personnelles !</string>
+    <string name="tips">TRUCS</string>
+    <string name="unlock_success">Déverrouillage réussi</string>
+    <string name="unlock_fail">Échec du déverrouillage</string>
+    <string name="trips_end_price">Prix: %1$s</string>
+    <string name="ofoScore">Points de crédit ofo</string>
+    <string name="bind_card_content">Ajoutez une carte bancaire pour profiter de plus de courses !</string>
+    <string name="view_last_trip">Voir votre dernier trajet ?</string>
+    <string name="view_last_trip_description">Coût %1$s</string>
+    <string name="pay_token_invalid">Désolé, la méthode de paiement que vous avez sélectionnée doit être reliée en ce moment. Voulez-vous la relier maintenant?</string>
+    <string name="select_region">Sélectionnez votre Pays/Région</string>
+    <string name="search_for_region">Rechercher un pays/une région</string>
+    <!--2.0未翻译-->
+    <string name="me_title">moi</string>
+    <string name="end_code_to_unlock">Saisissez le code à déverrouiller</string>
+    <string name="park_outside_fence_title">Vous avez garez le vélo à l\'extérieur des zones d\'opération </string>
+    <string name="park_inside_fence_title">Vous avez bien garez le vélo dans la zones d\'opération </string>
+    <string name="payment_failed_try_again">Le paiement a échoué. Veuillez réessayer.</string>
+    <string name="enjoy_your_ride">Profitez de votre course maintenant!</string>
+    <string name="refund_failed_try_again">La demande de remboursement a échoué.Veuillez réessayer.</string>
+    <string name="typing">En cours de saisir</string>
+    <string name="payment_selection">Sélection de paiement</string>
+    <string name="payment_selection_prompt">Choisissez votre mode de paiement que vous souhaitez enregistrer</string>
+    <string name="credit_debit_card">Carte de Crédit / Débit</string>
+    <!--paytm truemoney 固定名词，不用多语言翻译-->
+    <string name="pay_tm">Paytm</string>
+    <string name="true_money">TrueMoney Wallet</string>
+    <string name="fail">échoué</string>
+    <!--2.1-->
+    <string name="pass_in_use">UTILISÉ</string>
+    <string name="pass_purchase_button">Achat</string>
+    <string name="pass_renew_button">Renouveler</string>
+    <string name="pass_remaining">Restant</string>
+    <string name="recharge">Recharger</string>
+    <string name="bike_pass_not_open">Le Pass ofo n\'est pas disponible dans votre ville</string>
+    <string name="bike_pass_frozen_title">Votre Pass ofo est bloqué car votre caution a été remboursée.</string>
+    <string name="bike_pass_frozen_dialog_content">Veuillez payer la caution pour reprendre le service.</string>
+    <string name="next_time">La Prochaine Fois</string>
+    <string name="purchase_pass_title">Acheter le Pass ofo</string>
+    <string name="renew_pass_title">Renouvelez Pass ofo</string>
+    <string name="pass_includes">Pass ofo comprend:</string>
+    <string name="ofo_pass">Pass ofo</string>
+    <string name="congratulation">Félicitations!</string>
+    <string name="bike_pass_remaining">Il vous reste %1$s jours dans votre Pass ofo!</string>
+    <string name="charge_pass_failed">Le paiement a échoué.Veuillez réessayer.</string>
+    <string name="bike_actived">Votre Pass ofo est activé</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">Gérer</string>
+    <string name="pass_header_cancle_dialog_title">Annuler votre abonnement</string>
+    <string name="pass_header_cancle_dialog_content">Votre abonnement actuel est valable jusqu\'au %1$s</string>
+    <string name="consider_it_again">Changer d\'avis</string>
+    <string name="confirm_purchase">confirmer l\'abonnement</string>
+    <string name="pass_no_periodicity_content">Voulez-vous abonner à un pass ofo %1$s pour %2$s? Cet abonnement sera automatiquement renouvelé jusqu’à ce que vous le résiliez.</string>
+    <string name="pass_periodicity_content">Voulez-vous abonner à un pass ofo %1$s pour %2$s? Votre abonnement commence le %3$s"</string>
+    <string name="subscription_success">Vous êtes abonné</string>
+    <string name="pass_your_bike_pass">C\'est parti, profitez de la balade!</string>
+    <string name="subscriptions_and_privacy">Abonnements et politique de confidentialité</string>
+    <string name="change_fail">Echec</string>
+    <string name="optional_bike_pass">Choisissez un pass ofo</string>
+    <string name="canceled_successfully">Annulation confirmée</string>
+    <!--V2.3-->
+    <string name="home_guide_p_one">Trouver un vélo</string>
+    <string name="home_guide_c_one">Ouvrez l\'app et trouvez tous les vélos ofo à proximité.</string>
+    <string name="home_guide_p_two">Balayer et déverrouiller</string>
+    <string name="home_guide_c_two">Balayez le code QR sur le vélo pour le déverrouiller et commencer votre trajet.</string>
+    <string name="home_guide_p_three">Garer et verrouiller</string>
+    <string name="home_guide_c_three">Garez le vélo en sécurité et de manière légale. Ensuite poussez manuellement le verrou vers le bas pour terminer le trajet.</string>
+    <string name="never_mind">CE N\'EST PAS GRAVE</string>
+    <string name="yes_cancel">OUI, ANNULER</string>
+    <string name="end_trip_dialog_content">Assurez-vous que le verrou est fermé avant de terminer votre trajet.</string>
+    <string name="auto_pay_failed">Échec du paiement automatique, veuillez changer la méthode de paiement ou associer une nouvelle carte bancaire.</string>
+    <string name="pay">PAYER</string>
+    <string name="protrait">Portrait</string>
+    <!--V2.4-->
+    <string name="try_now">Essayer maintenant</string>
+    <string name="visitor_last_step">Si vous avez apprécié ofo, connectez vous afin d\'effectuer plus de trajets !</string>
+    <string name="visitor_free_ride_banner">Vous avez reçu %1$s courses gratuites ! Veuillez vous inscrire plus tard.</string>
+    <string name="card_cid_des">Un code à quatre chiffres que vous pouvez trouver sur le recto de votre carte bancaire.</string>
+    <string name="card_cvc_des">Un code à trois chiffres que vous pouvez trouver sur le verso de votre carte bancaire.</string>
+    <string name="card_exp_date_des">Vous devriez trouver cette date sur le recto de votre carte sous le numéro de la carte.</string>
+    <string name="contact_select_btn_content">Inviter des amis (%1$s)</string>
+    <string name="invite_friends_dialog_title">Vous avez partagé des courses gratuites avec vos amis !</string>
+    <string name="invite_friends_search_tip">Recherche</string>
+    <string name="invite_friends_no_data_content">Pour choisir parmi vos contacts, activez la permission dans les Réglages</string>
+    <string name="invite_friends_permission_dialog_title">Accès au carnet d\'adresses</string>
+    <string name="invite_friends_permission_dialog_content">En connectant votre carnet d\'adresses, vous pourrez sélectionner aisément des amis à inviter sur ofo. Pour chaque ami qui s\'inscrit et effectue une course, vous gagnerez 3 courses gratuites !</string>
+    <string name="invite_friends_no_allow">Ne pas autoriser</string>
+    <string name="invite_friends_allow">Autoriser</string>
+    <string name="invite_friends_top_content">Invitez des amis sur ofo. Vous gagnerez 3 courses gratuites lorsqu\'ils s\'inscrivent !</string>
+    <string name="free_rides">Courses gratuites</string>
+    <string name="contact_access_failed">Échec d\'accès aux contacts.</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">Continuer avec Facebook</string>
+    <string name="facebook_verify_code_tip">Afin de vous proposer un meilleur service, nous pourrions avoir besoin de votre numéro de téléphone</string>
+    <string name="facebook_input_code_hint">Code de vérification</string>
+    <string name="facebook_send">Envoyer</string>
+    <string name="share_this_ride">Partager cette course</string>
+    <string name="share_reason">ofo est géniale</string>
+    <string name="share_feel">#découvrir avec ofo</string>
+    <string name="share_calories">Calories</string>
+    <string name="share_distance">Distance</string>
+    <string name="share_duration">Durée</string>
+    <string name="share_to_facebook">Partager sur Facebook</string>
+    <!--2.5遗留-->
+    <string name="share_failed">partage échoué</string>
+    <string name="share_success">partage réussi</string>
+    <string name="share_cancel">partage annulé</string>
+    <string name="share_thanks">Merci d\'avoir partagé !</string>
+    <string name="gse_earned_tv">Vous avez gagné du GSE grâce à cette course !</string>
+    <string name="photo_saved">Photo enregistrée</string>
+    <string name="share_carbon">Carbone</string>
+    <!--V2.6-->
+    <string name="invite_friends_received_invite_code">Vous avez reçu un code d\'invitation ?</string>
+    <string name="invite_friends_tip_one">Sélectionnez des amis à partir de vos contacts</string>
+    <string name="invite_friends_tip_two">ofo envoie les SMS d\'invitation à votre place</string>
+    <string name="invite_friends_tip_three">Rappelez à votre ami de s\'inscrire en utilisant votre code d\'invitation</string>
+    <string name="invite_friends_invite_record">Historique des invitations</string>
+    <string name="invite_friend_success_invited">Amis bien invités</string>
+    <string name="invite_friend_free_rides_received">Courses gratuites reçues</string>
+    <string name="invite_friend_share_invite_code">Partagez votre code d\'invitation :</string>
+    <string name="invite_friend_setting_tip">Pour choisir parmi vos contacts, activez les permissions dans les Réglages</string>
+    <string name="invite_friend_invite_preview">Aperçu de l\'invitation</string>
+    <string name="invite_friend_message_content">【ofo】Votre ami vient de vous envoyer 3 courses ofo GRATUITES ! Pour les récupérer, veuillez télécharger l\'app ici</string>
+    <string name="invite_friends_invite_sent">Invitation envoyée</string>
+    <string name="invite_friends_invite_success_content">Vous avez partagé des courses gratuites avec des amis ! N\'oubliez pas de leur rappeler de s\'inscrire et d\'effectuer une course !</string>
+    <string name="invite_friends_share_content">Je vais vous envoyer 3 courses ofo GRATUITES ! Pour les récupérer, veuillez télécharger l\'app ici :</string>
+    <string name="invite_friends_share_code_success">Code d\'invitation envoyé</string>
+    <string name="try_not_now_free">Ne pas essayer</string>
+    <string name="conditions">Voir les conditions d\'utilisation</string>
+    <string name="enjoy">PROFITEZ DE LA COURSE</string>
+    <string name="free_week">Commencez votre semaine gratuite</string>
+    <string name="refresh">actualiser</string>
+    <string name="reload_pay_list">actualisez pour charger la liste des paiements</string>
+    <string name="congratulations">Félicitations ! Votre semaine gratuite est active</string>
+</resources>
+

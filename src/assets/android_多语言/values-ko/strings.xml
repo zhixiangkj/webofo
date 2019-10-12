@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">인증 코드를 입력하세요</string>
+    <string name="enter_your_phone_number">핸드폰 번호를 입력하세요</string>
+    <string name="whats_your_phone_number">핸드폰 번호가 몇 번인가요?</string>
+    <string name="re_send">재전송</string>
+    <string name="name">이름</string>
+    <string name="email">이메일</string>
+    <string name="phone_number">전화번호</string>
+    <string name="log_out">로그아웃</string>
+    <string name="save">저장</string>
+    <string name="user_name">사용자명</string>
+    <string name="cancel">취소</string>
+    <string name="done">완료</string>
+    <string name="my_wallet">내 지갑</string>
+    <string name="enter_the_bike_number">자전거 번호를 입력하세요</string>
+    <string name="detail">세부 사항</string>
+    <string name="top_up">충전금액</string>
+    <string name="share_my_ride">내 자전거 공유하기</string>
+    <string name="use_bike_unlock_desc">자전거 번호 코드 %s</string>
+    <string name="my_coupons">쿠폰</string>
+    <string name="trip_completed">경로 완료</string>
+    <string name="trip_to_start_ride">새 라이딩 경로를 시작하죠!</string>
+    <string name="phone_number_not_in_service">폰이 켜져 있는지, 수신 상태가 좋은 지역인지 확인하고 다시 시도하세요.</string>
+    <string name="invalid_phone_number">전화번호가 맞는지 확인하세요.</string>
+    <string name="default_username">ofo 라이더</string>
+    <string name="edit">편집</string>
+    <string name="pricing">가격 책정</string>
+    <string name="oops">어이쿠!</string>
+    <string name="coupon_uppercase">쿠폰</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">이번 경로 비용은</string>
+    <string name="lock_the_bike">ofo를 사용해 주셔서 감사합니다!\n자전거 락을 채우는 걸 잊지 마세요.</string>
+    <string name="contact_us">연락처</string>
+    <string name="verifying">인증중...</string>
+    <string name="my_trips">이용 히스토리</string>
+    <string name="retry">재시도</string>
+    <string name="coupons_available">사용 가능한 쿠폰</string>
+    <string name="user_guide">사용자 가이드</string>
+    <string name="about_ofo">ofo에 대하여</string>
+    <string name="trip_detail">경로 세부 내용</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">예상 탄소 발자국 감소량</string>
+    <string name="verification_completed">인증 완료됨</string>
+    <string name="invalid_verification_code">유효하지 않은 인증 코드</string>
+    <string name="log_in_sign_up">로그인 / 회원 가입</string>
+    <string name="login_privacy_hint">귀하의 정보는 안전하게 보관되며\n결코 공개적으로 표시되거나 공유되지 않습니다.</string>
+    <string name="about_you">자기 소개</string>
+    <string name="username_length_invalid">죄송합니다! 사용자명은 3~15 글자 이내여야 합니다.</string>
+    <string name="username_contain_ofo_invalid">죄송하지만 \"ofo\" 및 \"admin\"이 포함된 사용자명은 사용하실 수 없습니다.</string>
+    <string name="email_invalid">유효한 이메일 주소를 입력하십시오.</string>
+    <string name="username_contain_emoji_invalid">죄송합니다! 사용자명은 알파벳과 숫자, 그리고 예외적으로 밑줄 표시만 허용됩니다.</string>
+    <string name="riding">라이딩</string>
+    <string name="payment">결제 수단</string>
+    <string name="new_guide_tip">저희가 보내드린 쿠폰을 받으셨습니다! \nofo에서는 기한 한정적으로 완료한 경로 하나마다 무료 쿠폰을 드리고 있습니다.</string>
+    <string name="new_guide_step_one_tip">사용하고 싶은 자전거 번호를 입력하세요</string>
+    <string name="new_guide_step_two_tip">자전거 잠금 코드 받기</string>
+    <string name="new_guide_show_code_tip">코드로 자전거의 락을 해제하세요</string>
+    <string name="got_it">받았습니다</string>
+    <string name="trip_no_data">경로 기록이 없습니다. 지금 라이딩을 시작하세요!</string>
+    <string name="repair_title">이 자전거에 어떤 문제가 있습니까</string>
+    <string name="need_repair">수리 필요함</string>
+    <string name="report_the_problem">문제 보고</string>
+    <string name="get_another_bike">다른 자전거 받기</string>
+    <string name="report_error_msg">이 보고의 사유를 선택하세요</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_the_lights">불을 켜세요</string>
+    <string name="Quit">종료</string>
+    <string name="use_the_bike">자전거를 사용</string>
+    <string name="turn_light_content">안전을 위해 자전거를 사용하기 전에 앞과 뒤의 라이트를 켜주세요. 라이트가 켜지지 않는 경우, 문제를 보고해 주시고 다른 자전거를 사용하세요.</string>
+    <string name="safety_content">당신 자신과 타 라이더의 안전을 위해 자전거 및 교통 관련 법규를 준수해 주세요.</string>
+    <string name="is_delete_credit_card">이 카드를 삭제할까요?</string>
+    <string name="delete_credit_card_content">정말 이 카드를 삭제하시겠습니까?</string>
+    <string name="not_now">나중에</string>
+    <string name="yes">예</string>
+    <string name="delete_only_credit_card">정말 이 카드를 삭제하시겠습니까? 현재 당신의 유일한 지불 방식입니다.</string>
+    <string name="maximum_payment">지불 방식은 다섯 개까지 가능합니다. 신규 지불 방식을 추가하려면 기존 방식 중 하나를 삭제하세요.</string>
+    <string name="payment_methods">지불 방식</string>
+    <string name="change_default_payment_method">정말로 디폴트 지불 방식을 변경하시겠습니까?</string>
+    <string name="please_enter_your_name">이름을 입력하세요</string>
+    <string name="please_enter_the_correct_expire_date">정확한 만료일을 입력하세요</string>
+    <string name="card_number">카드 번호</string>
+    <string name="log_out_from_paypal">PayPal 계정에서 로그아웃할까요?</string>
+    <string name="sign_out_paypal_content">정말로 PayPal 계정에서 로그아웃할까요? 현재 유일한 지불 방식입니다.</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="holder_name">카드 소유자명</string>
+    <string name="credit_or_debit_card">신용카드 또는 직불카드</string>
+    <string name="report_success">보고해 주셔서 감사합니다.\n자전거 락을 완전히 걸어 주시면 나머지는 저희가 하겠습니다.</string>
+    <!--dialog-->
+    <string name="not_supported_area">죄송합니다. 해당 지역에서는 이 버전의 ofo를 지원하지 않습니다.</string>
+    <string name="add_payment_method">지불 방식 추가하기</string>
+    <string name="get_verification_code">인증 코드 받기</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">해당 자전거 번호는 존재하지 않습니다.\n확인하시고 정확한 자전거 번호를 재입력하세요.</string>
+    <string name="check_the_number">번호 확인하기</string>
+    <string name="setting">설정</string>
+    <string name="friendly_reminder">알림</string>
+    <string name="update">업데이트</string>
+    <string name="have_new_version">새 버전</string>
+    <string name="ofo_has_no_camera_privilege">ofo에 카메라 권한이 없습니다. \n시스템 설정에서 카메라 권한을 허용해 주세요.</string>
+    <string name="ofo_has_no_location_privilege">ofo에 위치 정보 권한이 없습니다. \n시스템 설정에서 위치 정보 권한을 허용해 주세요.</string>
+    <string name="ofo_has_no_phone_status_privilege">ofo에 핸드폰 상태 읽기 권한이 없습니다. 시스템 설정에서 핸드폰 상태 읽기 권한을 허용해 주세요.</string>
+    <string name="please_enable_manually">자전거를 탈 때는 GPS를 켜 주세요.</string>
+    <string name="geoposition_not_allowed">위치를 확인할 수 없습니다. ofo 앱에서 위치 정보를 액세스할 수 있도록 허용해 주세요.</string>
+    <string name="cycling_trip_in_progress">사이클 경로 진행중</string>
+    <string name="map_loading_failed">지도 로딩에 실패했습니다. 다시 시도하십시오.</string>
+    <string name="unable_to_get_your_location">위치를 확인할 수 없습니다. 지도 권한이 허용됐는지 확인 후 다시 시도하십시오.</string>
+    <string name="exit_text">바로 나갑니다</string>
+    <string name="code_success">요청이 승인되었습니다. 잠시만 기다리세요.</string>
+    <string name="image_process_failed">이미지 디코딩에 실패했습니다</string>
+    <string name="cannot_create_image_file">이미지 파일을 생성할 수 없습니다</string>
+    <string name="submit">제출</string>
+    <string name="close_lock_text">자전거는 다른 사용자들이 접근할 수 있도록, 지정된 자전거 주차 공간 또는 랙 등의 합법적인 주차 영역에 주차해 주세요.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">죄송합니다. 현재 요청을 처리할 수 없습니다. 다시 시도하십시오.</string>
+    <string name="api_error_net_timeout">네트워크 오류입니다. 네트워크를 확인하고 다시 시도하십시오.</string>
+    <string name="api_error_not_logged_in">로그인하세요.</string>
+    <string name="input_card_number">카드 번호를 입력하세요</string>
+    <string name="input_card_expire_date">카드 만료일을 입력하세요</string>
+    <string name="input_correct_card_number">정확한 카드 번호를 입력하세요</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">ofo 정책을 읽고 동의합니다</string>
+    <string name="login_success_tip">이제 떠나 보죠!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>인증 코드를 받지 못했습니다.</u>]]></Data></string>
+    <string name="hit_the_road">이제 떠나 보죠!</string>
+    <string name="contact_us_desc">저희 서비스를 개선할 방법이 있다면 알려 주세요. 보내신 메시지를 검토한 후 연락 드리겠습니다.</string>
+    <string name="repair_tip">리포트를 검토 후 자전거를 확인하겠습니다.</string>
+    <string name="sign_out_only_paypal_payment">정말로 PayPal (%1$s)에서 로그아웃하시겠습니까??</string>
+    <string name="set_new_card_to_default">이 카드 (%1$s)을/를 디폴트 지불 방식으로 설정하시겠습니까?</string>
+    <string name="coupon_expire_time">이 쿠폰은 *전까지 어느 때나 사용할 수 있습니다</string>
+    <string name="coupon_tip">다음 여행을 위해<Data><![CDATA[<font color="#000000"><b> * 쿠폰을</b></font>]]></Data> 받았습니다!</string>
+    <string name="fee">수수료(%1$s)</string>
+    <string name="balance">잔액(%1$s)</string>
+    <string name="your_phone_number">당신의 휴대폰 번호는 $입니다.</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">사용 시간</string>
+    <string name="trip_not_end">경로가 완료되지 않았나요?</string>
+    <string name="ridding_tip">자전거를 잠그시면 이번 경로가 \n 1분 이내에 완료됩니다.</string>
+    <string name="confirm_and_pay">확인 및 지불</string>
+    <string name="paypal_account">PayPal 계정</string>
+    <string name="pay_now">지금 지불하기</string>
+    <string name="my_deposit">보증금 상태</string>
+    <string name="refund">환불</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">스캔</string>
+    <string name="scan_qr_help">도움말</string>
+    <string name="scan_qr_prompt">QR 코드 스캔</string>
+    <string name="turn_on">켜기</string>
+    <string name="scan_qr_manually_number">자전거 번호</string>
+    <string name="scan_qr_help_prompt">자전거의 락을 풀려면 락에 표시된 QR 코드를 스캔하세요.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">자전거 해제 중...</string>
+    <string name="bluetooth_failed">자전거를 블루투스로 해제할 수 없습니다. 코드로 해제해 주세요.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">ofo 안전 정책</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">보증금 환불을 받으시겠습니까?</string>
+    <string name="confirm">확인</string>
+    <string name="add_credit_or_debit_card">신용카드 또는 직불카드 추가</string>
+    <string name="refund_deposit">보증금 환불</string>
+    <string name="back">뒤로가기</string>
+    <string name="confirm_locked">자전거가 확실히 잠겼는지 확인해 주세요.</string>
+    <string name="default_payment_method">디폴트 지불 방식</string>
+    <string name="payment_successful">지불이 성공적으로 완료됐습니다</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="unlock">해제</string>
+    <string name="back_to_homepage">홈페이지로 돌아가기</string>
+    <string name="expires_on">기한 만료까지: %s</string>
+    <string name="delete_this_card">이 카드 삭제</string>
+    <string name="choose_photo">사진 선택</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">성공적으로 복사됨</string>
+    <string name="calling_codes">코드 불러오기</string>
+    <string name="promotions">프로모션</string>
+    <string name="inbox">받은 편지함</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">만료 일자</string>
+    <string name="card_exp_desc">카드 만료일은 카드 앞면에 신용카드 번호 아래에 있습니다.</string>
+    <string name="cid_desc">신용 카드 번호는 카드 앞면에 있는 일련의 숫자입니다.</string>
+    <string name="cvv_cvc_desc">CVC는 카드 뒷면의 세 자리 숫자입니다.</string>
+    <string name="walking">걸어서</string>
+    <string name="away">가기</string>
+    <string name="evaluated_on">다음에 대해 평가됨</string>
+    <string name="credit_record">신용 정보</string>
+    <string name="rules">규칙</string>
+    <string name="loading">로딩 중...</string>
+    <string name="location_error">ofo에 대해 위치 알림이 허용됐는지 확인해 주세요.</string>
+    <string name="report_broken_bike">자전거 고장.</string>
+    <string name="report_unauthorized_lock">개인자물쇠 자전거</string>
+    <string name="report_no_available_bike">사용 가능한 자전거 없음</string>
+    <string name="report_illegal_parking">불법 주차</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">OK</string>
+    <string name="scan_qr_failed">스캔에 실패했습니다. 자전거 번호를 입력하세요.</string>
+    <string name="scan_qr_no_net">인터넷에 연결돼 있는지 확인하세요.</string>
+    <string name="scan_qr_time_out">스캔 실패. 자전거 번호를 입력하세요.</string>
+    <string name="scan_qr_mechanical_input">이 자전거는 기계식 락이 부착돼 있습니다. 수동으로 코드를 입력하세요.</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">어이쿠</string>
+    <string name="ble_unlock_get_pwd">코드 받기</string>
+    <string name="use_bike_pwd_help_title">도움말</string>
+    <string name="no_data">데이터 없음</string>
+    <string name="no_coupons">쿠폰 없음</string>
+    <string name="no_activities">현재 활동 없음</string>
+    <string name="parsing_error">데이터 파싱 오류</string>
+    <string name="home_unlock">해제</string>
+    <string name="pricing_instruction">ofo에서는 기한 한정적으로 완료한 경로 하나마다 <Data><![CDATA[<font color="#000000"><b>%1$s</b></font>]]></Data> 쿠폰을 드리고 있습니다.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">거리 (%1$s)</string>
+    <string name="duration">기간 (%1$s)</string>
+    <string name="carbon">탄소 (%1$s)</string>
+    <string name="current_costs">경로 비용: <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">보증금 (%1$s)</string>
+    <string name="bike_no">자전거 번호</string>
+    <string name="price_amount">가격</string>
+    <!--用车费用-->
+    <string name="coupon_amount">쿠폰</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/시간, 최대 청구액 %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">사용 전에 자전거 상태를 확인하세요. 문제가 있다면 저희에게 <Data><![CDATA[<u><font color="#007AFF">여기서</font></u>]]></Data> 2분 이내로 보고해 주실 수 있습니다</string>
+    <string name="my_credit_value">내 신용: %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">유효하지 않은 ssl 승인</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">추가 및 지불</string>
+    <string name="no">아니오</string>
+    <string name="load_web_page_fail">웹페이지를 로드할 수 없습니다.</string>
+    <string name="share_cancelled">주문을 취소하셨습니다.</string>
+    <string name="no_facebook_account">Facebook 계정 없음</string>
+    <string name="facebook_setting">등록된 Facebook 계정이 없습니다. 설정에서 Facebook 계정을 추가하거나 새로 만들 수 있습니다</string>
+    <string name="no_twitter_account">Twitter 계정 없음</string>
+    <string name="twitter_setting">등록된 Twitter 계정이 없습니다. 설정에서 Twitter 계정을 추가하거나 새로 만들 수 있습니다</string>
+    <string name="confirm_turnon_bluetooth">블루투스가 켜져 있는지 확인하세요</string>
+    <string name="unlock_with_bluetooth">블루투스로 해제</string>
+    <string name="server_error">죄송합니다. 현재 시스템이 사용 중입니다. 나중에 다시 시도하십시오.</string>
+    <string name="camera_access_denied">ofo에 대해 카메라 권한이 허용됐는지 확인해 주세요. \"설정 -> 개인 정보 보호 -> 카메라\"에서 확인하실 수 있습니다</string>
+    <string name="settings">설정</string>
+    <string name="pricing_tap_to_retry">네트워크 예외가 발생했습니다. 탭해서 재시도하십시오.</string>
+    <string name="photo_access_denied">ofo에 대해 사진 권한이 허용됐는지 확인해 주세요. \"설정 -> 개인 정보 보호 -> 사진\"에서 확인하실 수 있습니다</string>
+    <!-- 通用 -->
+    <string name="invite_friends">친구 초청하기</string>
+    <string name="your_invitation_code">내 초청 코드</string>
+    <string name="share_invitation_code_content">ofo를 다운로드하고, 프로모션 코드를 입력하면 무료로 자전거를 타실 수 있습니다.</string>
+    <string name="ride_illegal_parking">죄송하지만 이번 경로를 완료할 수 없습니다. 자전거를 합법적인 구역에 주차하신 후에 \'경로 완료됨\'을 탭하세요.</string>
+    <string name="tab_reason">사유를 입력하세요</string>
+    <string name="next">다음</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">사용할 수 없는 쿠폰</string>
+    <string name="deposit_description">보증금 환불 신청은 언제든 가능합니다.</string>
+    <string name="deposit_refund_success">환불 요청이 제출되었습니다. 환불이 완료되려면 2~15 영업일이 소요됩니다.</string>
+    <string name="bind_card_prompt">자전거를 타시기 전에, 본인 계정에 지불 방식 (신용/직불 카드)를 추가해 주세요 - T&amp;Cs 적용</string>
+    <string name="bike_parking_area">자전거 주차 구역</string>
+    <string name="continue_common">계속</string>
+    <string name="repair_a_broken_bike">고장난 자전거 보고하기</string>
+    <string name="tips_repair_take_photo">고장난 자전거 부분의 사진을 촬영해 주세요</string>
+    <string name="brake">브레이크</string>
+    <string name="not_show_again">다시 보지 않음</string>
+    <string name="legal_area">허용된 구역</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">칼로리 (%1$s)</string>
+    <string name="gender">성별</string>
+    <string name="birthday">생일</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="please_select_the_broken_bike_part">자전거의 고장난 부분을 선택하세요</string>
+    <!--ios专用-->
+    <string name="here">이곳</string>
+    <string name="privacy_camera_usage_description">개선된 사용자 경험을 제공하기 위해 ofo에서 카메라를 사용해야 합니다!</string>
+    <string name="privacy_photo_library_usage_description">ofo에서 당신의 사진 라이브러리를 사용해야 합니다.</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">ofo에 친구를 초청하면 두 분 모두에게 무료 라이딩을 받을 수 있어요!</string>
+    <string name="my_credit">내 신용 점수</string>
+    <string name="reservation">예약</string>
+    <string name="reserve_title">자전거를 15분 동안 예약하실 수 있습니다</string>
+    <string name="reserve_content">자전거는 한 번에 한 대만 타거나 예약할 수 있습니다.</string>
+    <string name="make_reserve">예약하기</string>
+    <string name="make_another_reserve">새로 예약하기</string>
+    <string name="use_now">지금 사용</string>
+    <string name="reserve_expired_prompt">예약 만료일까지:</string>
+    <string name="scanning">스캔중</string>
+    <string name="bike_number">자전거 번호</string>
+    <string name="reserve">예약</string>
+    <string name="cancel_failed">취소 실패</string>
+    <string name="payment_failed">지불 실패</string>
+    <string name="payment_canceled">지불 취소됨</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">이전 예약 만료일까지:</string>
+    <string name="log_in">로그인</string>
+    <string name="sign_up">회원 가입</string>
+    <string name="enter_your_mobile_number">핸드폰 번호를 입력하세요</string>
+    <string name="welcome_back">다시 오신 것을 환영합니다</string>
+    <string name="invalid_mobile_number">이 휴대폰 번호는 유효하지 않습니다</string>
+    <string name="select_country">국가 선택</string>
+    <string name="search_for_country">국가 검색</string>
+    <string name="current_location">현재 위치</string>
+    <string name="verify_mobile">휴대폰 번호 인증</string>
+    <string name="verify_mobile_prompt">%1$s로/으로 보내드린 인증 코드를 입력하세요</string>
+    <string name="send_again">재전송</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">이메일을 입력하세요</string>
+    <string name="email_spell_error">이메일을 확인해 주세요</string>
+    <string name="email_sensitive_error">본인의 개인 이메일로 로그인하세요</string>
+    <string name="email_label_text">이메일 주소</string>
+    <string name="mobile_label_text">휴대폰 번호</string>
+    <string name="sign_up_email_hint_text">name@example.com</string>
+    <string name="sign_up_policy_text"><Data><![CDATA[<font color="#007AFF"><b>ofo 정책을 </b></font>]]></Data> 읽고 동의했으므로 계속하겠습니다..</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">여기를 탭하면 시작합니다</string>
+    <string name="guide_text_about_find_bike">주변 자전거 찾기</string>
+    <string name="skip">건너뛰기</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">자전거 락을 채우는 걸 잊지 마세요.</string>
+    <string name="repair_guide_prompt">자전거가 움직이지 않습니다</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">Google Play 및 Google Maps가 없으므로 google 위치 서비스를 ofo에서 사용할 수 없습니다. 두 가지 앱을 설치하고 다시 시도하세요.</string>
+    <!--通用-->
+    <string name="get_the_lock_code">해제 코드 받기</string>
+    <string name="change_default_method">지불 변경을 확인하시겠습니까?</string>
+    <string name="please_enter_your_card_cvv">카드의 CVV를 입력하세요</string>
+    <string name="take_photo">사진 찍기</string>
+    <string name="refund_tip">보증금 환불을 요청하는 사유를 선택해 주세요.</string>
+    <string name="none_of_these_above">해당 사항 없음</string>
+    <string name="cancel_success">성공적으로 취소됨</string>
+    <string name="scan_qr_reserve_help">자전거를 예약하려면 락에 표시된 QR 코드를 스캔하세요.</string>
+    <string name="verify_code_help">네트워크를 확인하고 다시 시도하십시오.</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">해제 코드 받기</string>
+    <string name="camera_privacy_title">ofo에 카메라 접근 권한을 허용하세요</string>
+    <string name="privacy_location_always_usage_description">당신의 자전거 경로를 기록하려면 ofo에 위치 정보 권한이 필요합니다.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">자전거를 더 빨리 해제하기 위해 ofo에서 블루투스 기능을 필요로 합니다.</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk"><Data><![CDATA[<font color="#007AFF"><b>ofo 정책을 </b></font>]]></Data> 읽고 동의했으며, 16세 이상임을 확인하고 계속하겠습니다.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">정말로 삭제하시겠습니까?</string>
+    <string name="delete">삭제</string>
+    <string name="time_walking">%1$s 걸어서</string>
+    <string name="distance_away">%1$s 가기</string>
+    <string name="turn_off">끄기</string>
+    <string name="credit_score">신용 점수:%1$s</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">자전거 위치</string>
+    <string name="repair_input_hint_text">필수 입력 사항</string>
+    <string name="repair_input_bike_part_text">고장난 부분에 대한 세부 내용</string>
+    <string name="repair_discription_more_than_count">140자 이내로 입력하세요.</string>
+    <string name="illegal_parking_title">불법 주차</string>
+    <string name="unauthorizedlock_title">자전거에 인증되지 않은 락이 있음</string>
+    <string name="part_helmet">헬멧</string>
+    <string name="part_plate">번호판</string>
+    <string name="part_tire">타이어</string>
+    <string name="part_others">기타</string>
+    <string name="part_seat">시트</string>
+    <string name="part_lock">락</string>
+    <string name="part_chain">체인</string>
+    <string name="part_pedal">페달</string>
+    <string name="invalid_card_number">카드 번호가 유효하지 않습니다. 정확한 번호를 입력하고 다시 시도하세요.</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">접수된 보고</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">여행 평가하기</string>
+    <string name="rate_one_comment">아주 불만족</string>
+    <string name="rate_two_comment">불만족</string>
+    <string name="rate_three_comment">개선 필요</string>
+    <string name="rate_four_comment">만족</string>
+    <string name="rate_five_comment">아주 만족!</string>
+    <string name="feedback_title">의견</string>
+    <string name="feedback_p">ofo 이용 중 어떤 문제가 있었습니까?</string>
+    <string name="feedback_comment_hint">여행에 대한 추가 의견</string>
+    <string name="feedback_ok_tips">의견을 주셔서 감사합니다. 저희 서비스를 신속히 개선하겠습니다.</string>
+    <string name="unlock_notification">잠금 장치의 레버를 밀어서 여행을 완료하세요.</string>
+    <string name="login_home_discription">전 세계 각지를 여행하세요.</string>
+    <string name="enjoy_ofo">ofo가 마음에 드세요?</string>
+    <string name="gp_guide_content">여러분의 성원이 필요합니다. App Store에서 좋은 리뷰를 남겨주시겠습니까?</string>
+    <string name="go_gp">이동</string>
+    <string name="turn_on_bt">블루투스를 켜서 더 빨리 잠금 해제하세요.</string>
+    <string name="uninstall_google_play">당신의 스마트폰에서 Google Play를 찾지 못했습니다. Google Play를 설치한 후 다시 시도하세요.</string>
+    <string name="uninstall_facebook">당신의 스마트폰에서 Facebook를 찾지 못했습니다. Facebook를 설치한 후 다시 시도하세요.</string>
+    <string name="uninstall_twitter">당신의 스마트폰에서 Twitter를 찾지 못했습니다. Twitter를 설치한 후 다시 시도하세요.</string>
+    <!--支付相关-->
+    <string name="bind_failed">연계 실패, 본인 정보를 확인하세요!</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">추천 주차 구역</string>
+    <string name="recommend_parking_spot_iw_title">추천 주차 스팟</string>
+    <string name="fence_area_no_reward">이 구역에 주차하실 것을 추천합니다.</string>
+    <string name="fence_spot_no_reward">해당 스팟 주변에 주차하실 것을 추천합니다.</string>
+    <string name="fence_area_credit_reward">이 구역에 주차하시면 <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> 보너스를 드립니다.</string>
+    <string name="fence_area_credit_and_coupon_reward">이 구역에 주차하시면 <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> and <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> 보너스를 드립니다.</string>
+    <string name="fence_spot_credit_reward">해당 지점 주변에 주차하시면 <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> 보너스를 드립니다.</string>
+    <string name="fence_spot_credit_and_coupon_reward">해당 지점 주변에 주차하시면 <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> and <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> 보너스를 드립니다.</string>
+    <string name="parking_reward_credit_point">크레딧 포인트</string>
+    <string name="parking_reward_credit_points">크레딧 포인트</string>
+    <string name="parking_reward_coupon">쿠폰</string>
+    <string name="parking_reward_coupons">쿠폰</string>
+    <string name="blue_area_comment">파란색 구역</string>
+    <string name="price_free">무료</string>
+    <string name="price_free_time">친구 초대하고 무료쿠폰</string>
+    <string name="price_cost_30mins_time">30분 당</string>
+    <string name="price_cost_1h_time">1시간 당</string>
+    <string name="distance_txt">거리</string>
+    <string name="price_banner_time_txt">예상 소요 시간</string>
+    <string name="safe_prompt">안전 보호</string>
+    <string name="add">추가</string>
+    <string name="del_payment_fail">죄송합니다! 이 카드 삭제에 실패했습니다. 나중에 다시 시도하세요</string>
+    <string name="balance_account">잔액</string>
+    <string name="pay_another_card">다른 카드로 지불</string>
+    <string name="map_route_error">길 안내를 할 수 없습니다</string>
+  
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">CVC 길이가 잘못됐습니다. 재입력 후 다시 시도하세요</string>
+    <string name="card_not_support">현재 이런 유형의 카드는 지원하지 않습니다. 저희 고객 서비스 측에 문의해 주세요</string>
+    <string name="more_detail_input_hint">추가 세부 내용</string>
+    <string name="need_addcard_dialog_title">마지막 단계</string>
+    <string name="need_addcard_dialog_message">ofo bike를 즐기시려면 신용카드 또는 직불카드를 계정에 추가해 주세요.</string>
+    <string name="go_to_bind_card">출발</string>
+    <string name="sign_up_policy_text_contain_years"><Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>ofo 정책</b></a></font>]]></Data>을 읽고 동의했으며, 본인이 %1$s세 이상임을 확인하고 계속하겠습니다.</string>
+    <string name="sign_up_two_policy_text_contain_years"><Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>개인 정보 보호 정책</b></a></font>]]></Data> 및 <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>이용 약관</b></a></font>]]></Data>을 읽고 동의했으며, 본인이 %1$s세 이상임을 확인하고 계속하겠습니다.</string>
+    <string name="sign_up_two_policy_text"><Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>개인 정보 보호 정책</b></a></font>]]></Data> 및 <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>이용 약관</b></a></font>]]></Data>을 읽고 동의했음을 확인하고 계속하겠습니다.</string>
+    <string name="sign_up_one_policy_text"><Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>ofo 정책</b></a></font>]]></Data>을 읽고 동의했음을 확인하고 계속하겠습니다.</string>
+
+    <!--2.0-->
+    <string name="trip_detail_numb">자전거 번호 No.%1$s · 요금 %2$s</string>
+    <string name="dialog_error_msg">문제가 발생했습니다...</string>
+    <string name="success">성공</string>
+    <string name="top_up_success">충전이 성공했습니다. 현재 당신의 잔액은 %s입니다.</string>
+    <string name="deposit_success">보증금 지불이 성공했습니다. 이제 자전거를 사용하시면 됩니다!</string>
+    <string name="available">사용 가능</string>
+    <string name="unavailable">사용 불가</string>
+    <string name="settings_title">설정</string>
+    <string name="settings_payment_methods">결제 방식</string>
+    <string name="about_ofo_intro">ofo는 글로벌한 자전거 공유 플랫폼입니다. 가까운 이동거리를 더욱 편하고 친환경적으로 만들어 드리겠습니다. 자동차 사용을 줄이고 자전거를 더 많이 타세요!</string>
+    <string name="about_current_version">현재 버전</string>
+    <string name="about_contact_us">연락처</string>
+    <string name="about_call_us">전화 문의 (24시간)</string>
+    <string name="about_ofo_title">ofo에 대하여</string>
+    <string name="promotion_hint">프로모션 코드</string>
+    <string name="promotions_title">할인코드</string>
+    <string name="promotion_apply_btn">적용</string>
+    <string name="trip_list_header_tips">총 거리 (%1$s)/이용 횟수</string>
+    <string name="consumption">사용금액</string>
+    <string name="about_rights_text">2018 ofo all rights reserved.</string>
+    <string name="promotion_apply_success">성공적으로 적용됨</string>
+    <string name="no_next_page_data">마지막 페이지입니다. 데이터가 없습니다!</string>
+    <string name="trips_end_coupon_discount">%1$s을/를 할인을 받았습니다!</string>
+    <string name="questions_about_the_cost">요금과 관련된 질문이 있으신가요?</string>
+    <string name="rate_this_trip">이번 라이딩 평가하기</string>
+    <string name="rate_questions">자전거가 고장났나요?</string>
+    <string name="share_the_ride">이번 라이딩 공유하기</string>
+    <string name="need_bind_card_text">편한 결제를 위해, 다음에 사용하실 신용카드를 등록하세요.</string>
+    <string name="contact_us_email">이메일: %1$s</string>
+    <string name="contact_us_phone">전화 문의: %1$s</string>
+    <string name="contact_us_title">연락처</string>
+    <string name="contact_us_message">저희 서비스를 개선할 점을 알려 주세요. 연락해 드리겠습니다!</string>
+    <string name="request_failed">요청 실패</string>
+    <string name="login_enter_mail_tips">본인 전화번호로 로그인</string>
+    <string name="signup_enter_mail_tips">이메일 및 전화번호로 회원 가입</string>
+    <string name="login_email_hint">name@example.com</string>
+    <string name="sign_up_txt">회원 가입</string>
+    <string name="login_in_txt">로그인</string>
+    <string name="login_verifycode_format_str"><Data><![CDATA[<b>%1$s</b>]]></Data>(으)로 보내드린 인증 코드를 입력하세요</string>
+    <string name="verifycode_send_again">%1$s초 후에 다시 보내기</string>
+    <string name="send_again_verifycode">다시 보내기</string>
+    <string name="mobile_invalid">유효한 전화번호를 입력하세요</string>
+    <string name="feedback_comment_edittext_hint">댓글 보내기</string>
+    <string name="feedback_top_tips">피드백을 주시면 감사하겠습니다</string>
+    <string name="unauthorizedlock_discrition">인증되지 않은 락이 설치된 자전거가 있으면, 위치를 알려 주시기 바랍니다.</string>
+    <string name="default_payment_option">기본설정 결제 선택</string>
+    <string name="select_payment_option">결제 방식 선택</string>
+    <string name="need_help">도움이 필요하세요?</string>
+    <string name="not_forget_anything">두고 가신 소지품이 있는지 다시 확인해주세요!</string>
+    <string name="tips">팁</string>
+    <string name="unlock_success">성공</string>
+    <string name="unlock_fail">실패</string>
+    <string name="trips_end_price">가격: %1$s</string>
+    <string name="ofoScore">ofo 점수</string>
+    <string name="bind_card_content">더욱 편하게 이용하시기 위해서 카드를 등록해주세요!</string>
+    <string name="view_last_trip">최근 주행 기록을 보시겠어요?</string>
+    <string name="view_last_trip_description">요금 %1$s</string>
+    <string name="pay_token_invalid">죄송합니다. 선택한 결제 수단이 지금 리 바인드해야합니다. 지금 리바 인드 하시겠습니까?</string>
+    <string name="select_region">국가/지역 선택</string>
+    <string name="search_for_region">국가/지역 검색</string>
+    <!--2.0未翻译-->
+    <string name="me_title">나</string>
+    <string name="end_code_to_unlock">코드를 입력해서 해제하세요</string>
+    <string name="park_outside_fence_title">권장 주차 지역이 아닌 곳에 주차하셨어요</string>
+    <string name="park_inside_fence_title">권장 주차 지역에 주차하셨어요</string>
+    <string name="payment_failed_try_again">결제 실패. 다시 시도해주세요</string>
+    <string name="enjoy_your_ride">이제 편하게 이용하세요!</string>
+    <string name="refund_failed_try_again">환불 요청 실패. 다시 시도하세요.</string>
+    <string name="typing">입력 중</string>
+    <string name="payment_selection">결제 방식 선택</string>
+    <string name="payment_selection_prompt">추가하고 싶은 결제 방식을 선택하세요</string>
+    <string name="credit_debit_card">신용카드/체크카드</string>
+    <!--paytm truemoney 固定名词，不用多语言翻译-->
+    <string name="pay_tm">Paytm</string>
+    <string name="true_money">TrueMoney Wallet</string>
+    <string name="fail">실패</string>
+    <!--2.1-->
+    <string name="pass_in_use">사용 중</string>
+    <string name="pass_purchase_button">구매</string>
+    <string name="pass_renew_button">다시 구매하기</string>
+    <string name="pass_remaining">유효기간</string>
+    <string name="recharge">충전</string>
+    <string name="bike_pass_not_open">해당 지역에는 사용 가능한 ofo 패스가 없어요</string>
+    <string name="bike_pass_frozen_title">보증금이 환불되어 ofo 패스가 중단됐어요</string>
+    <string name="bike_pass_frozen_dialog_content">서비스를 다시 이용하시려면 보증금을 지불해주세요.</string>
+    <string name="next_time">다음에</string>
+    <string name="purchase_pass_title">ofo 패스 구매하기</string>
+    <string name="renew_pass_title">ofo 패스 다시 구매하기</string>
+    <string name="pass_includes">패스의 혜택:</string>
+    <string name="ofo_pass">ofo 패스</string>
+    <string name="congratulation">축하해요!</string>
+    <string name="bike_pass_remaining">현재 ofo 패스 유효기간이 %1$s일 남았어요!</string>
+    <string name="charge_pass_failed">결제 실패. 다시 시도해주세요</string>
+    <string name="bike_actived">ofo 패스가 활성화됐어요</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">관리</string>
+    <string name="pass_header_cancle_dialog_title">구독 취소</string>
+    <string name="pass_header_cancle_dialog_content">당신의 현재 구독은 %1$s에 만료될 때까지 지속됩니다</string>
+    <string name="consider_it_again">고려</string>
+    <string name="confirm_purchase">구독 확인</string>
+    <string name="pass_no_periodicity_content">%2$s에 %1$s ofo 패스를 구독하시겠어요? 이 구독은 취소하실 때까지 자동 갱신됩니다.</string>
+    <string name="pass_periodicity_content">%2$s에 %1$s ofo 패스를 구독하시겠어요? 구독은 %3$s 기준으로 시작됩니다</string>
+    <string name="subscription_success">구독 완료됐습니다</string>
+    <string name="pass_your_bike_pass">이제 라이딩을 즐기세요</string>
+    <string name="subscriptions_and_privacy">구독 및 사용자 개인 정보 보호</string>
+    <string name="change_fail">변경 실패</string>
+    <string name="optional_bike_pass">ofo 패스를 선택하세요</string>
+    <string name="canceled_successfully">취소 완료됐습니다</string>
+    <!--V2.3-->
+    <string name="home_guide_p_one">자전거 찾기</string>
+    <string name="home_guide_c_one">앱을 열어서 주변의 모든 자전거를 찾아 보세요.</string>
+    <string name="home_guide_p_two">스캔 및 해제</string>
+    <string name="home_guide_c_two">자전거에 표시된 QR 코드를 스캔해서 락을 해제하고 경로를 시작하세요.</string>
+    <string name="home_guide_p_three">주차 및 잠금</string>
+    <string name="home_guide_c_three">자전거를 안전하고 합법적으로 주차하세요. 그런 다음 락을 손으로 눌러서 경로를 완료하세요.</string>
+    <string name="never_mind">지금 안 함</string>
+    <string name="yes_cancel">네, 취소합니다</string>
+    <string name="end_trip_dialog_content">경로를 종료하시기 전에 락이 완전히 잠겼는지 꼭 확인해 주세요.</string>
+    <string name="auto_pay_failed">자동 지불에 실패했습니다. 지불 방식을 바꾸거나 새로운 은행 카드로 연계해 주십시오.</string>
+    <string name="pay">지불하기</string>
+    <string name="protrait">얼굴 사진</string>
+    <!--V2.4-->
+    <string name="try_now">지금 체험하기</string>
+    <string name="visitor_last_step">ofo를 잘 이용하고 계시길 바랍니다. 로그인해서 계속 라이딩을 즐기세요!</string>
+    <string name="visitor_free_ride_banner">무료 라이드 %1$s회를 받았습니다! 나중에 회원 가입을 해주세요.</string>
+    <string name="card_cid_des">신용카드에 표시된 네 자리 코드입니다. 카드 앞면을 확인해 주세요.</string>
+    <string name="card_cvc_des">신용카드에 표시된 세 자리 코드입니다. 카드 뒷면을 확인해 주세요.</string>
+    <string name="card_exp_date_des">이 날짜는 카드 앞면을 보시면, 카드 번호 아래에 표시돼 있습니다.</string>
+    <string name="contact_select_btn_content">친구 초청하기 (%1$s)</string>
+    <string name="invite_friends_dialog_title">친구와 무료 라이드를 공유했습니다!</string>
+    <string name="invite_friends_search_tip">검색</string>
+    <string name="invite_friends_no_data_content">본인 주소록에서 선택하시려면, 먼저 설정에서 허용해 주셔야 합니다</string>
+    <string name="invite_friends_permission_dialog_title">주소록 연결</string>
+    <string name="invite_friends_permission_dialog_content">주소록과 연결해 놓으면 ofo에 초대할 친구들을 손쉽게 선택하실 수 있습니다. 초대한 친구 한 명이 회원 가입을 하고 라이드를 한 번 사용하면 무료 라이드 3회를 드립니다!</string>
+    <string name="invite_friends_no_allow">허용하지 않음</string>
+    <string name="invite_friends_allow">허용</string>
+    <string name="invite_friends_top_content">우리 같이 타요!. 친구가 회원 가입을 하면 무료이용 쿠폰 3개가 내 지갑에 쏙!</string>
+    <string name="free_rides">무료 라이드</string>
+    <string name="contact_access_failed">주소록 연결에 실패했습니다.</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">Facebook으로 로그인</string>
+    <string name="facebook_verify_code_tip">보다 정확한 서비스를 제공하기 위해 당신의 전화번호가 필요합니다.</string>
+    <string name="facebook_input_code_hint">인증 코드</string>
+    <string name="facebook_send">전송</string>
+    <string name="share_this_ride">이번 라이딩 공유하기</string>
+    <string name="share_reason">ofo는 끝내줍니다</string>
+    <string name="share_feel">ofo를 통해 #discover</string>
+    <string name="share_calories">칼로리</string>
+    <string name="share_distance">거리</string>
+    <string name="share_duration">소요시간</string>
+    <string name="share_to_facebook">Facebook으로 공유하기</string>
+    <!--2.5未翻译-->
+    <string name="share_failed">공유 실패</string>
+    <string name="share_success">공유 성공</string>
+    <string name="share_cancel">공유 취소됨</string>
+    <string name="share_thanks">공유해 주셔서 감사합니다!</string>
+    <string name="gse_earned_tv">이번 경로에서 GSE를 획득했습니다!</string>
+    <string name="photo_saved">사진이 저장됐습니다</string>
+    <string name="share_carbon">탄소</string>
+    <!--2.6未翻译-->
+    <string name="invite_friends_received_invite_code">초청 코드를 받으셨나요?</string>
+    <string name="invite_friends_tip_one">주소록에서 친구 선택</string>
+    <string name="invite_friends_tip_two">ofo에서 초청 SMS를 보내 드렸습니다</string>
+    <string name="invite_friends_tip_three">친구분께 보내신 초청 코드로 가입하라고 말씀해 주세요</string>
+    <string name="invite_friends_invite_record">초청 코드</string>
+    <string name="invite_friend_success_invited">친구 초대 성공</string>
+    <string name="invite_friend_free_rides_received">무료 라이드 수령</string>
+    <string name="invite_friend_share_invite_code">초청 코드 공유하기:</string>
+    <string name="invite_friend_setting_tip">본인 주소록에서 선택하시려면, 먼저 설정에서 허용해 주셔야 합니다</string>
+    <string name="invite_friend_invite_preview">초청 미리보기</string>
+    <string name="invite_friend_message_content">【ofo】친구분께서 무료 라이드 3개를 보냈습니다! 받으시려면 다음에서 앱을 다운로드하세요</string>
+    <string name="invite_friends_invite_sent">초청 보냄</string>
+    <string name="invite_friends_invite_success_content">친구분과 무료 라이드를 공유했습니다! 친구분께 가입 후 라이딩을 하실 것을 꼭 말씀해 주세요!</string>
+    <string name="invite_friends_share_content">ofo 무료 라이드 3개를 드립니다! 받으시려면 다음에서 앱을 다운로드하세요:</string>
+    <string name="invite_friends_share_code_success">초청 코드 공유됨</string>
+    <string name="try_not_now_free">나중에</string>
+    <string name="conditions">약관 보기</string>
+    <string name="enjoy">라이드를 즐기세요</string>
+    <string name="free_week">무료 주간을 시작합니다</string>
+    <string name="refresh">새로 고침</string>
+    <string name="reload_pay_list">새로 고침해서 지불 리스트 로드</string>
+    <string name="congratulations">축하드립니다! 무료 주간이 시작됐습니다</string>
+</resources>

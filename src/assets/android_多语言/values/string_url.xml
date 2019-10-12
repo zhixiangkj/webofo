@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--url-->
+    <string name="about_ofo_url">/helloworld/about/index.html</string>
+    <string name="user_guide_url">/helloworld/help/index.html</string>
+    <string name="policy_url">/helloworld/policy/index.html</string>
+    <string name="unlock_bike_url">/helloworld/unlock/index.html</string>
+    <string name="promotions_url">/helloworld/misc-pages/exchange_invite_code/index.html</string>
+    <string name="credit_url">/helloworld/misc-pages/credit_points/detail.html</string>
+
+    <string name="report_broken_bike_url">/helloworld/misc-pages/prosecute/damged.html</string>
+    <string name="report_illegal_parking_url">/helloworld/misc-pages/prosecute/illegalparking.html</string>
+    <string name="no_available_bike_url">/helloworld/misc-pages/prosecute/nocar.html</string>
+    <string name="report_unauthorized_lock_url">/helloworld/misc-pages/prosecute/privatelocked.html</string>
+    <string name="invite_share">/helloworld/misc-pages/invite/index.html"</string>
+    <string name="policy_terms">/helloworld/ofopolicy/index.html?type=terms</string>
+    <string name="policy_privacy">/helloworld/ofopolicy/index.html?type=privacy</string>
+    <string name="subscription_privacy">/helloworld/bike-pass-policy/index.html</string>
+    <string name="my_gse_link">/helloworld/gse/index.html</string>
+</resources>

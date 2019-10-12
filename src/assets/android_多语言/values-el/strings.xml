@@ -1,0 +1,320 @@
+<resources>
+    <!-- 通用 -->
+    <string name="enter_your_verification_code">Καταχωρίστε τον κωδικό επαλήθευσης που λάβατε.</string>
+    <string name="enter_your_phone_number">Καταχωρίστε τον αριθμό του τηλεφώνου σας.</string>
+    <string name="whats_your_phone_number">Ποιος είναι ο αριθμός του τηλεφώνου σας;</string>
+    <string name="re_send">Επαναποστολή </string>
+    <string name="name">Όνομα</string>
+    <string name="email">Διεύθυνση ηλ-ταχ.</string>
+    <string name="phone_number">Αριθμός τηλεφώνου</string>
+    <string name="log_out">Αποσύνδεση</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="user_name">Όνομα χρήστη</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="done">Τέλος</string>
+    <string name="my_wallet">Το πορτοφόλι μου</string>
+    <string name="enter_the_bike_number">Καταχωρίστε τον αριθμό του ποδηλάτου.</string>
+    <string name="detail">Στοιχεία</string>
+    <string name="top_up">Συμπλήρωση ποσού</string>
+    <string name="share_my_ride">Κοινή χρήση της διαδρομής μου</string>
+    <string name="get_the_lock_code">Λήψη του κωδικού κλειδώματος</string>
+    <string name="use_bike_unlock_desc">Κωδικός για το ποδήλατο υπ\' αρ.</string>
+    <string name="my_coupons">Τα κουπόνια μου %s</string>
+    <string name="trip_completed">Η διαδρομή ολοκληρώθηκε.</string>
+    <string name="trip_to_start_ride">Έναρξη διαδρομής!</string>
+    <string name="phone_number_not_in_service">Βεβαιωθείτε ότι το τηλέφωνό σας λειτουργεί και ότι είστε σε περιοχή με καλή λήψη σήματος και προσπαθήστε ξανά.</string>
+    <string name="invalid_phone_number">Βεβαιωθείτε ότι ο αριθμός του τηλεφώνου σας είναι σωστός.</string>
+    <string name="default_username">Χρήστης ποδηλάτου της ofo</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="pricing">Τιμές</string>
+    <string name="oops">Πρόβλημα!</string>
+    <string name="coupon_uppercase">ΚΟΥΠΟΝΙ</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">Το κόστος της διαδρομής σας ήταν</string>
+    <string name="lock_the_bike">Σας ευχαριστούμε που χρησιμοποιήσατε ποδήλατο της!\nΜην ξεχάσετε να κλειδώσετε το ποδήλατο.</string>
+    <string name="contact_us">Επικοινωνία μαζί μας</string>
+    <string name="verifying">Επαλήθευση...</string>
+    <string name="my_trips">Οι διαδρομές μου</string>
+    <string name="retry">Επαναπροσπάθεια</string>
+    <string name="coupons_available">Διαθέσιμα κουπόνια</string>
+    <string name="user_guide">Οδηγός χρήστη</string>
+    <string name="about_ofo">Πληροφορίες για την ofo</string>
+    <string name="trip_detail">Στοιχεία διαδρομής</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">Υπολογισμένη μείωση αποτυπώματος άνθρακα </string>
+    <string name="verification_completed">Η επαλήθευση ολοκληρώθηκε.</string>
+    <string name="invalid_verification_code">Μη έγκυρος κωδικός επαλήθευσης</string>
+    <string name="log_in_sign_up">ΣΥΝΔΕΣΗ/ΕΓΓΡΑΦΗ</string>
+    <string name="login_privacy_hint">Οι πληροφορίες σας φυλάσσονται με ασφάλεια\nκαι ποτέ δεν θα δημοσιοποιηθούν ούτε θα κοινοποιηθούν σε τρίτους.</string>
+    <string name="about_you">Τα στοιχεία σας</string>
+    <string name="username_length_invalid">Λυπούμαστε! Το ατομικό σας όνομα χρήστη πρέπει να αποτελείται από 3-15 χαρακτήρες.</string>
+    <string name="username_contain_ofo_invalid">Δυστυχώς το όνομα χρήστη δεν επιτρέπεται να περιέχει τις λέξεις «ofo» και «admin».</string>
+    <string name="email_invalid">Καταχωρίστε έγκυρη διεύθυνση ηλ-ταχ.</string>
+    <string name="username_contain_emoji_invalid">Λυπούμαστε! Το ατομικό σας όνομα χρήστη επιτρέπεται να περιέχει μόνο αλφαριθμικούς χαρακτήρες με μόνη εξαίρεση τις κάτω παύλες.</string>
+    <string name="riding">Διαδρομές</string>
+    <string name="payment">Πληρωμή</string>
+    <string name="new_guide_tip">Λάβατε ένα κουπόνι από την εταιρεία μας! \nΓια περιορισμένο χρονικό διάστημα η ofo προσφέρει ένα κουπόνι δωρεάν για κάθε διαδρομή που ολοκληρώνετε.</string>
+    <string name="new_guide_step_one_tip">Καταχωρίστε τον αριθμό του ποδηλάτου που θέλετε να χρησιμοποιήσετε.</string>
+    <string name="new_guide_step_two_tip">Λάβετε τον κωδικό κλειδώματος για το ποδήλατο.</string>
+    <string name="new_guide_show_code_tip">Χρησιμοποιήστε τον κωδικό για να ξεκλειδώσετε το ποδήλατο.</string>
+    <string name="got_it">Τον έλαβα.</string>
+    <string name="trip_no_data">Δεν έχετε καταγεγραμμένες διαδρομές! Έναρξη διαδρομής τώρα!</string>
+    <string name="repair_title">Η φύση του προβλήματος που αντιμετωπίσατε στο συγκεκριμένο ποδήλατο</string>
+    <string name="need_repair">Επισκευή που χρειάστηκε να γίνει</string>
+    <string name="report_the_problem">Αναφορά του προβλήματος</string>
+    <string name="get_another_bike">Λήψη κάποιου άλλου ποδηλάτου</string>
+    <string name="report_error_msg">Επιλέξτε λόγο για τη συγκεκριμένη αναφορά.</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_the_lights">Ενεργοποίηση των φώτων</string>
+    <string name="Quit">Έξοδος</string>
+    <string name="use_the_bike">Χρήση του ποδηλάτου</string>
+    <string name="turn_light_content">Για την ασφάλειά σας, ανάψτε τα μπροστινά και τα πίσω φώτα προτού χρησιμοποιήσετε αυτό το ποδήλατο. Αν τα φώτα δεν λειτουργούν, αναφέρετε το πρόβλημα και χρησιμοποιήστε κάποιο άλλο ποδήλατο.</string>
+    <string name="safety_content">Για την ασφάλειά σας και την ασφάλεια των υπόλοιπων οδηγών, πρέπει να τηρείτε πιστά όλους τους νόμους και τους κανονισμούς όσον αφορά την ποδηλασία και την οδική κυκλοφορία.</string>
+    <string name="is_delete_credit_card">Διαγραφή αυτής της κάρτας;</string>
+    <string name="delete_credit_card_content">Σίγουρα θέλετε να διαγράψετε αυτή την κάρτα;</string>
+    <string name="not_now">Όχι τώρα</string>
+    <string name="yes">Ναι</string>
+    <string name="delete_only_credit_card">Σίγουρα θέλετε να διαγράψετε αυτή την κάρτα; Προς το παρόν είναι η μοναδική σας μέθοδος πληρωμής.</string>
+    <string name="maximum_payment">Μπορείτε να έχετε μόνο έως και πέντε μεθόδους πληρωμής. Διαγράψτε μια μέθοδο πληρωμής προτού προσθέσετε νέα μέθοδο.</string>
+    <string name="payment_methods">Μέθοδοι πληρωμής</string>
+    <string name="change_default_payment_method">Σίγουρα θέλετε να αλλάξετε την προεπιλεγμένη σας μέθοδο πληρωμής;</string>
+    <string name="change_default_method">Αλλαγή προεπιλεγμένης μεθόδου;</string>
+    <string name="please_enter_your_name">Καταχωρίστε το όνομά σας.</string>
+    <string name="please_enter_your_card_cvv">Καταχωρίστε τον τριψήφιο αριθμό ασφαλείας (CVV) της κάρτας σας.</string>
+    <string name="please_enter_the_correct_expire_date">Καταχωρίστε τη σωστή ημερομηνία λήξης.</string>
+    <string name="card_number">Αριθμός κάρτας</string>
+    <string name="log_out_from_paypal">Έξοδος από τον λογαριασμό σας στην υπηρεσία PayPal;</string>
+    <string name="sign_out_paypal_content">Σίγουρα θέλετε να πραγματοποιήσετε έξοδο από την υπηρεσία PayPal; Προς το παρόν είναι η μοναδική σας μέθοδος πληρωμής.</string>
+    <string name="sign_out">Έξοδος</string>
+    <string name="holder_name">Όνομα κατόχου κάρτας</string>
+    <string name="credit_or_debit_card">Πιστωτική ή χρεωστική κάρτα</string>
+    <string name="report_success">Σας ευχαριστούμε για την αναφορά που υποβάλατε.\nΚλειδώστε το ποδήλατο για να το ασφαλίσετε και θα το φροντίσουμε εμείς.</string>
+    <!--dialog-->
+    <string name="not_supported_area">Λυπούμαστε. Η συγκεκριμένη έκδοση της εφαρμογής της ofo δεν υποστηρίζεται στην περιοχή σας.</string>
+    <string name="add_payment_method">Προσθήκη μεθόδου πληρωμής</string>
+    <string name="get_verification_code">Λήψη κωδικού επαλήθευσης</string>
+    
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">Αυτός ο αριθμός ποδηλάτου δεν υπάρχει.\nΕλέγξτε τον και επαναλάβετε την καταχώριση με τον σωστό αριθμό ποδηλάτου.</string>
+    <string name="check_the_number">Ελέγξτε τον αριθμό.</string>
+    <string name="setting">Ρύθμιση</string>
+    <string name="friendly_reminder">Ειδοποίηση</string>
+    <string name="update">Ενημέρωση</string>
+    <string name="have_new_version">Νέα έκδοση </string>
+    <string name="ofo_has_no_camera_privilege">Η ofo δεν έχει άδειες για χρήση κάμερας. \nΧορηγήστε άδειες για χρήση κάμερας μέσω των ρυθμίσεων του συστήματός σας.</string>
+    <string name="ofo_has_no_location_privilege">Η ofo δεν έχει άδειες για εντοπισμό τοποθεσίας. \nΧορηγήστε άδειες για εντοπισμό τοποθεσίας μέσω των ρυθμίσεων του συστήματός σας.</string>
+    <string name="ofo_has_no_phone_status_privilege">Η ofo δεν έχει άδειες για την ανάγνωση της κατάστασης του τηλεφώνου σας. Χορηγήστε άδειες για ανάγνωση κατάστασης τηλεφώνου μέσω των ρυθμίσεων του συστήματός σας.</string>
+    <string name="please_enable_manually">Ενεργοποιήστε το GPS σας για τη διαδρομή σας με το ποδήλατο της ofo.</string>
+    <string name="geoposition_not_allowed">Δεν είναι δυνατή η λήψη της τοποθεσίας. Επιτρέψτε στην εφαρμογή της ofo να αποκτήσει πρόσβαση στις πληροφορίες για την τοποθεσία σας.</string>
+    <string name="cycling_trip_in_progress">Ποδηλατική διαδρομή σε εξέλιξη</string>
+    <string name="map_loading_failed">Ανεπιτυχής φόρτωση χαρτών. Προσπαθήστε ξανά.</string>
+    <string name="unable_to_get_your_location">Δεν είναι δυνατή η λήψη της τοποθεσίας σας. Βεβαιωθείτε ότι έχουν χορηγηθεί άδειες για χάρτες και προσπαθήστε ξανά.</string>
+    <string name="exit_text">Στην έξοδο αμέσως</string>
+    <string name="code_success">Το αίτημά σας έχει γίνει δεκτό. Περιμένετε λίγο.</string>
+    <string name="image_process_failed">Ανεπιτυχής αποκωδικοποίηση εικόνας</string>
+    <string name="cannot_create_image_file">Δεν είναι δυνατή η δημιουργία αρχείου εικόνας.</string>
+    <string name="submit">Υποβολή</string>
+    <string name="close_lock_text">Παρκάρετε το ποδήλατό σας σε νόμιμο χώρο στάθμευσης όπου θα μπορούν να το βρουν οι υπόλοιποι χρήστες, π.χ. σε καθορισμένο χώρο στάθμευσης ή ράφι για ποδήλατα.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">Λυπούμαστε. Δεν μπορούμε να διεκπεραιώσουμε το αίτημά σας τώρα αμέσως. Προσπαθήστε ξανά.</string>
+    <string name="api_error_net_timeout">Σφάλμα δικτύου. Ελέγξτε το δίκτυό σας και προσπαθήστε ξανά.</string>
+    <string name="api_error_not_logged_in">Συνδεθείτε.</string>
+    <string name="input_card_number">Καταχωρίστε τον αριθμό της κάρτας σας.</string>
+    <string name="input_card_expire_date">Καταχωρίστε την ημερομηνία λήξης της κάρτας σας.</string>
+    <string name="input_correct_card_number">Καταχωρίστε τον σωστό αριθμό κάρτας.</string>
+    
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">Έχω διαβάσει και αποδεχθεί την Πολιτική της ofo.</string>
+    <string name="pricing_instruction">Για περιορισμένο χρονικό διάστημα η ofo προσφέρει κουπόνι <Data><![CDATA[<font color="#000000"><B>%1$s</B></font>]]></Data> για κάθε διαδρομή που ολοκληρώνετε.</string>
+    <string name="login_success_tip">Καλή διαδρομή!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>Δεν έλαβα κωδικό επαλήθευσης.</u>]]></Data></string>
+    <string name="hit_the_road">Καλή διαδρομή</string>
+    <string name="contact_us_desc">Σας παρακαλούμε να μας πείτε πώς μπορούμε να βελτιώσουμε τις υπηρεσίες μας. Θα ανασκοπήσουμε το μήνυμά σας και θα επικοινωνήσουμε και πάλι μαζί σας.</string>
+    <string name="repair_tip">Θα ανασκοπήσουμε την αναφορά σας και θα ελέγξουμε το ποδήλατο.</string>
+    <string name="sign_out_only_paypal_payment">Σίγουρα θέλετε να πραγματοποιήσετε έξοδο από τον λογαριασμό σας στην υπηρεσία PayPal (%1$s);</string>
+    <string name="set_new_card_to_default">Θέλετε να καθορίσετε αυτή την κάρτα (%1$s) ως την προεπιλεγμένη σας μέθοδο πληρωμής;</string>
+    <string name="coupon_expire_time">Το κουπόνι αυτό μπορεί να χρησιμοποιηθεί ανά πάσα στιγμή ως τις *</string>
+    <string name="coupon_tip">Λάβατε ένα<Data><![CDATA[<font color="#000000"><B> κουπόνι *</B></font>]]></Data> για την επόμενη διαδρομή σας!</string>
+    <string name="fee">Κόστος (%1$s)</string>
+    <string name="balance">Υπόλοιπο (%1$s)</string>
+    <string name="your_phone_number">Ο αριθμός του κινητού σας είναι $.</string>
+    
+    
+    <!--*********************1.1.0**********************--> 
+    <!-- 通用 -->
+    <string name="riding_time_min">Διάρκεια διαδρομής</string>
+    <string name="trip_not_end">Η διαδρομή δεν ολοκληρώθηκε;</string>
+    <string name="ridding_tip">Κλειδώστε το ποδήλατο και η διαδρομή σας θα ολοκληρωθεί μέσα σε 1 λεπτό.</string>
+    <string name="confirm_and_pay">Επιβεβαίωση και πληρωμή;</string>
+    <string name="paypal_account">Λογαριασμός PayPal</string>
+    <string name="pay_now">Πληρωμή τώρα</string>
+    <string name="my_deposit">Η προκαταβολή μου</string>
+    <string name="refund">Επιστροφή χρημάτων</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">Σάρωση</string>
+    <string name="scan_qr_help">Βοήθεια</string>
+    <string name="scan_qr_prompt">Σάρωση κωδικού QR</string>
+    <string name="turn_on">Ενεργοποίηση</string>
+    <string name="scan_qr_manually_number">Αριθμός ποδηλάτου</string>
+    <string name="scan_qr_help_prompt">Σαρώστε τον κωδικό QR που θα βρείτε στην κλειδαριά για να ξεκλειδώσετε το ποδήλατο.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">Ξεκλείδωμα του ποδηλάτου...</string>
+    <string name="bluetooth_failed">Δεν είναι δυνατό το ξεκλείδωμα του ποδηλάτου μέσω Bluetooth. Ξεκλειδώστε το χρησιμοποιώντας τον κωδικό.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">Πολιτική της ofo για θέματα ασφάλειας</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">Θέλετε να σας επιστραφεί η προκαταβολή σας;</string>
+    <string name="confirm">Επιβεβαίωση</string>
+    <string name="add_credit_or_debit_card">Προσθήκη πιστωτικής ή χρεωστικής κάρτας</string>
+    <string name="refund_deposit">Επιστροφή προκαταβολής</string>
+    <string name="back">Πίσω</string>
+    <string name="confirm_locked">Βεβαιωθείτε ότι έχετε κλειδώσει και ασφαλίσει το ποδήλατο.</string>
+    <string name="default_payment_method">Προεπιλεγμένη μέθοδος πληρωμής</string>
+    <string name="payment_successful">Η πληρωμή ολοκληρώθηκε με επιτυχία</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">ΜΜ/ΕΕ</string>
+    <string name="unlock">Ξεκλείδωμα</string>
+    <string name="back_to_homepage">Επιστροφή στην αρχική σελίδα</string>
+    <string name="expires_on">Λήγει στις %s</string>
+    <string name="delete_this_card">Διαγραφή αυτής της κάρτας</string>
+    <string name="take_photo">Λήψη φωτογραφίας</string>
+    <string name="choose_photo">Επιλογή φωτογραφίας</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    
+    
+    <!--*********************1.1.1**********************--> 
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">Επιτυχής αντιγραφή</string>
+    <string name="calling_codes">Κωδικοί κλήσης</string>
+    <string name="promotions">Προωθητικές ενέργειες</string>
+    <string name="inbox">Εισερχόμενα</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">ΛΗΞΗ Ημερομηνία</string>
+    <string name="card_exp_desc">Η ημερομηνίας λήξης της κάρτας σας βρίσκεται στην μπροστινή πλευρά της κάτω από τον αριθμό της.</string>
+    <string name="cid_desc">Ο αριθμός της πιστωτικής κάρτας σας είναι η ομαδοποιημένη σειρά ψηφίων που βρίσκεται στην μπροστινή πλευρά της.</string>
+    <string name="cvv_cvc_desc">Ο CVC σας είναι ο τριψήφιος κωδικός που βρίσκεται στην πίσω πλευρά της κάρτας σας.</string>
+    <string name="walking">περπάτημα</string>
+    <string name="away">μακριά</string>
+    <string name="evaluated_on">Υπολογισμός στις</string>
+    <string name="credit_record">Αρχείο πιστώσεων</string>
+    <string name="rules">Κανόνες</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="location_error">Βεβαιωθείτε ότι έχουν χορηγηθεί άδειες εντοπισμού τοποθεσίας για την ofo.</string>
+    <string name="report_broken_bike">Ποδήλατο με βλάβη.</string>
+    <string name="report_unauthorized_lock">Ποδήλατο με ανεξουσιοδότητη κλειδαριά</string>
+    <string name="report_no_available_bike">Κανένα διαθέσιμο ποδήλατο</string>
+    <string name="report_illegal_parking">Παράνομη στάθμευση</string>
+    <string name="home_unlock">Ξεκλείδωμα</string>
+    
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">OK</string>
+    <string name="scan_qr_failed">Ανεπιτυχής σάρωση. Παρακαλούμε, καταχωρίστε τον αριθμό του ποδηλάτου.</string>
+    <string name="scan_qr_no_net">Βεβαιωθείτε ότι έχετε συνδεθεί στο Ίντερνετ.</string>
+    <string name="scan_qr_time_out">Ανεπιτυχής σάρωση. Παρακαλούμε, καταχωρίστε τον αριθμό του ποδηλάτου.</string>
+    <string name="scan_qr_mechanical_input">Το ποδήλατο αυτό έχει μηχανική κλειδαριά. Καταχωρίστε τον κωδικό μη αυτόματα.</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">Πρόβλημα.</string>
+    <string name="ble_unlock_get_pwd">Λήψη κωδικού</string>
+    <string name="use_bike_pwd_help_title">Βοήθεια</string>
+    <string name="no_data">Δεν υπάρχουν δεδομένα.</string>
+    <string name="no_coupons">Δεν υπάρχουν κουπόνια.</string>
+    <string name="no_activities">Καμία δραστηριότητα αυτή τη στιγμή</string>
+    <string name="parsing_error">Σφάλμα ανάλυσης δεδομένων</string>
+
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">Απόσταση (%1$s)</string>
+    <string name="duration">Διάρκεια (%1$s)</string>
+    <string name="carbon">Άνθρακας (%1$s)</string>
+    <string name="current_costs">Κόστος διαδρομής: <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">Προκαταβολή (%1$s)</string>
+    <string name="bike_no"> Αρ. ποδηλάτου</string>
+    <string name="price_amount">Τιμή</string><!--用车费用-->
+    <string name="coupon_amount">Κουπόνι</string><!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/ώρα, ανώτ. χρέωση %2$s</string><!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">Ελέγξτε το ποδήλατο προτού το χρησιμοποιήσετε. Αν παρουσιάζει προβλήματα, μπορείτε να μας τα αναφέρετε <Data><![CDATA[<u><font color="#007AFF">εδώ</font></u>]]></Data> εντός 2 λεπτών.</string>
+    <string name="my_credit_value">Η πίστωσή μου: %1$s</string>
+
+    <!-- ios专用 -->
+    <string name="add_and_pay">Προσθήκη και πληρωμή</string>
+    <string name="no">ΟΧΙ</string>
+    <string name="load_web_page_fail">Δεν είναι δυνατή η φόρτωση της ιστοσελίδας.</string>
+    <string name="share_cancelled">Έχετε ακυρώσει την παραγγελία.</string>
+    <string name="no_facebook_account">Κανένας λογαριασμός στο Facebook</string>
+    <string name="facebook_setting">Δεν υπάρχουν καταχωρισμένοι λογαριασμοί Facebook. Μπορείτε να προσθέσετε ή να δημιουργήσετε λογαριασμό στο Facebook πηγαίνοντας στην επιλογή «Ρυθμίσεις».</string>
+    <string name="no_twitter_account">Κανένας λογαριασμός στο Twitter</string>
+    <string name="twitter_setting">Δεν υπάρχουν καταχωρισμένοι λογαριασμοί Twitter. Μπορείτε να προσθέσετε ή να δημιουργήσετε λογαριασμό στο Twitter πηγαίνοντας στην επιλογή «Ρυθμίσεις».</string>
+    <string name="confirm_turnon_bluetooth">Βεβαιωθείτε ότι η λειτουργία Bluetooth είναι ενεργοποιημένη.</string>
+    <string name="unlock_with_bluetooth">Ξεκλείδωμα μέσω Bluetooth</string>
+    <string name="unlock_with_lock_code">Ξεκλείδωμα μέσω κωδικού κλειδώματος</string>
+    <string name="server_error">Δυστυχώς τα συστήματά μας είναι απασχολημένα. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="camera_privacy_title">Επιτρέψτε στην ofo να αποκτήσει πρόσβαση στην κάμερά σας.</string>
+    <string name="camera_access_denied">Βεβαιωθείτε ότι έχουν χορηγηθεί άδειες χρήσης κάμερας για την ofo. Μπορείτε να τις ελέγξετε πηγαίνοντας στις επιλογές «Ρυθμίσεις -> Απόρρητο -> Κάμερα».</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="pricing_tap_to_retry">Παρουσιάστηκε εξαίρεση δικτύου. Πατήστε για να προσπαθήσετε ξανά.</string>
+    <string name="photo_access_denied">Βεβαιωθείτε ότι έχουν χορηγηθεί άδειες χρήσης φωτογραφιών για την ofo. Μπορείτε να τις ελέγξετε πηγαίνοντας στις επιλογές «Ρυθμίσεις -> Απόρρητο -> Φωτογραφίες».</string>
+    <string name="here"> εδώ </string>
+    <string name="privacy_camera_usage_description">Η ofo χρειάζεται να χρησιμοποιήσει την κάμερά σας για να παράσχει άριστη εμπειρία χρήστη.</string>
+    <string name="privacy_photo_library_usage_description">Η ofo χρειάζεται να χρησιμοποιήσει τη βιβλιοθήκη των φωτογραφιών σας.</string>
+    <string name="privacy_location_always_usage_description">Η ofo χρειάζεται την τοποθεσία σας για να καταγράψει τη διαδρομή σας.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">Η ofo χρειάζεται να χρησιμοποιήσει τη λειτουργία Bluetooth της συσκευής σας για ταχύτερο ξεκλείδωμα.</string>
+    <string name="notification_error_ssl_cert_invalid">Μη έγκυρο πιστοποιητικό SSL</string>
+    
+    <!--1.1.2 通用-->
+    <string name="invite_friends">Αποστολή πρόσκλησης σε φίλους</string>
+    <string name="your_invitation_code">Ο κωδικός της πρόσκλησής σας</string>
+    <string name="share_invitation_code_content">Προχωρήστε στη λήψη της εφαρμογής της ofo, καταχωρίστε τον Κωδικό προωθητικής ενέργειας και κάντε μια διαδρομή με ποδήλατο ΔΩΡΕΑΝ.</string>
+    <string name="ride_illegal_parking">Δυστυχώς δεν μπορείτε να ολοκληρώσετε αυτή τη διαδρομή. Παρκάρετε το ποδήλατο σε νόμιμο χώρο στάθμευσης και ύστερα πατήστε την επιλογή «Η διαδρομή ολοκληρώθηκε».</string>
+    <string name="refund_tip">Επιλέξτε τον λόγο για τον οποίο ζητήσατε επιστροφή της προκαταβολής.</string>
+    <string name="none_of_these_above">Κανένας από τους προαναφερόμενους</string>
+    <string name="tab_reason">Διευκρινίστε τον λόγο εδώ.</string>
+    <string name="next">Επόμενο</string>
+
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">Κανένα διαθέσιμο κουπόνι</string>
+    <string name="deposit_description">Μπορείτε να ζητήσετε ανά πάσα στιγμή να σας επιστραφεί η προκαταβολή σας.</string>
+    <string name="deposit_refund_success">Η υποβολή του αιτήματος για επιστροφή χρημάτων έχει ολοκληρωθεί. Η διαδικασία αυτή κανονικά διαρκεί 2-15 εργάσιμες ημέρες.</string>
+    <string name="bind_card_prompt">Για να μπορέσετε να ξεκινήσετε τη διαδρομή σας με το ποδήλατο, προσθέστε μέθοδο πληρωμής (πιστωτική/χρεωστική κάρτα) στον λογαριασμό σας - Ισχύουν τέλη στάθμευσης</string>
+    <string name="bike_parking_area">Χώρος στάθμευσης ποδηλάτων</string>
+    <string name="continue_common">Συνέχεια</string>
+    <string name="repair_a_broken_bike">Αναφορά ποδηλάτου με βλάβη</string>
+    <string name="tips_repair_take_photo">Τραβήξτε φωτογραφία του εξαρτήματος του ποδηλάτου που παρουσιάζει βλάβη.</string>
+    <string name="brake">Φρένο</string>
+    <string name="not_show_again">Να μην εμφανιστεί ξανά.</string>
+    <string name="legal_area">Επιτρεπόμενος χώρος</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">Θερμίδες (%1$s)</string>
+    <string name="gender">φύλο</string>
+    <string name="birthday">ημερομηνία γέννησης</string>
+    <string name="male">Άνδρας</string>
+    <string name="female">Γυναίκα</string>
+    <string name="please_select_the_broken_bike_part">Επιλέξτε το εξάρτημα του ποδηλάτου που παρουσιάζει βλάβη.</string>
+
+    <!--v1.1.5 通用-->
+    <string name="invite_friends_tips">Προσκαλέστε έναν φίλο σας στην ofo και κερδίστε δωρεάν διαδρομές και για τους δυο σας!</string>
+    <string name="my_credit">Οι μονάδες πίστωσης που έχω κερδίσει</string>
+    <string name="reservation">Κράτηση</string>
+    <string name="reserve_title">Μπορείτε να κάνετε κράτηση για ένα ποδήλατο επί 15 λεπτά.</string>
+    <string name="reserve_content">Μπορείτε να κάνετε κράτηση ή χρήση μόνο ενός ποδηλάτου κάθε φορά.</string>
+    <string name="make_reserve">Πραγματοποίηση κράτησης</string>
+    <string name="make_another_reserve">Πραγματοποίηση άλλης κράτησης</string>
+    <string name="use_now">Χρήση τώρα</string>
+    <string name="reserve_expired_prompt">Η κράτηση λήγει στις</string>
+    <string name="scanning">Σάρωση</string>
+    <string name="bike_number">Αριθμός ποδηλάτου</string>
+    <string name="reserve">Να γίνει κράτηση.</string>
+    <string name="cancel_success">Επιτυχής ακύρωση</string>
+    <string name="cancel_failed">Ανεπιτυχής ακύρωση</string>
+
+    <string name="payment_failed">Ανεπιτυχής πληρωμή</string>
+    <string name="payment_canceled">Η πληρωμή ακυρώθηκε.</string>
+</resources>

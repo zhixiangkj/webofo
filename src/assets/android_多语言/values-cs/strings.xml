@@ -1,0 +1,587 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="enter_your_verification_code">Zadejte Váš ověřovací kód</string>
+    <string name="enter_your_phone_number">Zadejte vaše telefonní číslo</string>
+    <string name="whats_your_phone_number">Jaké je vaše telefonní číslo?</string>
+    <string name="re_send">Znovu odeslat</string>
+    <string name="name">Jméno</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Telefonní číslo</string>
+    <string name="log_out">Odhlásit</string>
+    <string name="save">Uložit</string>
+    <string name="user_name">Uživatelské jméno</string>
+    <string name="cancel">Storno</string>
+    <string name="done">Hotovo</string>
+    <string name="my_wallet">Moje peněženka</string>
+    <string name="enter_the_bike_number">Vložte číslo kola</string>
+    <string name="detail">Detail</string>
+    <string name="top_up">Nabít</string>
+    <string name="share_my_ride">Sdílet mojí cestu</string>
+    <string name="use_bike_unlock_desc">Kód pro kolo číslo %s</string>
+    <string name="my_coupons">Moje kupóny</string>
+    <string name="trip_completed">Cesta dokončena</string>
+    <string name="trip_to_start_ride">Zahájit cestu!</string>
+    <string name="phone_number_not_in_service">Ujistěte se, že telefon funguje, jste v oblasti s dobrým příjmem signálu a zkuste to znovu.</string>
+    <string name="invalid_phone_number">Ujistěte se, že Vaše telefonní číslo je správné.</string>
+    <string name="default_username">ofo jezdec</string>
+    <string name="edit">Upravit</string>
+    <string name="pricing">Ceník</string>
+    <string name="oops">Jejda!</string>
+    <string name="coupon_uppercase">KUPÓN</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">Tato cesta Vás stála</string>
+    <string name="lock_the_bike">Díky, že jste použili ofo!\nNezapomeňte uzamknout zámek kola!</string>
+    <string name="contact_us">Kontaktujte nás</string>
+    <string name="verifying">Ověřuji...</string>
+    <string name="my_trips">Moje cesty</string>
+    <string name="retry">Opakovat</string>
+    <string name="coupons_available">Dostupné kupóny</string>
+    <string name="user_guide">Uživatelská příručka</string>
+    <string name="about_ofo">Vše o ofo</string>
+    <string name="trip_detail">Detail cesty</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">Odhadované snížení emisí uhlíku</string>
+    <string name="verification_completed">Ověření dokončeno</string>
+    <string name="invalid_verification_code">Neplatný ověřovací kód</string>
+    <string name="log_in_sign_up">PŘIHLÁSIT SE/ZAREGISTROVAT SE</string>
+    <string name="login_privacy_hint">Vaše informace jsou zabezpečeny a nikdy nebudou veřejně zobrazeny ani sdíleny.</string>
+    <string name="about_you">O Vás</string>
+    <string name="username_length_invalid">Vaše uživatelské jméno musí být 3-15 znaků dlouhé.</string>
+    <string name="username_contain_ofo_invalid">Uživatelské jméno obsahující \"ofo\" nebo \"admin\" není poveoleno.</string>
+    <string name="email_invalid">Prosím vložte platnou emailovou adresu.</string>
+    <string name="username_contain_emoji_invalid">Uživatelské jméno může obsahovat pouze alfanumerické znaky s výjimkou podtržítek.</string>
+    <string name="riding">Jízda</string>
+    <string name="payment">Platba</string>
+    <string name="new_guide_tip">Získali jste náš kupón! \ Po omezenou dobu nabízí ofo zdarma kupóny za každou dokončenou cestu.</string>
+    <string name="new_guide_step_one_tip">Zadejte číslo kola které chcete použít.</string>
+    <string name="new_guide_step_two_tip">Získejte odemykací kód pro kolo.</string>
+    <string name="new_guide_show_code_tip">Použijte kód k odemčení kola.</string>
+    <string name="got_it">Mám to</string>
+    <string name="trip_no_data">Nemáte žádné záznamy o cestách.</string>
+    <string name="repair_title">Jaký problém jste měli s tímto kolem</string>
+    <string name="need_repair">Nuntá oprava</string>
+    <string name="report_the_problem">Nahlašte prosím problém</string>
+    <string name="get_another_bike">Vezměte si jiné kolo</string>
+    <string name="report_error_msg">Vyberte prosím důvod Vašeho hlášení</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_the_lights">Zapnout světlo</string>
+    <string name="Quit">Odejít</string>
+    <string name="use_the_bike">Teď můžete kolo použít</string>
+    <string name="turn_light_content">Pro vaši bezpečnost: před použitím kola zapněte přední a zadní světla. Pokud světla nefungují, oznamte nám to, prosím a použijte jiné kolo.</string>
+    <string name="safety_content">Pro Vaši bezpečnost prosím dodržujte všechny zákony a dopravní předpisy týkající se jízdy na kole.</string>
+    <string name="is_delete_credit_card">Smazat tuto kartu?</string>
+    <string name="delete_credit_card_content">Jste si jistý/á, že chcete smazat tuto kartu?</string>
+    <string name="not_now">Teď ne</string>
+    <string name="yes">Ano</string>
+    <string name="delete_only_credit_card">Opravdu chcete tuto kartu smazat? Nyní je to jediný způsob Vaší platby.</string>
+    <string name="maximum_payment">Můžete mít až pět platebních metod. Vymažte tento způsob před přidáním nového způsobu platby.</string>
+    <string name="payment_methods">Platební metody</string>
+    <string name="change_default_payment_method">Opravdu chcete změnit výchozí platební metodu?</string>
+    <string name="please_enter_your_name">Prosím vložte Vaše jméno</string>
+    <string name="please_enter_the_correct_expire_date">Prosím vložte správné datum expirace karty</string>
+    <string name="card_number">Číslo karty</string>
+    <string name="log_out_from_paypal">Odhlásit z Vašeho  PayPal účtu?</string>
+    <string name="sign_out_paypal_content">Opravdu se chcete odhlásit ze služby PayPal? Je to nyní Váš jediný způsob platby.</string>
+    <string name="sign_out">Odhlásit</string>
+    <string name="holder_name">Jméno držitele karty</string>
+    <string name="credit_or_debit_card">Kreditní nebo debetní karta</string>
+    <string name="report_success">Děkujeme za Vaše hlášení.\nProsím bezpečně kolo uzamkněte a my se postaráme o opravu.</string>
+    <!--dialog-->
+    <string name="not_supported_area">Promiňte. Tato verze ofo aplikace není podporována ve Vaší oblasti.</string>
+    <string name="add_payment_method">Přidat platební metodu</string>
+    <string name="get_verification_code">Získat ověřovací kód</string>
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">Toto číslo kola neexistuje.\nProsím ověřte číslo kola a zadejte jej znovu.</string>
+    <string name="check_the_number">Ověřte číslo</string>
+    <string name="setting">Nastavení</string>
+    <string name="friendly_reminder">Upozornění</string>
+    <string name="update">Aktualizace</string>
+    <string name="have_new_version">Nová verze</string>
+    <string name="ofo_has_no_camera_privilege">Aplikace ofo nemá povolení používat kameru Vašeho telefonu. \nProsím zapněte možnost používání kamery v Nastavení Vašeho mobilního telefonu.</string>
+    <string name="ofo_has_no_location_privilege">Aplikace ofo nemá povolení používat polohu Vašeho telefonu. \nProsím zapněte možnost používání GPS v Nastavení Vašeho mobilního telefonu.</string>
+    <string name="ofo_has_no_phone_status_privilege">Aplikace ofo nemá povolení používat  a číst stav Vašeho telefonu. 
+Prosím zapněte možnost sledování stavu v Nastavení Vašeho mobilního telefnu.</string>
+    <string name="please_enable_manually">Prosím, zapněte Vaši GPS pro využití ofo kola.</string>
+    <string name="geoposition_not_allowed">Nelze zíslat polohu. Povolte v telefonu aplikaci, která má přístup k informacím o Vaší poloze.</string>
+    <string name="cycling_trip_in_progress">Probíhá jízda.</string>
+    <string name="map_loading_failed">Nahrání mapy se nepovedlo. Prosím zkuste znovu.</string>
+    <string name="unable_to_get_your_location">Nepodařilo se získat Vaši polohu. Přidejte oprávnění mapové aplikaci na svém telefonu a zkuste to znovu.</string>
+    <string name="exit_text">Odejít</string>
+    <string name="code_success">Váš požadavek byl přijat. Prosím chvíli vyčkejte.</string>
+    <string name="image_process_failed">Zpracování obrázku se nepovedlo.</string>
+    <string name="cannot_create_image_file">Nemohu vytvořit obrázkový soubor.</string>
+    <string name="submit">Odeslat</string>
+    <string name="close_lock_text">Odstavte kolo v prostoru k tomu určeném, kde bude k dispozici dalším uživatelům:  v parkovací zóně nebo u stojanu na kola.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">Promiňte. Momentálně nemůžeme Vaši žádost zpracovat. Prosím zkuste to znovu.</string>
+    <string name="api_error_net_timeout">Chyba sítě. Zkontrolujte internet a zkuste to znovu.</string>
+    <string name="api_error_not_logged_in">Prosím, přihlašte se.</string>
+    <string name="input_card_number">Prosím, zadejte číslo Vaší karty</string>
+    <string name="input_card_expire_date">Prosím, zadejte expirační údaje Vaší karty</string>
+    <string name="input_correct_card_number">Prosím, zdajte správní číslo karty.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">Četl/a jsem a souhlasím s provozními podmíkami služby ofo</string>
+    <string name="login_success_tip">Tak hurá na cestu!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>Nedostal jsem ověřovací kód.</u>]]></Data></string>
+    <string name="hit_the_road">Tak hurá na cestu!</string>
+    <string name="contact_us_desc">Řekněte nám, jak můžeme zlepšit naše služby. Budeme Vás co nejdříve kontaktovat zpět.</string>
+    <string name="repair_tip">Jakmile si přečteme si Vaši zprávu, dáme kolo do pořádku.</string>
+    <string name="sign_out_only_paypal_payment">Opravdu se chcete odhlásit ze služby PayPal (%1$s)?</string>
+    <string name="set_new_card_to_default">Chcete nastavit kartu (%1$s) jako svou hlavní platební metodu?</string>
+    <string name="coupon_expire_time">Tento kupón může být použit kdykoli před *</string>
+    <string name="coupon_tip">Obdrželi jste kupón<Data><![CDATA[<font color="#000000"><b> * kupón</b></font>]]></Data> pro Vaši příští cestu!</string>
+    <string name="fee">Poplatek(%1$s)</string>
+    <string name="balance">Zůstatek(%1$s)</string>
+    <string name="your_phone_number">Vaše telefonní číslo je $.</string>
+    <!--*********************1.1.0**********************-->
+    <!-- 通用 -->
+    <string name="riding_time_min">Čas jízdy</string>
+    <string name="trip_not_end">Jízda nebyla dokončena?</string>
+    <string name="ridding_tip">Uzamkněte kolo a Vaše cesta bude \n ukončena běhen 1 minuty.</string>
+    <string name="confirm_and_pay">Potvrdit a zaplatit</string>
+    <string name="paypal_account">PayPal účet</string>
+    <string name="pay_now">Zaplaťte teď</string>
+    <string name="my_deposit">Moje záloha</string>
+    <string name="refund">Vrácení peněz</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">Skenovat</string>
+    <string name="scan_qr_help">Pomoc</string>
+    <string name="scan_qr_prompt">Skenovat QR kód</string>
+    <string name="turn_on">Zapnout</string>
+    <string name="scan_qr_manually_number">Číslo kola</string>
+    <string name="scan_qr_help_prompt">Naskenujte QR kód na zámku k odemčení kola.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">Odemykám kolo...</string>
+    <string name="bluetooth_failed">Nelze odemknout kolo prostřednictvím Bluetooth. Prosím odemkněte s použitím číselného kódu.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">Bezpečností opatření ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">Chcete vrátit Vaší zálohu?</string>
+    <string name="confirm">Potvrdit</string>
+    <string name="add_credit_or_debit_card">Přidat kreditní nebo debetní kartu.</string>
+    <string name="refund_deposit">Vrátit zálohu.</string>
+    <string name="back">Zpět</string>
+    <string name="confirm_locked">Prosím ověřte, že kolo je bezpečně uzamčeno.</string>
+    <string name="default_payment_method">Hlavní platební metoda</string>
+    <string name="payment_successful">Platba byla úspěšná</string>
+    <string name="cvv_cvc_cid">CVC kód</string>
+    <string name="mm_yy">MM/RR</string>
+    <string name="unlock">Odemknout</string>
+    <string name="back_to_homepage">Zpět na hlavní stránku</string>
+    <string name="expires_on">Platí do %s</string>
+    <string name="delete_this_card">Smaž tuto kartu</string>
+    <string name="choose_photo">Zvolit fotografii</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!--*********************1.1.1**********************-->
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">Úspěšně zkopírováno</string>
+    <string name="calling_codes">Volací kódy</string>
+    <string name="promotions">Propagační akce</string>
+    <string name="inbox">Schránka</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVC</string>
+    <string name="card_exp">Vypršení platnosti</string>
+    <string name="card_exp_desc">Datum vypršení platnosti karty se nachází na přední straně karty pod číslem Vaší karty.</string>
+    <string name="cid_desc">Číslo kreditní karty je řada 16 číslic na přední straně karty.</string>
+    <string name="cvv_cvc_desc">CVC je třímístný kód vytištěný na zadní straně karty.</string>
+    <string name="walking">chůze</string>
+    <string name="away">pryč</string>
+    <string name="evaluated_on">Vyhodnoceno dne</string>
+    <string name="credit_record">Úvěrový záznam</string>
+    <string name="rules">Pravidla</string>
+    <string name="loading">Nahrávám…</string>
+    <string name="location_error">Zajistěte, aby byla uděleno oprávnění sledování lokality pro aplikaci ofo.</string>
+    <string name="report_broken_bike">Poškozené kolo.</string>
+    <string name="report_unauthorized_lock">Kolo s pirátským zámkem</string>
+    <string name="report_no_available_bike">Žádné kolo k dispozici</string>
+    <string name="report_illegal_parking">Nepovolené parkování</string>
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">OK</string>
+    <string name="scan_qr_failed">Chyba skenování, prosím zadejte číslo kola manuálně.</string>
+    <string name="scan_qr_no_net">Ujistěte se že jste připojeni k Internetu.</string>
+    <string name="scan_qr_time_out">Chyba skenování, prosím zadejte číslo kola manuálně.</string>
+    <string name="scan_qr_mechanical_input">Toto kolo má mechnický zámek, prosím zadejte číslo kola manuálně..</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">Jejda!</string>
+    <string name="ble_unlock_get_pwd">Zíslej kód</string>
+    <string name="use_bike_pwd_help_title">Pomoc</string>
+    <string name="no_data">Žádná data</string>
+    <string name="no_coupons">Žádné kupóny</string>
+    <string name="no_activities">Právě teď žádá aktivita</string>
+    <string name="parsing_error">Chyba analýzy dat</string>
+    <string name="home_unlock">Odemknout</string>
+    <string name="pricing_instruction">Po omezenou dobo nabízí ofo  <Data><![CDATA[<font color="#000000"><b>%1$s</b></font>]]></Data> kupón za každou dokončenou jízdu.</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">Vzdálenost(%1$s)</string>
+    <string name="duration">Trvání cesty(%1$s)</string>
+    <string name="carbon">Úspora CO2(%1$s)</string>
+    <string name="current_costs">Cena jízdy : <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">Záloha (%1$s)</string>
+    <string name="bike_no">Číslo kola</string>
+    <string name="price_amount">Cena</string>
+    <!--用车费用-->
+    <string name="coupon_amount">Kupón</string>
+    <!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/Hodina, maximální poplatek %2$s</string>
+    <!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">Před použitím je třeba kolo zkontrolovat. Pokud naleznete nějaký problém, můžete nám jej nahlásit<Data><![CDATA[<u><font color="#007AFF">here</font></u>]]></Data>během 2 minut.</string>
+    <string name="my_credit_value">Můj kredit: %1$s</string>
+    <string name="notification_error_ssl_cert_invalid">Neplatný SSL certifikát</string>
+    <!-- ios专用 -->
+    <string name="add_and_pay">Přidat a zaplatit</string>
+    <string name="no">NE</string>
+    <string name="load_web_page_fail">Nemohu načíst webovou stránku.</string>
+    <string name="share_cancelled">Zrušili jste objednávku.</string>
+    <string name="no_facebook_account">Chybí účet na Facebooku.</string>
+    <string name="facebook_setting">Neexistují žádné registrované účty Facebook. Pro přidání účtu Facebook jděte do Nastavení.</string>
+    <string name="no_twitter_account">Žádný účet na Twitteru</string>
+    <string name="twitter_setting">Neexistují žádné registrované Twitter účty. Pro přidání účtu Twitter jděte do Nastavení.</string>
+    <string name="confirm_turnon_bluetooth">Ujistěte se, že máte zapnutý Bluetooth</string>
+    <string name="unlock_with_bluetooth">Odemknut přes Bluetooth</string>
+    <string name="server_error">Je nám líto, že náš systém je zaneprázdněn. Prosím zkuste to znovu později.</string>
+    <string name="camera_access_denied">Ujistěte se, že máte nastaveno oprávnění pro použití kamery pro aplikaci ofo.  Podívejte se do \"Nastavení -> Soukromí -> Kamera\"</string>
+    <string name="settings">Nastavení</string>
+    <string name="pricing_tap_to_retry">Vyskytla se síťová výjimka. Klikni pro opakování.</string>
+    <string name="photo_access_denied">Ujistěte se, že máte nastaveno oprávnění pro ukládání obrázků pro aplikaci ofo.  Podívejte se do \"Nastavení -> Soukromí -> Fotky\"</string>
+    <!-- 通用 -->
+    <string name="invite_friends">Pozvat přátele</string>
+    <string name="your_invitation_code">Kód Vaší pozvánky</string>
+    <string name="share_invitation_code_content">Stáhněte se aplikaci ofo, zadejte promo Kód a jezděte na kole ZADARMO.</string>
+    <string name="ride_illegal_parking">Promiňte, nelze dokončit tuto jízdu. Prosím, zaparkute a uzamkněte kolo v povolené oblasti a klikněte na tlačítko  \'Ukončit jízdu\'.</string>
+    <string name="tab_reason">Uveďte váš důvod zde</string>
+    <string name="next">Další</string>
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">Kupóny nejsou k dispozici.</string>
+    <string name="deposit_description">O vrácení zálohy můžete požádat kdykoli.</string>
+    <string name="deposit_refund_success">Požadavek na vrácení zálohy byl odeslán. Zpravidla trvá 2 - 15 pracovních dnů, než Vaše finanční prostředky dorazí.</string>
+    <string name="bind_card_prompt">Před jízdou přidejte ke svému účtu platební metodu (kreditní nebo debetní karta) - Seznamte se s pravidly a podmínkami ofo</string>
+    <string name="bike_parking_area">Oblast pro odstavení kola</string>
+    <string name="continue_common">Pokračovat</string>
+    <string name="repair_a_broken_bike">Nahlásit poškozené kolo</string>
+    <string name="tips_repair_take_photo">Vyfotografujte prosím poškozenou část kola</string>
+    <string name="brake">Brzda</string>
+    <string name="not_show_again">Znovu nezobrazovat</string>
+    <string name="legal_area">Povolená oblast</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">Kalorie(%1$s)</string>
+    <string name="gender">Pohlaví</string>
+    <string name="birthday">Narozeniny</string>
+    <string name="male">Muž</string>
+    <string name="female">Žena</string>
+    <string name="please_select_the_broken_bike_part">Vyberte prosím poškozenou část kola</string>
+    <!--ios专用-->
+    <string name="here">zde</string>
+    <string name="privacy_camera_usage_description">Aplikace ofo potřebuje použít Váš fotoaparát pro nejlepší uživatelský zážitek!</string>
+    <string name="privacy_photo_library_usage_description">ofo potřebuje použít Vaši knihovnu fotografií.</string>
+    <!--只需翻译俄语部分 end -->
+    <!--v1.1.5-->
+    <string name="invite_friends_tips">Pozvěte přítele do služby ofo a vyhrajte volné jízdy pro vás oba!</string>
+    <string name="my_credit">Můj kreditní účet</string>
+    <string name="reservation">Rezervace</string>
+    <string name="reserve_title">Můžete si rezerovat kolo na 15 minut</string>
+    <string name="reserve_content">Můžete si rezervovat nebo používat pouze jedno kolo najednou.</string>
+    <string name="make_reserve">Udělat rezervaci</string>
+    <string name="make_another_reserve">Udělat další rezervaci</string>
+    <string name="use_now">Použít teď</string>
+    <string name="reserve_expired_prompt">Rezervace vyprší v</string>
+    <string name="scanning">Skenuji</string>
+    <string name="bike_number">Číslo kola</string>
+    <string name="reserve">Rezerovat</string>
+    <string name="cancel_failed">Zrušení selhalo</string>
+    <string name="payment_failed">Platba selhala</string>
+    <string name="payment_canceled">Platba zrušena</string>
+    <!--v 1.1.6 -->
+    <string name="pre_reserve_expired_prompt">Předchozí rezervace vypršela v</string>
+    <string name="log_in">Přihlásit se</string>
+    <string name="sign_up">Zaregistrovat se</string>
+    <string name="enter_your_mobile_number">Vložte své telefonní číslo</string>
+    <string name="welcome_back">Vítejte zpět</string>
+    <string name="invalid_mobile_number">Toto telefonní číslo je neplatné</string>
+    <string name="select_country">Vyberte zemi</string>
+    <string name="search_for_country">Hledejte zemi</string>
+    <string name="current_location">Současná pozice</string>
+    <string name="verify_mobile">Ověřte mobilní číslo</string>
+    <string name="verify_mobile_prompt">Vložte ověřovací kód který Vám byl zaslán v %1$s</string>
+    <string name="send_again">Poslat znovu</string>
+    <string name="second_prompt">(%1$ss)</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="email_empty_error">Prosím zadejte Váš email</string>
+    <string name="email_spell_error">Prosím ověřte Váš email</string>
+    <string name="email_sensitive_error">Prosím přihlaste se se svým osobním emailem</string>
+    <string name="email_label_text">E-mailová adresa</string>
+    <string name="mobile_label_text">Mobilní číslo</string>
+    <string name="sign_up_email_hint_text">jméno@server.cz</string>
+    <string name="sign_up_policy_text">Pokračováním potvrzuji, že jsem si přečetl a souhlasím s <Data><![CDATA[<font color="#007AFF"><b>Podmínkami služby ofo.</b></font>]]></Data>.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="guide_text_about_use">Klikněte zde pro zahájení</string>
+    <string name="guide_text_about_find_bike">Najděte si kolo v okolí</string>
+    <string name="skip">Přeskočit</string>
+    <string name="second_promp2">%1$ss</string>
+    <!--%1$s为占位符，不用翻译，最后一个s，为秒的意思，需要翻译-->
+    <string name="pay_guide_prompt">Nezapomeňte uzamknout kolo!</string>
+    <string name="repair_guide_prompt">Kolo nefunguje</string>
+    <!--android 专用-->
+    <string name="google_service_unavailable">Na tomto zařízení nejsou k dispozici služby Google Play a Google Map nutné pro lokalizaci ofo. Nainstalujte si obě aplikace a zkuste to znovu.</string>
+    <!--通用-->
+    <string name="get_the_lock_code">Klikněte pro kód k odemčení</string>
+    <string name="change_default_method">Potvrdit změnu platby?</string>
+    <string name="please_enter_your_card_cvv">Prosím zadejte CVV kód z Vaší karty</string>
+    <string name="take_photo">Vyfoťte</string>
+    <string name="refund_tip">Zvolte důvod, pro který požadujete vrácení vkladu.</string>
+    <string name="none_of_these_above">Žádný z předchozích</string>
+    <string name="cancel_success">Úspěšně zrušeno</string>
+    <string name="scan_qr_reserve_help">naskenujte QR kód na zámku pro rezervaci kola.</string>
+    <string name="verify_code_help">Zkontrolujte síť a zkuste to znovu.</string>
+    <!--ios专用-->
+    <string name="unlock_with_lock_code">Získejte kód k odemknutí</string>
+    <string name="camera_privacy_title">Povolte aplikaci ofo přístup k Vašemu fotoaparátu</string>
+    <string name="privacy_location_always_usage_description">Aplikace ofo vyžaduje povolení, aby mohla zaznamenat trasu Vaši cesty na kole.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">Aplikace ofo vyžaduje povolení Bluetooth, aby bylo možné odemknout kolo rychleji.</string>
+    <!--1.1.7 -->
+    <string name="sign_up_policy_text_for_uk">Pokračováním potvrzuji, že mi je 18 let nebo více, a přečetl(a) jsem a souhlasím s <Data><![CDATA[<font color="#007AFF"><b>Podmínkami služby ofo.</b></font>]]></Data>.</string>
+    <!--Data标签内的，只用翻译 ofo Policy,其他 CDATA,font, color,B等不用翻译-->
+    <string name="delete_trip_text">Opravdu to chcete smazat?</string>
+    <string name="delete">Vymazat</string>
+    <string name="time_walking">%1$s chůze</string>
+    <string name="distance_away">%1$s pryč</string>
+    <string name="turn_off">Vypnout</string>
+    <string name="credit_score">Stav kreditů:%1$s</string>
+    <!--v1.1.8 -->
+    <string name="repair_bike_location_title">Poloha kola</string>
+    <string name="repair_input_hint_text">Povinné pole</string>
+    <string name="repair_input_bike_part_text">Další detaily o poškozené součásti kola:</string>
+    <string name="repair_discription_more_than_count">Nelze zadat více než 140 znaků.</string>
+    <string name="illegal_parking_title">Nelegální parkování</string>
+    <string name="unauthorizedlock_title">Kolo s neautorizovaným zámkem</string>
+    <string name="part_helmet">Helma</string>
+    <string name="part_plate">Značka</string>
+    <string name="part_tire">Pneumatika</string>
+    <string name="part_others">Jiný</string>
+    <string name="part_seat">Sedadlo</string>
+    <string name="part_lock">Zámek</string>
+    <string name="part_chain">Řetěz</string>
+    <string name="part_pedal">Pedál</string>
+    <string name="invalid_card_number">Neplatné číslo karty. Zadejte prosím správné číslo a zkuste to znovu.</string>
+    <!--v1.1.8遗漏 未翻译，未翻译，未翻译，未翻译，未翻译-->
+    <string name="report_pair_received">Přehled byl doručen</string>
+    <!--v1.2.0未翻译 -->
+    <string name="comment_on_rate_the_trip">Ohodnoťte svou cestu</string>
+    <string name="rate_one_comment">Obrovské zklamání</string>
+    <string name="rate_two_comment">Špatná zkušenost</string>
+    <string name="rate_three_comment">Jsou třeba zlepšení</string>
+    <string name="rate_four_comment">Jsem spokojený(á)</string>
+    <string name="rate_five_comment">Skvělé!</string>
+    <string name="feedback_title">Zpětná vazba</string>
+    <string name="feedback_p">Co bylo na vaší jízdě s ofo špatně?</string>
+    <string name="feedback_comment_hint">Podrobnější komentář k cestě</string>
+    <string name="feedback_ok_tips">Děkujeme vám za vaši zpětnou vazbu. Využijeme ji při zlepšování svých služeb</string>
+    <string name="unlock_notification">Pro ukončení cesty stiskněte páčku na zámku kola</string>
+    <string name="login_home_discription">Poznejte každý kout světa</string>
+    <string name="enjoy_ofo">Líbí se vám ofo?</string>
+    <string name="gp_guide_content">Dáte nám pozitivní hodnocení v App Store? Vaše podpora je pro nás velmi důležitá.</string>
+    <string name="go_gp">Vyrazit</string>
+    <string name="turn_on_bt">Pro rychlejší odemčení zapněte Bluetooth</string>
+    <string name="uninstall_google_play">Ve vašem telefonu není nainstalován Google Play. Nainstalujte jej prosím a zkuste to znovu.</string>
+    <string name="uninstall_facebook">Ve vašem telefonu není nainstalován Facebook. Nainstalujte jej prosím a zkuste to znovu.</string>
+    <string name="uninstall_twitter">Ve vašem telefonu není nainstalován Twitter. Nainstalujte jej prosím a zkuste to znovu.</string>
+    <!--支付相关-->
+    <string name="bind_failed">Spojení se nezdařilo, zkontrolujte prosím zadané údaje!</string>
+    <!--1.3.0-->
+    <string name="recommend_parking_area_iw_title">Doporučená oblast pro odstavení</string>
+    <string name="recommend_parking_spot_iw_title">Doporučené místo pro odstavení</string>
+    <string name="fence_area_no_reward">Doporučujeme vám odstavit kolo v této oblasti.</string>
+    <string name="fence_spot_no_reward">Doporučujme vám odstavit kolo u tohoto místa.</string>
+    <string name="fence_area_credit_reward">Odstavíte-li kolo v této oblasti, získáte jako bonus <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="fence_area_credit_and_coupon_reward">Odstavíte-li kolo v této oblasti, získáte jako bonus <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> a <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="fence_spot_credit_reward">Odstavíte-li kolo u tohoto místa, získáte jako bonus  <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="fence_spot_credit_and_coupon_reward">Odstavíte-li kolo u tohoto místa, získáte jako bonus  <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data> a <Data><![CDATA[<font color="#3d78ff"><b> %s</b></font>]]></Data>.</string>
+    <string name="parking_reward_credit_point">kredit</string>
+    <string name="parking_reward_credit_points">kredity</string>
+    <string name="parking_reward_coupon">kupón</string>
+    <string name="parking_reward_coupons">kupóny</string>
+    <string name="blue_area_comment">modrá oblast</string>
+    <string name="price_free">ZDARMA</string>
+    <string name="price_free_time">Jízda zdarma</string>
+    <string name="price_cost_30mins_time">za 30 min.</string>
+    <string name="price_cost_1h_time">Za 1 hodinu</string>
+    <string name="distance_txt">Vzdálenost</string>
+    <string name="price_banner_time_txt">Odhadovaný čas</string>
+    <string name="safe_prompt">ZAJIŠTĚNÍ OCHRANY</string>
+    <string name="add">Přidat</string>
+    <string name="del_payment_fail">Odstranění karty se bohužel nezdařilo. Zkuste to prosím znovu později.</string>
+    <string name="balance_account">Zůstatek</string>
+    <string name="pay_another_card">Zaplatit jinou kartou</string>
+    <string name="map_route_error">Pokyny nejsou k dispozici</string>
+    <string name="add_card">Přidejte kartu</string>
+    <!--1.4.0新增未翻译-->
+    <string name="cvc_not_right_length">Nesprávná délka CVC. Zadejte prosím správné CVC a zkuste to znovu.</string>
+    <string name="card_not_support">Tento typ karet bohužel momentálně nepodporujeme. Obraťte se prosím na náš zákaznický servis.</string>
+    <string name="more_detail_input_hint">Více informací</string>
+    <string name="need_addcard_dialog_title">Poslední krok</string>
+    <string name="need_addcard_dialog_message">Před vypůjčením kola ofo ještě ke svému účtu musíte přidat kreditní nebo debetní kartu.</string>
+    <string name="go_to_bind_card">Jet</string>
+    <string name="sign_up_policy_text_contain_years">Pokračováním potvrzuji, že je mi %1$s nebo více let, a že jsem si přečetl(a) a souhlasím s <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Obchodními podmínkami ofo</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text_contain_years">Pokračováním potvrzuji, že je mi %1$s nebo více let, a že jsem si přečetl(a) a souhlasím s <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Privacy Policy</b></a></font>]]></Data> a <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%3$s><b>Podmínkami využívání služeb</b></a></font>]]></Data>.</string>
+    <string name="sign_up_two_policy_text">Pokračováním potvrzuji, že jsem si přečetl(a) a souhlasím s <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Privacy Policy</b></a></font>]]></Data> and <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%2$s><b>Podmínkami využívání služeb</b></a></font>]]></Data>.</string>
+    <string name="sign_up_one_policy_text">Pokračováním potvrzuji, že jsem si přečetl(a) a souhlasím s <Data><![CDATA[<font color="#007AFF"><a href="ofoapphelloworld://international?page=policy&url="%1$s><b>Obchodními podminkami ofo</b></a></font>]]></Data>.</string>
+    <!--2.0-->
+    <string name="me_title">Osobní údaje</string>
+    <string name="trip_detail_numb">Kolo č.%1$s · Poplatek %2$s</string>
+    <string name="dialog_error_msg">Něco se pokazilo…</string>
+    <string name="success">Úspěch</string>
+    <string name="top_up_success">Nabití proběhlo úspěšně, váš zůstatek je %s.</string>
+    <string name="deposit_success">Provedení vkladu proběhlo úspěšně, užijte si jízdu!</string>
+    <string name="available">K dispozici</string>
+    <string name="unavailable">Není k dispozici</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="settings_payment_methods">Platební metoda</string>
+    <string name="about_ofo_intro">ofo je globální platforma pro sdílení kol. Chceme, aby byly krátké cesty pohodlnější a ohleduplnější k životnímu prostředí. Jezděte méně autem a více na kole!</string>
+    <string name="about_current_version">Aktuální verze</string>
+    <string name="about_contact_us">Kontaktujte nás</string>
+    <string name="about_call_us">Zavolejte nám (non-stop servis)</string>
+    <string name="about_ofo_title">Vše o ofo</string>
+    <string name="promotion_hint">Promo kód</string>
+    <string name="promotions_title">Propagační akce</string>
+    <string name="promotion_apply_btn">POUŽÍT</string>
+    <string name="trip_list_header_tips">Celková vzdálenost (%1$s) / jízdy</string>
+    <string name="consumption">Spotřeba</string>
+    <string name="about_rights_text">2018 ofo všechna práva vyhrazena</string>
+    <string name="promotion_apply_success">Použití proběhlo úspěšně</string>
+    <string name="no_next_page_data">Toto je poslední stránka, nejsou zde žádná data!</string>
+    <string name="trips_end_coupon_discount">Ušetřili jste %1$s!</string>
+    <string name="questions_about_the_cost">Máte nějaké otázky ohledně ceny?</string>
+    <string name="rate_this_trip">Ohodnoťte svou cestu</string>
+    <string name="rate_questions">Bylo kolo poškozené?</string>
+    <string name="share_the_ride">SDÍLET TUTO CESTU</string>
+    <string name="need_bind_card_text">Pro pohodlnější placení si budete muset při příští cestě připojit platební metodu.</string>
+    <string name="contact_us_email">E-mail: %1$s</string>
+    <string name="contact_us_phone">Zavolejte nám: %1$s</string>
+    <string name="contact_us_title">Kontaktujte nás</string>
+    <string name="contact_us_message">Řekněte nám, jak můžeme zlepšit naše služby. Ozveme se vám!</string>
+    <string name="request_failed">Požadavek se nezdařil</string>
+    <string name="login_enter_mail_tips">Přihlaste se pomocí telefonního čísla</string>
+    <string name="signup_enter_mail_tips">Zaregistrujte se pomocí e-mailu a telefonního čísla</string>
+    <string name="login_email_hint">name@example.com</string>
+    <string name="sign_up_txt">Zaregistrovat se</string>
+    <string name="login_in_txt">Přihlásit se</string>
+    <string name="login_verifycode_format_str">Zadejte ověřovací kód, jenž vám byl zaslán na <Data><![CDATA[<b>%1$s</b>]]></Data></string>
+    <string name="verifycode_send_again">Poslat znovu za %1$ss</string>
+    <string name="send_again_verifycode">Poslat znovu</string>
+    <string name="mobile_invalid">Zadejte prosím platné telefonní číslo.</string>
+    <string name="feedback_comment_edittext_hint">Další komentáře</string>
+    <string name="feedback_top_tips">Velice nás zajímá vaše zpětná vazba</string>
+    <string name="unauthorizedlock_discrition">Pokud najdete kolo s neautorizovaným zámkem, pošlete nám prosím detaily o jeho poloze.</string>
+    <string name="default_payment_option">Výchozí způsob platby</string>
+    <string name="select_payment_option">Vyberte způsob platby</string>
+    <string name="need_help">Potřebujete pomoc?</string>
+    <string name="not_forget_anything">Nazapomeňte si nic na kole.</string>
+    <string name="tips">tipy</string>
+    <string name="unlock_success">Odemknutí bylo úspěšné</string>
+    <string name="unlock_fail">Odemknutí neúspěšné</string>
+    <string name="trips_end_price">Cena: %1$s</string>
+    <string name="ofoScore">ofo Skóre</string>
+    <string name="bind_card_content">Přidejte kreditní nebo debetní kartu, abyste si mohli užít vice jízd!</string>
+    <string name="view_last_trip">Zobrazit vaši poslední cestu?</string>
+    <string name="view_last_trip_description">Cena %1$s</string>
+    <string name="pay_token_invalid">Je nám líto, způsob platby, který jste vybrali, potřebuje v tuto chvíli opětovnou vazbu, chcete se znovu připojit?</string>
+    <string name="select_region">Vyberte Zemi/Region</string>
+    <string name="search_for_region">Vyhledejte zemi/oblast</string>
+    <!--2.2未翻译-->
+    <string name="pass_manage_button">Spravovat</string>
+    <string name="pass_header_cancle_dialog_title">Zrušit předplatné</string>
+    <string name="pass_header_cancle_dialog_content">Platnost vašeho aktuálního předplatného vyprší %1$s</string>
+    <string name="consider_it_again">Zvážit</string>
+    <string name="confirm_purchase">Potvrdit předplatné</string>
+    <string name="pass_no_periodicity_content">Chcete si předplatit ofo pas %1$s ofo na dobu %2$s? Předplatné se bude automaticky obnovovat, dokud jej nezrušíte.</string>
+    <string name="pass_periodicity_content">Chcete si předplatit ofo pas %1$s ofo na dobu %2$s? Předplatné začne platit od %3$s</string>
+    <string name="subscription_success">Aktivovali jste předplatné</string>
+    <string name="pass_your_bike_pass">Užijte si své jízdy!</string>
+    <string name="subscriptions_and_privacy">Předplatné a ochrana osobních údajů</string>
+    <string name="change_fail">Změna se nezdařila</string>
+    <string name="optional_bike_pass">Zvolte si ofo pas</string>
+    <string name="canceled_successfully">Zrušeno</string>
+    <!-- 新增 -->
+    <!--V2.3-->
+    <string name="home_guide_p_one">Najít kolo</string>
+    <string name="home_guide_c_one">Pusťte aplikaci a vyhledejte si všechna kola poblíž.</string>
+    <string name="home_guide_p_two">Skenovat a odemknout</string>
+    <string name="home_guide_c_two">Odemkněte kolo naskenováním QR kódu, který je na něm umístěn. Pak můžete vyrazit na cestu.</string>
+    <string name="home_guide_p_three">Zaparkovat a zamknout</string>
+    <string name="home_guide_c_three">Odstavte kolo bezpečně a na povoleném místě. Poté rukou stlačte zámek, čímž ukončíte cestu.</string>
+    <string name="never_mind">NEVADÕ</string>
+    <string name="yes_cancel">ANO, ZRUäIT</string>
+    <string name="end_trip_dialog_content">Než ukončíte svou jízdu, zkontrolujte prosím, zda je zámek uzavřený.</string>
+    <string name="auto_pay_failed">Automatická platba se nezdařila. Změňte prosím způsob platby nebo si připojte novou platební kartu.</string>
+    <string name="pay">ZAPLATIT</string>
+    <string name="protrait">Na výšku</string>
+    <!--V2.4-->
+    <string name="try_now">Vyzkouöet</string>
+    <string name="visitor_last_step">Douf·me, ûe se v·m jÌzda s ofo lÌbila. ProsÌm p¯ihlaste se a pokraËujte v jÌzdÏ!</string>
+    <string name="visitor_free_ride_banner">Získali jste %1$s jízd zdarma! Zaregistrujte se prosím později.</string>
+    <string name="card_cid_des">Čtyřmístný kód na vaší platební kartě. Naleznete jej na přední straně karty.</string>
+    <string name="card_cvc_des">Třímístný kód na vaší platební kartě. Naleznete jej na zadní straně karty.</string>
+    <string name="card_exp_date_des">Toto datum by mělo být uvedeno na přední straně karty, pod jejím číslem.</string>
+    <string name="contact_select_btn_content">pozvat přátele (%1$s)</string>
+    <string name="invite_friends_dialog_title">Podělili jste se s přáteli o volné jízdy!</string>
+    <string name="invite_friends_search_tip">Hledat</string>
+    <string name="invite_friends_no_data_content">Pro možnost vyhledávat v kontaktech k nim prosím povolte přístup v nabídce Nastavení</string>
+    <string name="invite_friends_permission_dialog_title">Přístup k adresáři</string>
+    <string name="invite_friends_permission_dialog_content">Připojíte-li své kontakty, budete moci pohodlně vybírat přátele, které pozvete do ofo. Za každého přítele, který se zaregistruje a půjčí si kolo, získáte 3 jízdy zdarma!</string>
+    <string name="invite_friends_no_allow">Nepovolit</string>
+    <string name="invite_friends_allow">Povolit</string>
+    <string name="invite_friends_top_content">Pozvěte své přátele do ofo. Když se zaregistrují, dostanete 3 jízdy zdarma!</string>
+    <string name="free_rides">Jízdy zdarma</string>
+    <string name="contact_access_failed">Nepovolili jste přístup ke kontaktům.</string>
+    <!--V2.5-->
+    <string name="facebook_login_btn_content">Pokračovat přes Facebook</string>
+    <string name="facebook_verify_code_tip">V zájmu zlepšování našich služeb nám prosím poskytněte své telefonní číslo</string>
+    <string name="facebook_input_code_hint">Ověřovací kód</string>
+    <string name="facebook_send">Odeslat</string>
+    <string name="share_this_ride">Sdílet tuto cestu</string>
+    <string name="share_reason">ofo je úžasné</string>
+    <string name="share_feel">#objevuj s ofo</string>
+    <string name="share_calories">Kalorie</string>
+    <string name="share_distance">Vzdálenost</string>
+    <string name="share_duration">Doba jízdy</string>
+    <string name="share_to_facebook">Sdílet na Facebooku</string>
+    <!--2.5遗留-->
+    <string name="share_failed">sdílení se nezdařilo</string>
+    <string name="share_success">sdílení bylo nastaveno</string>
+    <string name="share_cancel">sdílení bylo zrušeno</string>
+    <string name="share_thanks">Děkujeme vám za sdílení!</string>
+    <string name="gse_earned_tv">Za tuto jízdu jste získali GSE!</string>
+    <string name="photo_saved">Fotografie byla uložena</string>
+    <string name="share_carbon">CO2</string>
+    <!--V2.6-->
+    <string name="invite_friends_received_invite_code">Dostal zvací kód?</string>
+    <string name="invite_friends_tip_one">Vyberte přátele ze svých kontaktů</string>
+    <string name="invite_friends_tip_two">ofo za vás rozešle zvací SMS</string>
+    <string name="invite_friends_tip_three">Připomeňte příteli, aby se zaregistroval pomocí vašeho zvacího kódu</string>
+    <string name="invite_friends_invite_record">Přehled pozvánek</string>
+    <string name="invite_friend_success_invited">Pozvali jste přátele</string>
+    <string name="invite_friend_free_rides_received">Obdrželi jste jízdy zdarma</string>
+    <string name="invite_friend_share_invite_code">Sdílejte svůj zvací kód:</string>
+    <string name="invite_friend_setting_tip">Pro možnost vyhledávat v kontaktech k nim prosím povolte přístup v Nastaveních</string>
+    <string name="invite_friend_invite_preview">Náhled pozvánky</string>
+    <string name="invite_friend_message_content">【Ofo】Někdo z vašich přátel vám právě poslal 3 BEZPLATNÉ jízdy ofo! Chcete-li si jízdy vybrat, stáhněte si zde naši aplikaci</string>
+    <string name="invite_friends_invite_sent">Pozvánka byla odeslána</string>
+    <string name="invite_friends_invite_success_content">Poslali jste přátelům jízdy zdarma. Nezapomeňte jim připomenout, aby se zaregistrovali a vybrali si je.</string>
+    <string name="invite_friends_share_content">Posílám ti 3 BEZPLATNÉ jízdy ofo! Aby sis je mohl vybrat, stáhni si tuhle aplikaci:</string>
+    <string name="invite_friends_share_code_success">Zvací kód byl odeslán</string>
+    <string name="try_not_now_free">Nevyzkoušet</string>
+    <string name="conditions">Zobrazit obchodní podmínky</string>
+    <string name="enjoy">ENJOY THE RIDE</string>
+    <string name="free_week">Vyberte si týden jízd zdarma</string>
+    <string name="refresh">obnovit</string>
+    <string name="reload_pay_list">pro načtení seznamu plateb obnovte okno</string>
+    <string name="congratulations">Gratulujeme vám! Úspěšně jste si aktivovali týden jízd zdarma</string>
+</resources>

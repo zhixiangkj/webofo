@@ -1,0 +1,31 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><title>rideofo</title><link rel=icon type=image/ico sizes=16x16 href=/static/img/icons/ofo.ico><!--[if IE]><link rel="shortcut icon" href="/static/img/icons/favicon.ico"><![endif]--><link rel=manifest href=/static/manifest.json><meta name=theme-color content=#4DBA87><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=black><meta name=apple-mobile-web-app-title content=rideofo><meta name=application-name content=rideofo><link rel=apple-touch-icon href=/static/img/icons/drawable-xxxhdpi/ic_launcher.png><link rel=apple-touch-startup-image href=/static/img/icons/drawable-xxxhdpi/ic_launcher.png><link rel=mask-icon href=/static/img/icons/safari-pinned-tab.svg color=#4DBA87><meta name=msapplication-TileImage content=/static/img/icons/drawable-xxhdpi/ic_launcher.png><meta name=msapplication-TileColor content=#000000><link rel=preload href=/static/js/vendor.js as=script><link rel=preload href=/static/js/app.js as=script><link rel=preload href=/static/css/app.a5ff55a35d16a4e8acbd9d1ac2bdce9e.css as=style><link rel=preload href=/static/js/manifest.js as=script><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYa7N3MiIXLXaV_wXYTYVVbHJSYcQNrOM"></script><noscript><div>ofo web service need you enable javascript. If not please <a href="">download</a> our app to enable our service.</div></noscript><script>// var reg = /iP(ad|hone|od).+Version\/[\d\.]+.*Safari/i;
+      // function getSafariVer() {
+      //   var match = navigator.userAgent.match(/version\/(\d+(\.\d+)?)/i);
+      //   return parseFloat(match && match.length > 1 && match[1] || '');
+      // }
+      // if (reg.test(navigator.userAgent)) {
+      //   if (getSafariVer() < 11.3) {
+      //     alert('Please upgrade to iOS11.3 to use this app')
+      //   }
+      // }
+      onResize();
+      function onResize() {
+        var docEl = document.documentElement; // 获取html标签
+        // orientationchange方向改变事件
+        var resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize';
+        var recalc = function () {
+            // 当前设备视口宽度 去时刻更新设备的宽度
+            var clientWidth = docEl.clientWidth;
+            if (!clientWidth) { return; }
+            docEl.style.fontSize = 100 * (clientWidth / 750) / 2 + 'px';
+        };
+        if (!document.addEventListener) { return; }
+        window.addEventListener(resizeEvt, recalc, false);
+        document.addEventListener('DOMContentLoaded', recalc, false);
+      }
+      // window.onresize = onResize();</script><script src="https://www.googletagmanager.com/gtag/js?id=UA-112420721-7"></script><script>window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'UA-112420721-7');
+      window.gtagId = 'UA-112420721-7';</script><link href=/static/css/app.a5ff55a35d16a4e8acbd9d1ac2bdce9e.css rel=stylesheet></head><body><div id=app></div><script>!function(){"use strict";var o=Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));window.addEventListener("load",function(){"serviceWorker"in navigator&&("https:"===window.location.protocol||o)?navigator.serviceWorker.register("service-worker.js").then(function(o){console.log("sw form webpack"),o.onupdatefound=function(){if(navigator.serviceWorker.controller){var n=o.installing;n.onstatechange=function(){switch(n.state){case"installed":console.log("更新内容");break;case"redundant":throw new Error("The installing service worker became redundant.")}}}}}).catch(function(o){console.error("Error during service worker registration:",o)}):console.log("不支持")})}();</script><script type=text/javascript src=/static/js/manifest.js></script><script type=text/javascript src=/static/js/vendor.js></script><script type=text/javascript src=/static/js/app.js></script></body></html>

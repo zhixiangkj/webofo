@@ -1,0 +1,279 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/black_20</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:windowAnimationStyle">@style/animationLeftToRight</item>
+        <item name="android:windowBackground">@color/common_bg</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Splash" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.Light" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/color_202020</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="AppTheme.Black" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black_30</item>
+        <item name="colorPrimaryDark">@color/black_30</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:windowBackground">@color/black_30</item>
+    </style>
+
+    <style name="AppTheme.Yellow" parent="AppTheme">
+        <item name="colorPrimary">@color/color_fed801</item>
+        <item name="colorPrimaryDark">@color/color_fed801</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:windowBackground">@color/color_fed801</item>
+    </style>
+
+    <!--通用转场动画-->
+    <style name="animationLeftToRight" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+    </style>
+
+    <style name="BaseDialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+
+    <style name="LoadingDialog" parent="BaseDialog">
+        <item name="android:backgroundDimAmount">0.8</item>
+    </style>
+
+    <style name="CommonDialog" parent="BaseDialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="GridPasswordView" />
+
+    <style name="GridPasswordView.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/shape_rectangle_bottom_line</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/font_21sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#202020</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="GridPasswordView.EditText" parent="GridPasswordView.TextView">
+        <item name="android:cursorVisible">false</item>
+    </style>
+
+
+    <!--确认按钮样式-->
+    <style name="ConfirmButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/spacing_m</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginLeft">@dimen/spacing_x</item>
+        <item name="android:layout_marginRight">@dimen/spacing_x</item>
+        <item name="android:textSize">@dimen/font_l</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_btn_touch</item>
+    </style>
+
+    <style name="BottomToTopAnim">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <!-- 指定显示的动画xml -->
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+
+    <style name="TopToBottomAnim">
+        <item name="android:windowEnterAnimation">@anim/slide_in_top</item>
+    </style>
+
+    <!--选择拍照样式-->
+    <style name="RadioButtonTakePhoto">
+        <item name="android:layout_height">@dimen/spacing_12x</item>
+        <item name="android:textColor">@color/blue_10</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">@dimen/font_l</item>
+    </style>
+
+    <!--我的钱包充值选框样式-->
+    <style name="line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/gray_40</item>
+    </style>
+
+
+    <style name="InputTheme" />
+
+    <style name="GotItTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/spacing_9x</item>
+        <item name="android:background">@drawable/shape_rect_stroke_white_t0_r8</item>
+        <item name="android:text">@string/got_it</item>
+        <item name="android:textSize">@dimen/font_3x</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingRight">@dimen/spacing_13x</item>
+        <item name="android:paddingLeft">@dimen/spacing_13x</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">@dimen/spacing_9x</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <!--绑卡界面样式-->
+    <style name="AddCardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_et_white</item>
+        <item name="android:gravity">start|left|center_vertical</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textSize">@dimen/spacing_x</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--toolbar title 黑色-->
+    <style name="ToolbarTitleTheme.Black" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/font_21sp</item>
+        <item name="android:textColor">@color/color_202020</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!--toolbar title 黑色,大字-->
+    <style name="ToolbarTitleTheme.Black.Big" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/font_6x</item>
+        <item name="android:textColor">@color/color_202020</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!--toolbar title 白色-->
+    <style name="ToolbarTitleTheme.White" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/font_21sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!--伸缩toolbar theme 黑色-->
+    <style name="CollapsingToolbarTheme.Black" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/font_8x</item>
+        <item name="android:textColor">@color/color_202020</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!--2.0.0 Toolbar上黑色菜单文字的档式-->
+    <style name="ToolbarMenuTheme.Black" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="actionMenuTextColor">@color/color_202020</item>
+        <item name="android:textSize">@dimen/font_17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!--2.0.0 Toolbar上白色菜单文字的档式-->
+    <style name="ToolbarMenuTheme.White" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Yellow_Button_Style">
+        <item name="android:background">@drawable/shape_rect_soild_yellow_t0_r12</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/font_17sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingTop">@dimen/spacing_17dp</item>
+        <item name="android:paddingBottom">@dimen/spacing_17dp</item>
+        <item name="android:paddingLeft">@dimen/spacing_17dp</item>
+        <item name="android:paddingRight">@dimen/spacing_17dp</item>
+        <item name="android:textColor">@color/color_202020</item>
+    </style>
+
+    <style name="Indicator_Text_Style"><!--viewpage tab中字体大小的样式设置-->
+        <item name="android:textSize">@dimen/font_15</item>
+    </style>
+
+    <style name="TextNumber37_color202020">
+        <item name="android:textColor">@color/color_202020</item>
+        <item name="android:textSize">@dimen/font_37sp</item>
+    </style>
+
+    <style name="TextNumber14_60_transparent_black">
+        <item name="android:textColor">@color/color_99202020</item>
+        <item name="android:textSize">@dimen/font_s</item>
+    </style>
+
+    <style name="SideBar_TripInfo_top">
+        <item name="android:textSize">@dimen/font_23sp</item>
+        <item name="android:textColor">@color/color_202020</item>
+    </style>
+
+    <style name="SideBar_TripInfo_bottom">
+        <item name="android:layout_marginTop">@dimen/spacing_s</item>
+        <item name="android:textSize">@dimen/font_11sp</item>
+        <item name="android:textColor">@color/color_99202020</item>
+    </style>
+
+    <style name="SideBar_Item_left">
+        <item name="android:gravity">left|start</item>
+        <item name="android:paddingTop">@dimen/spacing_2x</item>
+        <item name="android:paddingBottom">@dimen/spacing_7dp</item>
+        <item name="android:textSize">@dimen/font_16sp</item>
+        <item name="android:textColor">@color/color_202020</item>
+    </style>
+
+    <style name="SideBar_Bottom">
+        <item name="android:paddingTop">@dimen/spacing_17dp</item>
+        <item name="android:textColor">@color/color_99202020</item>
+        <item name="android:paddingBottom">@dimen/spacing_17dp</item>
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+    <style name="PorifleHorizontalMargin">
+        <item name="android:layout_marginLeft">@dimen/spacing_3x</item>
+        <item name="android:layout_marginRight">@dimen/spacing_3x</item>
+    </style>
+
+    <style name="CustomDialogActivity" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item> <!--Dialog的windowFrame框为无 -->
+    </style>
+
+    <style name="EditProfileInfo">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

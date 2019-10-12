@@ -1,0 +1,320 @@
+<resources>
+    <!-- 通用 -->
+    <string name="enter_your_verification_code">Podaj kod weryfikacyjny</string>
+    <string name="enter_your_phone_number">Podaj nr telefonu</string>
+    <string name="whats_your_phone_number">Jaki jest Twój nr telefonu?</string>
+    <string name="re_send">Wyślij jeszcze raz </string>
+    <string name="name">Imię i nazwisko</string>
+    <string name="email">Adres e-mail</string>
+    <string name="phone_number">Nr telefonu</string>
+    <string name="log_out">Wyloguj</string>
+    <string name="save">Zapisz</string>
+    <string name="user_name">Nazwa użytkownika</string>
+    <string name="cancel">Anuluj</string>
+    <string name="done">Gotowe</string>
+    <string name="my_wallet">Mój portfel</string>
+    <string name="enter_the_bike_number">Wprowadź numer roweru</string>
+    <string name="detail">Szczegóły</string>
+    <string name="top_up">Doładowanie</string>
+    <string name="share_my_ride">Udostępnij przejażdżkę</string>
+    <string name="get_the_lock_code">Pobierz kod blokady %s</string>
+    <string name="use_bike_unlock_desc">Kod dla roweru nr</string>
+    <string name="my_coupons">Moje kupony</string>
+    <string name="trip_completed">Koniec podróży</string>
+    <string name="trip_to_start_ride">Rozpocznij podróż do celu!</string>
+    <string name="phone_number_not_in_service">Sprawdź, czy Twój telefon działa i czy masz dobry zasięg, a następnie spróbuj ponownie.</string>
+    <string name="invalid_phone_number">Sprawdź, czy numer telefonu jest poprawny.</string>
+    <string name="default_username">Użytkownik ofo</string>
+    <string name="edit">Edytuj</string>
+    <string name="pricing">Cennik</string>
+    <string name="oops">Oj...</string>
+    <string name="coupon_uppercase">KUPON</string>
+    <string name="ofo">ofo</string>
+    <string name="this_trip_cost_me">Koszt podróży</string>
+    <string name="lock_the_bike">Dziękujemy za podróż z ofo!\nNie zapomnij zablokować roweru.</string>
+    <string name="contact_us">Kontakt</string>
+    <string name="verifying">Trwa weryfikacja...</string>
+    <string name="my_trips">Moje podróże</string>
+    <string name="retry">Ponów</string>
+    <string name="coupons_available">Dostępne kupony</string>
+    <string name="user_guide">Podręcznik użytkownika</string>
+    <string name="about_ofo">Informacje o ofo</string>
+    <string name="trip_detail">Szczegóły podróży</string>
+    <string name="estimated_greenhouse_gas_emission_avoided">Przybliżone zmniejszenie emisji dwutlenku węgla </string>
+    <string name="verification_completed">Zakończono weryfikację</string>
+    <string name="invalid_verification_code">Nieprawidłowy kod uwierzytelniający</string>
+    <string name="log_in_sign_up">LOGOWANIE/REJESTRACJA</string>
+    <string name="login_privacy_hint">Twoje informacje są bezpiecznie przechowywane\ni nigdy nie zostaną opublikowane ani udostępnione.</string>
+    <string name="about_you">Informacje o Tobie</string>
+    <string name="username_length_invalid">Niestety... Nazwa użytkownika musi mieć od 3 do 15 znaków.</string>
+    <string name="username_contain_ofo_invalid">Niestety, nazwy użytkownika zawierające tekst \"ofo\" i \"admin\" są niedozwolone.</string>
+    <string name="email_invalid">Podaj prawidłowy adres e-mail.</string>
+    <string name="username_contain_emoji_invalid">Niestety... Nazwa użytkownika może zawierać jedynie litery i cyfry oraz znak podkreślenia.</string>
+    <string name="riding">Przejażdżka</string>
+    <string name="payment">Płatność</string>
+    <string name="new_guide_tip">Otrzymujesz od nas kupon! \nOferta ograniczona czasowo: za każdą zrealizowaną podróż otrzymasz od serwisu ofo bezpłatny kupon.</string>
+    <string name="new_guide_step_one_tip">Podaj numer roweru, z którego chcesz skorzystać.</string>
+    <string name="new_guide_step_two_tip">Pobierz kod blokady dla tego roweru</string>
+    <string name="new_guide_show_code_tip">Użyj kodu, by odblokować rower</string>
+    <string name="got_it">Rozumiem</string>
+    <string name="trip_no_data">Nie masz jeszcze zapisanej żadnej podróży. Zacznij przejażdżkę!</string>
+    <string name="repair_title">Co było nie w porządku z tym rowerem?</string>
+    <string name="need_repair">Wymagał naprawy</string>
+    <string name="report_the_problem">Zgłoś problem</string>
+    <string name="get_another_bike">Wypożycz inny rower</string>
+    <string name="report_error_msg">Wybierz przyczynę zgłoszenia</string>
+    <string name="ok">OK</string>
+    <string name="turn_on_the_lights">Włącz światła</string>
+    <string name="Quit">Zakończ</string>
+    <string name="use_the_bike">Skorzystaj z roweru</string>
+    <string name="turn_light_content">Dla własnego bezpieczeństwa zanim skorzystasz z roweru włącz przednie i tylne światło. Jeśli światła nie działają, zgłoś problem i skorzystaj z innego roweru.</string>
+    <string name="safety_content">Dbaj o bezpieczeństwo swoje i innych kierowców — przestrzegaj wszystkich przepisów ruchu drogowego.</string>
+    <string name="is_delete_credit_card">Usunąć tę kartę?</string>
+    <string name="delete_credit_card_content">Na pewno chcesz usunąć tę kartę?</string>
+    <string name="not_now">Nie teraz</string>
+    <string name="yes">Tak</string>
+    <string name="delete_only_credit_card">Na pewno chcesz usunąć tę kartę? Obecnie jest to Twoja jedyna metoda płatności.</string>
+    <string name="maximum_payment">Możesz mieć maksymalnie pięć metod płatności. Usuń którąś metodę płatności, zanim dodasz nową.</string>
+    <string name="payment_methods">Metody płatności</string>
+    <string name="change_default_payment_method">Na pewno chcesz zmienić domyślną metodę płatności?</string>
+    <string name="change_default_method">Zmienić metodę domyślną?</string>
+    <string name="please_enter_your_name">Podaj swoje imię i nazwisko</string>
+    <string name="please_enter_your_card_cvv">Podaj kod cvv karty</string>
+    <string name="please_enter_the_correct_expire_date">Podaj prawidłową datę ważności</string>
+    <string name="card_number">Nr karty</string>
+    <string name="log_out_from_paypal">Wylogować z konta PayPal?</string>
+    <string name="sign_out_paypal_content">Na pewno chcesz się wylogować z konta PayPal? Obecnie jest to Twoja jedyna metoda płatności.</string>
+    <string name="sign_out">Wyloguj</string>
+    <string name="holder_name">Imię i nazwisko właściciela karty</string>
+    <string name="credit_or_debit_card">Karta kredytowa lub debetowa</string>
+    <string name="report_success">Dziękujemy za zgłoszenie.\nZablokuj prawidłowo rower, a my podejmiemy odpowiednie działania.</string>
+    <!--dialog-->
+    <string name="not_supported_area">Niestety... Ta wersja serwisu ofo nie jest obsługiwana w Twoim regionie.</string>
+    <string name="add_payment_method">Dodaj metodę płatności</string>
+    <string name="get_verification_code">Pobierz kod uwierzytelniający</string>
+    
+    <!-- 安卓专有 -->
+    <string name="app_name">ofo</string>
+    <string name="use_bike_price_dialog_not_have_bike">Podany numer roweru nie istnieje.\nWprowadź prawidłowy numer roweru.</string>
+    <string name="check_the_number">Sprawdź numer</string>
+    <string name="setting">Ustawienia</string>
+    <string name="friendly_reminder">Powiadomienie</string>
+    <string name="update">Aktualizacja</string>
+    <string name="have_new_version">Nowa wersja </string>
+    <string name="ofo_has_no_camera_privilege">Serwis ofo nie ma uprawnień do korzystania z aparatu. \nPrzyznaj uprawnienia do korzystania z aparatu w ustawieniach urządzenia.</string>
+    <string name="ofo_has_no_location_privilege">Serwis ofo nie ma uprawnień do korzystania z lokalizacji. \nPrzyznaj uprawnienia do korzystania z lokalizacji w ustawieniach urządzenia.</string>
+    <string name="ofo_has_no_phone_status_privilege">Serwis ofo nie ma uprawnień do odczytywania statusu telefonu. Przyznaj uprawnienia do odczytywania statusu telefonu w ustawieniach urządzenia.</string>
+    <string name="please_enable_manually">Włącz GPS, by korzystać z roweru ofo.</string>
+    <string name="geoposition_not_allowed">Nie udało się ustalić lokalizacji. Przyznaj aplikacji ofo dostęp do danych lokalizacji.</string>
+    <string name="cycling_trip_in_progress">Trwa podróż rowerem.</string>
+    <string name="map_loading_failed">Nie udało się załadować mapy. Spróbuj ponownie.</string>
+    <string name="unable_to_get_your_location">Nie udało się pobrać danych lokalizacji. Sprawdź, czy aplikacja ma pozwolenie na dostęp do mapy, i spróbuj ponownie.</string>
+    <string name="exit_text">Prosto do zjazdu</string>
+    <string name="code_success">Twoje zgłoszenie zostało przyjęte. Czekaj...</string>
+    <string name="image_process_failed">Nie udało się odkodować obrazu</string>
+    <string name="cannot_create_image_file">Nie udało się utworzyć pliku obrazu</string>
+    <string name="submit">Prześlij</string>
+    <string name="close_lock_text">Zaparkuj rower w dozwolonym miejscu, w którym będą mogli z niego skorzystać inni, np. na wyznaczonym parkingu rowerowym lub na stojaku na rowery.</string>
+    <!-- Api service localError strings for toasting -->
+    <string name="api_error_io_error">Niestety... Przetworzenie zgłoszenia jest w tej chwili niemożliwe. Spróbuj ponownie.</string>
+    <string name="api_error_net_timeout">Błąd sieci. Sprawdź połączenie z siecią i spróbuj ponownie.</string>
+    <string name="api_error_not_logged_in">Zaloguj się.</string>
+    <string name="input_card_number">Podaj numer karty</string>
+    <string name="input_card_expire_date">Podaj datę ważności karty</string>
+    <string name="input_correct_card_number">Podaj prawidłowy numer karty</string>
+    
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="login_protocol_tip">Znam i akceptuję zasady serwisu ofo.</string>
+    <string name="login_success_tip">W drogę!</string>
+    <string name="did_not_receive_code"><Data><![CDATA[<u>Nie dotarł do mnie kod weryfikacyjny.</u>]]></Data></string>
+    <string name="hit_the_road">W drogę!</string>
+    <string name="contact_us_desc">Jak możemy ulepszyć nasze usługi? Napisz do nas, a zapoznamy się z Twoją wiadomością i odpowiemy.</string>
+    <string name="repair_tip">Przeanalizujemy zgłoszenie i sprawdzimy rower.</string>
+    <string name="sign_out_only_paypal_payment">Na pewno chcesz się wylogować z konta PayPal (%1$s)?</string>
+    <string name="set_new_card_to_default">Ustawić tę kartę (%1$s) jako domyślną metodę płatności?</string>
+    <string name="coupon_expire_time">Kupon można wykorzystać w dowolnym momencie przed *</string>
+    <string name="coupon_tip">Otrzymujesz<Data><![CDATA[<font color="#000000"><B> * kupon</B></font>]]></Data> na następną podróż!</string>
+    <string name="fee">Opłata (%1$s)</string>
+    <string name="balance">Saldo (%1$s)</string>
+    <string name="your_phone_number">Twój nr telefonu komórkowego to $.</string>
+    
+    
+    <!--*********************1.1.0**********************--> 
+    <!-- 通用 -->
+    <string name="riding_time_min">Czas jazdy</string>
+    <string name="trip_not_end">Nie ukończono podróży?</string>
+    <string name="ridding_tip">Zablokuj rower, a Twoja podróż zostanie \n ukończona w ciągu 1 min.</string>
+    <string name="confirm_and_pay">Potwierdź i zapłać</string>
+    <string name="paypal_account">Konto PayPal</string>
+    <string name="pay_now">Zapłać teraz</string>
+    <string name="my_deposit">Moja kaucja</string>
+    <string name="refund">Zwrot środków</string>
+    <!-- Strings related to QR-code scanning -->
+    <string name="scan_qr_title">Skanuj</string>
+    <string name="scan_qr_help">Pomoc</string>
+    <string name="scan_qr_prompt">Zeskanuj kod QR</string>
+    <string name="turn_on">Włącz</string>
+    <string name="scan_qr_manually_number">Numer roweru</string>
+    <string name="scan_qr_help_prompt">Zeskanuj kod QR na blokadzie, aby odblokować rower.</string>
+    <!--String related to BlueTooth open lock-->
+    <string name="ble_unlock_prompt">Odblokowywanie roweru...</string>
+    <string name="bluetooth_failed">Nie można odblokować roweru za pomocą Bluetooth. Odblokuj go kodem.</string>
+    <!--用车-->
+    <string name="ofo_safety_policy">Zasady bezpieczeństwa serwisu ofo</string>
+    <!--密码显示页面-->
+    <string name="is_refund_deposit">Czy chcesz otrzymać zwrot kaucji?</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="add_credit_or_debit_card">Dodaj kartę kredytową lub debetową</string>
+    <string name="refund_deposit">Zwrot kaucji</string>
+    <string name="back">Wstecz</string>
+    <string name="confirm_locked">Sprawdź, czy rower jest prawidłowo zablokowany.</string>
+    <string name="default_payment_method">Domyślna metoda płatności</string>
+    <string name="payment_successful">Pomyślnie dokonano płatności</string>
+    <string name="cvv_cvc_cid">CVV/CVC/CID</string>
+    <string name="mm_yy">MM/RR</string>
+    <string name="unlock">Odblokuj</string>
+    <string name="back_to_homepage">Powrót do strony głównej</string>
+    <string name="expires_on">Wygasa w dniu %s</string>
+    <string name="delete_this_card">Usuń tę kartę</string>
+    <string name="take_photo">Zrób zdjęcie</string>
+    <string name="choose_photo">Wybierz zdjęcie</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    
+    
+    <!--*********************1.1.1**********************--> 
+    <!-- 通用 -->
+    <string name="copy_to_clipboard">Skopiowano pomyślnie</string>
+    <string name="calling_codes">Kody wywołania</string>
+    <string name="promotions">Promocje</string>
+    <string name="inbox">Skrzynka odbiorcza</string>
+    <string name="cid">CID</string>
+    <string name="cvv_cvc">CVV/CVC</string>
+    <string name="card_exp">WYGASA Data</string>
+    <string name="card_exp_desc">Data wartości karty znajduje się na awersie pod jej numerem.</string>
+    <string name="cid_desc">Numer karty kredytowej to grupy cyfr na jej awersie.</string>
+    <string name="cvv_cvc_desc">CVC to trzycyfrowy kod na rewersie karty.</string>
+    <string name="walking">oddalasz</string>
+    <string name="away">się</string>
+    <string name="evaluated_on">Oceniono dnia</string>
+    <string name="credit_record">Historia kredytowa</string>
+    <string name="rules">Zasady</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="location_error">Sprawdź, czy zezwolono serwisowi ofo na dostęp do informacji o lokalizacji.</string>
+    <string name="report_broken_bike">Uszkodzony rower.</string>
+    <string name="report_unauthorized_lock">Rower z nieautoryzowaną blokadą</string>
+    <string name="report_no_available_bike">Brak dostępnych rowerów</string>
+    <string name="report_illegal_parking">Niedozwolone parkowanie</string>
+    <string name="home_unlock">Odblokuj</string>
+    
+    <!-- 安卓专有 -->
+    <string name="scan_qr_help_ok">OK</string>
+    <string name="scan_qr_failed">Skanowanie nie powiodło się, wprowadź numer roweru.</string>
+    <string name="scan_qr_no_net">Sprawdź, czy masz połączenie z Internetem.</string>
+    <string name="scan_qr_time_out">Skanowanie nie powiodło się. Wprowadź numer roweru.</string>
+    <string name="scan_qr_mechanical_input">Ten rower ma blokadę mechaniczną. Wprowadź kod ręcznie.</string>
+    <string name="ble_unlock_progress_0">0%</string>
+    <string name="ble_unlock_progress_30">30%</string>
+    <string name="ble_unlock_progress_40">40%</string>
+    <string name="ble_unlock_progress_50">50%</string>
+    <string name="ble_unlock_progress_60">60%</string>
+    <string name="ble_unlock_progress_70">70%</string>
+    <string name="ble_unlock_progress_80">80%</string>
+    <string name="ble_unlock_progress_100">100%</string>
+    <string name="ble_unlock_fail_title">Oj</string>
+    <string name="ble_unlock_get_pwd">Pobierz kod</string>
+    <string name="use_bike_pwd_help_title">Pomoc</string>
+    <string name="no_data">Brak danych</string>
+    <string name="no_coupons">Brak kuponów</string>
+    <string name="no_activities">Brak działań w tej chwili</string>
+    <string name="parsing_error">Błąd analizy danych</string>
+    <string name="pricing_instruction">Oferta ograniczona czasowo: za każdą odbytą podróż otrzymasz od serwisu ofo kupon o wartości <Data><![CDATA[<font color="#000000"><B>%1$s</B></font>]]></Data>.</string>
+
+    <!-- 安卓和iOS处理方式不同 -->
+    <string name="distance">Odległość (%1$s)</string>
+    <string name="duration">Czas trwania (%1$s)</string>
+    <string name="carbon">Emisja dwutlenku węgla (%1$s)</string>
+    <string name="current_costs">Opłata za podróż: <Data><![CDATA[<font color="#202020"><big>%1$s</big></font>]]></Data></string>
+    <string name="deposit">Kaucja (%1$s)</string>
+    <string name="bike_no"> Nr roweru</string>
+    <string name="price_amount">Cena</string><!--用车费用-->
+    <string name="coupon_amount">Kupon</string><!--用车费用-->
+    <string name="use_bike_price_msg">%1$s/godzinę, maks. opłata %2$s</string><!--用车计费规则-->
+    <string name="use_bike_pwd_repair_prompt">Sprawdź rower zanim zaczniesz z niego korzystać. Jeżeli wystąpią problemy, możesz zgłosić je <Data><![CDATA[<u><font color="#007AFF">tutaj</font></u>]]></Data> w ciągu 2 min</string>
+    <string name="my_credit_value">Mój kredyt: %1$s</string>
+
+    <!-- ios专用 -->
+    <string name="add_and_pay">Dodaj i zapłać</string>
+    <string name="no">NIE</string>
+    <string name="load_web_page_fail">Nie można załadować strony internetowej.</string>
+    <string name="share_cancelled">Anulowano zamówienie.</string>
+    <string name="no_facebook_account">Brak konta w serwisie Facebook</string>
+    <string name="facebook_setting">Brak zarejestrowanych kont serwisu Facebook. Konto w serwisie Facebook można dodać lub utworzyć, przechodząc do sekcji Ustawienia</string>
+    <string name="no_twitter_account">Brak konta w serwisie Twitter</string>
+    <string name="twitter_setting">Brak zarejestrowanych kont w serwisie Twitter. Konto w serwisie Twitter można dodać lub utworzyć, przechodząc do sekcji Ustawienia</string>
+    <string name="confirm_turnon_bluetooth">Sprawdź, czy funkcja Bluetooth jest włączona</string>
+    <string name="unlock_with_bluetooth">Odblokuj za pomocą Bluetooth</string>
+    <string name="unlock_with_lock_code">Odblokuj za pomocą kodu blokady</string>
+    <string name="server_error">Przepraszamy, nasze systemy są zajęte. Spróbuj ponownie później.</string>
+    <string name="camera_privacy_title">Zezwól serwisowi ofo na dostęp do aparatu</string>
+    <string name="camera_access_denied">Sprawdź, czy zezwolono serwisowi ofo na dostęp do aparatu. Aby to sprawdzić, przejdź do sekcji \"Ustawienia -> Prywatność -> Aparat\"</string>
+    <string name="settings">Ustawienia</string>
+    <string name="pricing_tap_to_retry">Wystąpił wyjątek sieci. Dotknij, aby ponowić próbę.</string>
+    <string name="photo_access_denied">Sprawdź, czy zezwolono serwisowi ofo na dostęp do zdjęć. Aby to sprawdzić, przejdź do \”Ustawienia -> Prywatność -> Aparat\"</string>
+    <string name="here"> tutaj </string>
+    <string name="privacy_camera_usage_description">Serwis ofo musi użyć Twojego aparatu, aby umożliwić odpowiednią obsługę.</string>
+    <string name="privacy_photo_library_usage_description">Serwis ofo musi użyć Twojej biblioteki zdjęć.</string>
+    <string name="privacy_location_always_usage_description">W celu rejestracji trasy serwis ofo wymaga Twojej lokalizacji.</string>
+    <string name="privacy_bluetooth_peripheral_usage_description">Serwis ofo musi użyć funkcji Bluetooth, aby przyspieszyć odblokowanie</string>
+    <string name="notification_error_ssl_cert_invalid">Nieprawidłowy certyfikat ssl</string>
+    
+    <!--1.1.2 通用-->
+    <string name="invite_friends">Zaproś znajomych</string>
+    <string name="your_invitation_code">Twój kod zaproszenia</string>
+    <string name="share_invitation_code_content">Pobierz aplikację ofo, wprowadź kod promocyjny i skorzystaj z roweru BEZPŁATNIE.</string>
+    <string name="ride_illegal_parking">Niestety nie możesz dokończyć tej podróży. Zaparkuj rower w dozwolonym miejscu, a następnie dotknij przycisku \'Koniec podróży\'.</string>
+    <string name="refund_tip">Wybierz przyczynę zwrotu kaucji</string>
+    <string name="none_of_these_above">Żadne z powyższych</string>
+    <string name="tab_reason">Wpisz przyczynę tutaj</string>
+    <string name="next">Dalej</string>
+
+    <!--v1.1.2-->
+    <string name="coupons_unavailable">Brak dostępnych kuponów</string>
+    <string name="deposit_description">W dowolnej chwili można poprosić o zwrot kaucji.</string>
+    <string name="deposit_refund_success">Wniosek o zwrot został złożony. Zwrot środków następuje zazwyczaj w ciągu 2–15 dni roboczych.</string>
+    <string name="bind_card_prompt">Przed rozpoczęciem jazdy dodaj metodę płatności (karta kredytowa/karda debetowa) do swojego konta - T&amp;Cs zatwierdź</string>
+    <string name="bike_parking_area">Obszar parkowania rowerów</string>
+    <string name="continue_common">Kontynuuj</string>
+    <string name="repair_a_broken_bike">Zgłoś uszkodzony rower</string>
+    <string name="tips_repair_take_photo">Zrób zdjęcie uszkodzonej części roweru</string>
+    <string name="brake">Hamulec</string>
+    <string name="not_show_again">Nie pokazuj więcej</string>
+    <string name="legal_area">Dozwolony obszar</string>
+    <!-- 安卓和iOS处理方式不同 -->
+    <!--v1.1.3-->
+    <string name="calorie">Kalorie(%1$s)</string>
+    <string name="gender">płeć</string>
+    <string name="birthday">data urodzenia</string>
+    <string name="male">Mężczyzna</string>
+    <string name="female">Kobieta</string>
+    <string name="please_select_the_broken_bike_part">Wybierz uszkodzoną część roweru</string>
+
+    <!--v1.1.5 通用-->
+    <string name="invite_friends_tips">Zaproś znajomego do ofo, a oboje otrzymacie bezpłatne jazdy!</string>
+    <string name="my_credit">Moje punkty kredytowe</string>
+    <string name="reservation">Rezerwacja</string>
+    <string name="reserve_title">Możesz zarezerwować rower na 15 minut</string>
+    <string name="reserve_content">Możesz zarezerwować lub używać tylko jednego roweru na raz.</string>
+    <string name="make_reserve">Zarezerwuj</string>
+    <string name="make_another_reserve">Dokonaj kolejnej rezerwacji</string>
+    <string name="use_now">Użyj teraz</string>
+    <string name="reserve_expired_prompt">Rezerwacja wygasa za</string>
+    <string name="scanning">Skanowanie</string>
+    <string name="bike_number">Numer roweru</string>
+    <string name="reserve">Zarezerwuj</string>
+    <string name="cancel_success">Anulowanie powiodło się</string>
+    <string name="cancel_failed">Anulowanie nie powiodło się</string>
+
+    <string name="payment_failed">Płatność nie powiodła się</string>
+    <string name="payment_canceled">Płatność anulowana</string>
+</resources>
